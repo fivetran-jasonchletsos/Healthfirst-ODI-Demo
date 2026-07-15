@@ -1,0 +1,170 @@
+[
+  {
+    "campaign_id": "HF-CAMP-0001",
+    "campaign_name": "Annual Wellness Visit Reminder",
+    "audience_size": 52455,
+    "response_rate_pct": 10.6,
+    "sent_date": "2025-07-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0002",
+    "campaign_name": "Postpartum Care Follow-up",
+    "audience_size": 3556,
+    "response_rate_pct": 22.6,
+    "sent_date": "2026-07-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0003",
+    "campaign_name": "Chronic Care Management Enrollment",
+    "audience_size": 49124,
+    "response_rate_pct": 30.4,
+    "sent_date": "2026-06-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0004",
+    "campaign_name": "Annual Wellness Visit Reminder",
+    "audience_size": 59386,
+    "response_rate_pct": 17.8,
+    "sent_date": "2026-07-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0005",
+    "campaign_name": "Chronic Care Management Enrollment",
+    "audience_size": 56799,
+    "response_rate_pct": 25.8,
+    "sent_date": "2026-01-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0006",
+    "campaign_name": "Medicare Advantage Star Ratings Survey",
+    "audience_size": 40069,
+    "response_rate_pct": 8.4,
+    "sent_date": "2026-01-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0007",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 32296,
+    "response_rate_pct": 25.5,
+    "sent_date": "2025-04-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0008",
+    "campaign_name": "Flu Vaccination Outreach",
+    "audience_size": 58051,
+    "response_rate_pct": 19.4,
+    "sent_date": "2025-04-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0009",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 29277,
+    "response_rate_pct": 35.3,
+    "sent_date": "2025-11-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0010",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 31698,
+    "response_rate_pct": 23.2,
+    "sent_date": "2025-12-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0011",
+    "campaign_name": "Annual Wellness Visit Reminder",
+    "audience_size": 51299,
+    "response_rate_pct": 36.2,
+    "sent_date": "2026-09-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0012",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 19962,
+    "response_rate_pct": 16.2,
+    "sent_date": "2026-06-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0013",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 11712,
+    "response_rate_pct": 6.3,
+    "sent_date": "2025-04-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0014",
+    "campaign_name": "Flu Vaccination Outreach",
+    "audience_size": 12725,
+    "response_rate_pct": 4.6,
+    "sent_date": "2026-12-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0015",
+    "campaign_name": "Flu Vaccination Outreach",
+    "audience_size": 32185,
+    "response_rate_pct": 8.0,
+    "sent_date": "2026-01-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0016",
+    "campaign_name": "Flu Vaccination Outreach",
+    "audience_size": 50531,
+    "response_rate_pct": 5.6,
+    "sent_date": "2026-02-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0017",
+    "campaign_name": "Flu Vaccination Outreach",
+    "audience_size": 32995,
+    "response_rate_pct": 32.4,
+    "sent_date": "2026-08-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0018",
+    "campaign_name": "Annual Wellness Visit Reminder",
+    "audience_size": 42264,
+    "response_rate_pct": 7.5,
+    "sent_date": "2025-07-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0019",
+    "campaign_name": "Diabetes Screening Campaign",
+    "audience_size": 44152,
+    "response_rate_pct": 17.6,
+    "sent_date": "2025-12-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0020",
+    "campaign_name": "Chronic Care Management Enrollment",
+    "audience_size": 36735,
+    "response_rate_pct": 9.2,
+    "sent_date": "2025-11-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0021",
+    "campaign_name": "Postpartum Care Follow-up",
+    "audience_size": 12524,
+    "response_rate_pct": 19.4,
+    "sent_date": "2026-06-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0022",
+    "campaign_name": "Chronic Care Management Enrollment",
+    "audience_size": 55283,
+    "response_rate_pct": 19.9,
+    "sent_date": "2026-03-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0023",
+    "campaign_name": "Postpartum Care Follow-up",
+    "audience_size": 17872,
+    "response_rate_pct": 25.9,
+    "sent_date": "2025-08-01"
+  },
+  {
+    "campaign_id": "HF-CAMP-0024",
+    "campaign_name": "Medicare Advantage Star Ratings Survey",
+    "audience_size": 33882,
+    "response_rate_pct": 12.5,
+    "sent_date": "2025-03-01"
+  }
+]

@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: fct_claims
+    description: "One row per claim with member and provider attributes joined in."
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_member_cases
+    description: "One row per Salesforce member-service case with member plan type joined in."
+    columns:
+      - name: case_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_campaign_performance
+    description: "One row per Salesforce outreach campaign."
+    columns:
+      - name: campaign_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_document_inventory
+    description: "One row per file landed from S3/SharePoint, classified PHI vs. Internal."
+    columns:
+      - name: doc_id
+        tests:
+          - unique
+          - not_null

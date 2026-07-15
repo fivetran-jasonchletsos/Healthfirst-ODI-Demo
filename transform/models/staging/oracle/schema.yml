@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: stg_oracle__members
+    description: "One row per Healthfirst member (staged from the members seed -- represents the Oracle Database policy/enrollment source)."
+    columns:
+      - name: member_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_oracle__providers
+    description: "One row per network provider (staged from the providers seed -- represents the Oracle Database provider-network source)."
+    columns:
+      - name: provider_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_oracle__claims
+    description: "One row per claim (staged from the claims seed -- represents the Oracle Database claims-admin source)."
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+      - name: member_id
+        tests:
+          - not_null
+      - name: provider_id
+        tests:
+          - not_null

@@ -1,0 +1,49 @@
+name: 'hf_pipeline'
+version: '1.0.0'
+config-version: 2
+
+profile: 'hf_pipeline'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  hf_pipeline:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
+
+seeds:
+  hf_pipeline:
+    members:
+      +column_types:
+        member_id: varchar
+    providers:
+      +column_types:
+        provider_id: varchar
+    claims:
+      +column_types:
+        claim_id: varchar
+        member_id: varchar
+        provider_id: varchar
+    salesforce_cases:
+      +column_types:
+        case_id: varchar
+        member_id: varchar
+    salesforce_campaigns:
+      +column_types:
+        campaign_id: varchar
+    documents_manifest:
+      +column_types:
+        doc_id: varchar
+        subject_id: varchar

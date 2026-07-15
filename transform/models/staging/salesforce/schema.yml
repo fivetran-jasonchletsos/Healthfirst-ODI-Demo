@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: stg_salesforce__cases
+    description: "One row per member service case (staged from the salesforce_cases seed -- represents the Salesforce CRM source)."
+    columns:
+      - name: case_id
+        tests:
+          - unique
+          - not_null
+      - name: member_id
+        tests:
+          - not_null
+
+  - name: stg_salesforce__campaigns
+    description: "One row per member outreach campaign (staged from the salesforce_campaigns seed -- represents the Salesforce CRM source)."
+    columns:
+      - name: campaign_id
+        tests:
+          - unique
+          - not_null

@@ -1,0 +1,2201 @@
+case_id,member_id,case_type,priority,status,created_date
+HF-CASE-000001,HF-M-002531,Benefits Question,Low,Closed,2025-07-19
+HF-CASE-000002,HF-M-002215,Care Coordination,Low,Closed,2025-04-11
+HF-CASE-000003,HF-M-002572,Prior Authorization Follow-up,Low,Closed,2026-03-05
+HF-CASE-000004,HF-M-001108,Care Coordination,Low,Open,2026-06-12
+HF-CASE-000005,HF-M-001686,Appeal / Grievance,Medium,Closed,2026-03-27
+HF-CASE-000006,HF-M-003323,Enrollment Support,Low,Closed,2025-08-05
+HF-CASE-000007,HF-M-001890,Benefits Question,Urgent,Closed,2026-10-22
+HF-CASE-000008,HF-M-000761,Prior Authorization Follow-up,Low,Closed,2026-05-13
+HF-CASE-000009,HF-M-000404,Prior Authorization Follow-up,Low,Closed,2025-07-23
+HF-CASE-000010,HF-M-002050,Benefits Question,Urgent,Closed,2025-07-24
+HF-CASE-000011,HF-M-002852,Prior Authorization Follow-up,Low,Closed,2025-11-06
+HF-CASE-000012,HF-M-001580,Appeal / Grievance,Low,Closed,2025-01-24
+HF-CASE-000013,HF-M-003996,Prior Authorization Follow-up,High,Closed,2026-05-17
+HF-CASE-000014,HF-M-000218,Enrollment Support,High,Closed,2026-11-25
+HF-CASE-000015,HF-M-002083,Prior Authorization Follow-up,Medium,Open,2025-01-25
+HF-CASE-000016,HF-M-002222,Provider Network Inquiry,Urgent,Escalated,2026-09-10
+HF-CASE-000017,HF-M-002217,Care Coordination,Medium,Closed,2026-05-03
+HF-CASE-000018,HF-M-002866,Appeal / Grievance,Low,Escalated,2025-03-20
+HF-CASE-000019,HF-M-001685,Appeal / Grievance,Medium,Closed,2025-09-06
+HF-CASE-000020,HF-M-003212,Care Coordination,Low,Closed,2026-03-23
+HF-CASE-000021,HF-M-000318,Provider Network Inquiry,Medium,Closed,2025-04-26
+HF-CASE-000022,HF-M-003658,Care Coordination,Medium,Closed,2026-12-15
+HF-CASE-000023,HF-M-001688,Care Coordination,Medium,Closed,2026-04-15
+HF-CASE-000024,HF-M-002282,Prior Authorization Follow-up,High,Closed,2026-06-19
+HF-CASE-000025,HF-M-002965,Prior Authorization Follow-up,Urgent,Open,2025-09-20
+HF-CASE-000026,HF-M-003710,Prior Authorization Follow-up,Medium,Closed,2025-09-24
+HF-CASE-000027,HF-M-001818,Appeal / Grievance,Urgent,Closed,2026-11-18
+HF-CASE-000028,HF-M-003435,Prior Authorization Follow-up,Low,Closed,2026-08-24
+HF-CASE-000029,HF-M-000868,Enrollment Support,High,Closed,2025-04-14
+HF-CASE-000030,HF-M-000269,Benefits Question,Urgent,Closed,2025-07-10
+HF-CASE-000031,HF-M-000195,Prior Authorization Follow-up,Medium,Closed,2025-11-18
+HF-CASE-000032,HF-M-000634,Care Coordination,Low,Closed,2026-12-20
+HF-CASE-000033,HF-M-001674,Enrollment Support,High,Closed,2025-03-09
+HF-CASE-000034,HF-M-001408,Provider Network Inquiry,Urgent,Closed,2025-04-22
+HF-CASE-000035,HF-M-003354,Appeal / Grievance,Low,Closed,2026-03-03
+HF-CASE-000036,HF-M-003325,Benefits Question,Medium,Closed,2026-06-24
+HF-CASE-000037,HF-M-003191,Care Coordination,High,Closed,2026-04-18
+HF-CASE-000038,HF-M-003824,Enrollment Support,Low,Closed,2026-11-20
+HF-CASE-000039,HF-M-003686,Provider Network Inquiry,Low,Closed,2025-01-07
+HF-CASE-000040,HF-M-001029,Care Coordination,High,Closed,2026-10-25
+HF-CASE-000041,HF-M-003230,Care Coordination,High,Closed,2025-05-19
+HF-CASE-000042,HF-M-001161,Enrollment Support,Medium,Closed,2025-08-02
+HF-CASE-000043,HF-M-001718,Appeal / Grievance,Medium,Closed,2025-05-20
+HF-CASE-000044,HF-M-003410,Prior Authorization Follow-up,Medium,Closed,2026-10-04
+HF-CASE-000045,HF-M-002019,Care Coordination,Low,Open,2025-05-06
+HF-CASE-000046,HF-M-000747,Enrollment Support,Low,Escalated,2026-10-23
+HF-CASE-000047,HF-M-003157,Enrollment Support,High,Closed,2025-08-02
+HF-CASE-000048,HF-M-000148,Benefits Question,Low,Closed,2026-01-20
+HF-CASE-000049,HF-M-000099,Appeal / Grievance,Low,Closed,2025-08-06
+HF-CASE-000050,HF-M-003443,Appeal / Grievance,Medium,Closed,2025-03-15
+HF-CASE-000051,HF-M-003176,Appeal / Grievance,Medium,Closed,2025-02-12
+HF-CASE-000052,HF-M-000697,Appeal / Grievance,Low,Open,2026-02-16
+HF-CASE-000053,HF-M-002142,Prior Authorization Follow-up,High,Closed,2026-12-28
+HF-CASE-000054,HF-M-000371,Benefits Question,Medium,Closed,2026-05-22
+HF-CASE-000055,HF-M-001581,Care Coordination,Medium,Closed,2026-06-13
+HF-CASE-000056,HF-M-002355,Prior Authorization Follow-up,Low,Closed,2025-09-12
+HF-CASE-000057,HF-M-000934,Prior Authorization Follow-up,Urgent,Open,2026-05-20
+HF-CASE-000058,HF-M-000698,Provider Network Inquiry,Medium,Closed,2026-02-26
+HF-CASE-000059,HF-M-003134,Appeal / Grievance,High,Closed,2026-04-12
+HF-CASE-000060,HF-M-003156,Benefits Question,Low,Closed,2025-02-03
+HF-CASE-000061,HF-M-002846,Enrollment Support,Medium,Closed,2025-07-24
+HF-CASE-000062,HF-M-003238,Benefits Question,Low,Closed,2025-10-24
+HF-CASE-000063,HF-M-002686,Provider Network Inquiry,High,Closed,2026-10-23
+HF-CASE-000064,HF-M-000367,Appeal / Grievance,Low,Closed,2025-08-19
+HF-CASE-000065,HF-M-002496,Appeal / Grievance,Medium,Escalated,2026-12-01
+HF-CASE-000066,HF-M-000659,Provider Network Inquiry,Medium,Closed,2026-05-10
+HF-CASE-000067,HF-M-003470,Appeal / Grievance,Medium,Open,2026-08-15
+HF-CASE-000068,HF-M-001744,Care Coordination,Medium,Closed,2025-07-19
+HF-CASE-000069,HF-M-003035,Enrollment Support,Medium,Closed,2026-03-18
+HF-CASE-000070,HF-M-001697,Enrollment Support,Low,Closed,2025-09-17
+HF-CASE-000071,HF-M-003528,Care Coordination,Low,Closed,2026-05-10
+HF-CASE-000072,HF-M-003938,Appeal / Grievance,Low,Open,2025-06-18
+HF-CASE-000073,HF-M-002658,Enrollment Support,High,Open,2026-06-05
+HF-CASE-000074,HF-M-001608,Enrollment Support,Medium,Closed,2025-07-25
+HF-CASE-000075,HF-M-000411,Prior Authorization Follow-up,Medium,Closed,2025-05-28
+HF-CASE-000076,HF-M-003115,Enrollment Support,Medium,Closed,2025-01-13
+HF-CASE-000077,HF-M-000884,Appeal / Grievance,Low,Escalated,2026-01-15
+HF-CASE-000078,HF-M-003204,Prior Authorization Follow-up,Low,Closed,2026-09-14
+HF-CASE-000079,HF-M-002073,Prior Authorization Follow-up,Low,Closed,2025-08-26
+HF-CASE-000080,HF-M-000989,Enrollment Support,Medium,Open,2025-10-06
+HF-CASE-000081,HF-M-000219,Appeal / Grievance,Medium,Closed,2025-02-22
+HF-CASE-000082,HF-M-001565,Provider Network Inquiry,Low,Closed,2026-08-20
+HF-CASE-000083,HF-M-000791,Provider Network Inquiry,Medium,Closed,2026-05-13
+HF-CASE-000084,HF-M-002466,Appeal / Grievance,Medium,Closed,2025-01-20
+HF-CASE-000085,HF-M-001751,Appeal / Grievance,Low,Closed,2025-03-22
+HF-CASE-000086,HF-M-003471,Enrollment Support,Medium,Closed,2025-04-12
+HF-CASE-000087,HF-M-000868,Prior Authorization Follow-up,Low,Closed,2025-08-23
+HF-CASE-000088,HF-M-000153,Benefits Question,Medium,Open,2026-01-21
+HF-CASE-000089,HF-M-000265,Provider Network Inquiry,High,Closed,2026-03-02
+HF-CASE-000090,HF-M-001677,Provider Network Inquiry,Medium,Open,2026-08-13
+HF-CASE-000091,HF-M-001995,Care Coordination,High,Closed,2026-02-07
+HF-CASE-000092,HF-M-003497,Appeal / Grievance,Medium,Closed,2025-10-16
+HF-CASE-000093,HF-M-000537,Appeal / Grievance,High,Closed,2026-04-05
+HF-CASE-000094,HF-M-002529,Benefits Question,Medium,Closed,2026-06-15
+HF-CASE-000095,HF-M-001271,Provider Network Inquiry,Urgent,Closed,2025-07-15
+HF-CASE-000096,HF-M-003502,Care Coordination,Low,Closed,2026-06-01
+HF-CASE-000097,HF-M-000010,Enrollment Support,Medium,Open,2026-11-02
+HF-CASE-000098,HF-M-001055,Enrollment Support,High,Closed,2025-06-28
+HF-CASE-000099,HF-M-000838,Appeal / Grievance,Medium,Open,2025-06-23
+HF-CASE-000100,HF-M-002183,Enrollment Support,Medium,Closed,2026-11-18
+HF-CASE-000101,HF-M-001202,Enrollment Support,Low,Closed,2026-02-24
+HF-CASE-000102,HF-M-001809,Provider Network Inquiry,Low,Open,2026-07-01
+HF-CASE-000103,HF-M-000402,Provider Network Inquiry,High,Closed,2026-08-22
+HF-CASE-000104,HF-M-002338,Provider Network Inquiry,Urgent,Escalated,2026-10-12
+HF-CASE-000105,HF-M-002852,Care Coordination,High,Closed,2026-03-09
+HF-CASE-000106,HF-M-002762,Care Coordination,Medium,Open,2025-11-14
+HF-CASE-000107,HF-M-000212,Benefits Question,High,Closed,2025-05-24
+HF-CASE-000108,HF-M-003288,Care Coordination,Medium,Closed,2025-10-26
+HF-CASE-000109,HF-M-001282,Care Coordination,High,Closed,2025-12-24
+HF-CASE-000110,HF-M-002085,Care Coordination,Low,Closed,2026-05-26
+HF-CASE-000111,HF-M-001483,Prior Authorization Follow-up,High,Open,2026-11-06
+HF-CASE-000112,HF-M-001291,Provider Network Inquiry,Medium,Closed,2025-09-13
+HF-CASE-000113,HF-M-003108,Provider Network Inquiry,Low,Closed,2025-12-24
+HF-CASE-000114,HF-M-003673,Care Coordination,Medium,Closed,2025-07-05
+HF-CASE-000115,HF-M-002207,Prior Authorization Follow-up,Medium,Closed,2025-11-02
+HF-CASE-000116,HF-M-000163,Care Coordination,Medium,Closed,2025-02-07
+HF-CASE-000117,HF-M-000752,Care Coordination,High,Closed,2026-01-21
+HF-CASE-000118,HF-M-003129,Benefits Question,Low,Open,2026-09-05
+HF-CASE-000119,HF-M-000609,Benefits Question,High,Open,2025-03-11
+HF-CASE-000120,HF-M-002517,Benefits Question,Medium,Closed,2026-08-07
+HF-CASE-000121,HF-M-002434,Enrollment Support,Medium,Closed,2026-01-18
+HF-CASE-000122,HF-M-001471,Benefits Question,Low,Escalated,2026-03-25
+HF-CASE-000123,HF-M-003409,Benefits Question,High,Closed,2025-05-25
+HF-CASE-000124,HF-M-002772,Enrollment Support,High,Closed,2026-10-26
+HF-CASE-000125,HF-M-001305,Prior Authorization Follow-up,Medium,Closed,2025-01-16
+HF-CASE-000126,HF-M-000253,Enrollment Support,Medium,Closed,2025-08-07
+HF-CASE-000127,HF-M-001593,Enrollment Support,High,Closed,2026-11-06
+HF-CASE-000128,HF-M-001933,Prior Authorization Follow-up,Urgent,Closed,2025-02-18
+HF-CASE-000129,HF-M-001233,Benefits Question,Medium,Closed,2025-06-05
+HF-CASE-000130,HF-M-002353,Appeal / Grievance,Medium,Closed,2025-10-01
+HF-CASE-000131,HF-M-000251,Enrollment Support,Low,Closed,2026-09-05
+HF-CASE-000132,HF-M-001328,Prior Authorization Follow-up,Low,Closed,2025-01-06
+HF-CASE-000133,HF-M-000642,Appeal / Grievance,Urgent,Closed,2025-11-12
+HF-CASE-000134,HF-M-001235,Appeal / Grievance,High,Closed,2025-04-22
+HF-CASE-000135,HF-M-002790,Benefits Question,High,Closed,2025-07-09
+HF-CASE-000136,HF-M-003983,Care Coordination,Medium,Closed,2025-12-14
+HF-CASE-000137,HF-M-003829,Appeal / Grievance,Medium,Closed,2025-08-03
+HF-CASE-000138,HF-M-002542,Provider Network Inquiry,Medium,Closed,2026-02-01
+HF-CASE-000139,HF-M-000536,Care Coordination,High,Escalated,2025-12-10
+HF-CASE-000140,HF-M-001642,Benefits Question,Low,Open,2025-03-26
+HF-CASE-000141,HF-M-000684,Appeal / Grievance,High,Closed,2025-06-06
+HF-CASE-000142,HF-M-002804,Benefits Question,High,Closed,2025-08-16
+HF-CASE-000143,HF-M-002466,Provider Network Inquiry,High,Closed,2025-05-15
+HF-CASE-000144,HF-M-002621,Care Coordination,Low,Open,2026-03-05
+HF-CASE-000145,HF-M-001321,Appeal / Grievance,Low,Closed,2026-06-20
+HF-CASE-000146,HF-M-000319,Prior Authorization Follow-up,Medium,Open,2025-10-06
+HF-CASE-000147,HF-M-000816,Provider Network Inquiry,High,Closed,2025-12-10
+HF-CASE-000148,HF-M-002627,Benefits Question,Medium,Closed,2025-07-14
+HF-CASE-000149,HF-M-000210,Care Coordination,Medium,Closed,2026-03-16
+HF-CASE-000150,HF-M-000843,Provider Network Inquiry,High,Open,2025-02-24
+HF-CASE-000151,HF-M-000392,Enrollment Support,High,Closed,2025-03-27
+HF-CASE-000152,HF-M-000351,Provider Network Inquiry,High,Closed,2025-02-14
+HF-CASE-000153,HF-M-003904,Enrollment Support,Medium,Closed,2026-06-03
+HF-CASE-000154,HF-M-001622,Provider Network Inquiry,Urgent,Closed,2026-01-08
+HF-CASE-000155,HF-M-001072,Appeal / Grievance,High,Closed,2026-09-11
+HF-CASE-000156,HF-M-000921,Appeal / Grievance,Low,Closed,2025-11-15
+HF-CASE-000157,HF-M-002606,Benefits Question,Low,Closed,2025-10-04
+HF-CASE-000158,HF-M-002801,Care Coordination,Medium,Closed,2026-09-01
+HF-CASE-000159,HF-M-001681,Enrollment Support,Low,Closed,2025-12-25
+HF-CASE-000160,HF-M-002027,Provider Network Inquiry,Low,Escalated,2026-01-15
+HF-CASE-000161,HF-M-000644,Benefits Question,Low,Open,2025-04-21
+HF-CASE-000162,HF-M-002727,Care Coordination,Low,Escalated,2025-01-26
+HF-CASE-000163,HF-M-001711,Provider Network Inquiry,Low,Closed,2026-04-26
+HF-CASE-000164,HF-M-003318,Provider Network Inquiry,Low,Open,2025-04-09
+HF-CASE-000165,HF-M-002347,Prior Authorization Follow-up,Medium,Open,2026-06-28
+HF-CASE-000166,HF-M-000614,Enrollment Support,Low,Closed,2025-04-18
+HF-CASE-000167,HF-M-000637,Appeal / Grievance,Low,Closed,2025-06-26
+HF-CASE-000168,HF-M-003100,Appeal / Grievance,Medium,Closed,2026-02-08
+HF-CASE-000169,HF-M-000193,Provider Network Inquiry,High,Closed,2026-03-20
+HF-CASE-000170,HF-M-001218,Enrollment Support,High,Closed,2026-05-21
+HF-CASE-000171,HF-M-002510,Prior Authorization Follow-up,High,Closed,2025-04-10
+HF-CASE-000172,HF-M-001384,Prior Authorization Follow-up,Low,Closed,2026-03-16
+HF-CASE-000173,HF-M-003674,Benefits Question,Low,Open,2026-10-04
+HF-CASE-000174,HF-M-002393,Benefits Question,High,Closed,2026-02-22
+HF-CASE-000175,HF-M-002327,Care Coordination,Low,Closed,2025-07-11
+HF-CASE-000176,HF-M-001234,Care Coordination,High,Closed,2025-10-05
+HF-CASE-000177,HF-M-001232,Appeal / Grievance,Medium,Closed,2026-07-13
+HF-CASE-000178,HF-M-000303,Care Coordination,Low,Closed,2026-01-28
+HF-CASE-000179,HF-M-000055,Prior Authorization Follow-up,Low,Open,2025-01-14
+HF-CASE-000180,HF-M-000375,Provider Network Inquiry,Low,Open,2025-02-12
+HF-CASE-000181,HF-M-001515,Prior Authorization Follow-up,High,Closed,2026-03-04
+HF-CASE-000182,HF-M-003604,Prior Authorization Follow-up,Low,Closed,2025-11-09
+HF-CASE-000183,HF-M-003008,Benefits Question,Low,Open,2025-08-14
+HF-CASE-000184,HF-M-001324,Benefits Question,Medium,Escalated,2025-06-26
+HF-CASE-000185,HF-M-001522,Provider Network Inquiry,Low,Closed,2026-08-12
+HF-CASE-000186,HF-M-003861,Care Coordination,High,Closed,2026-03-11
+HF-CASE-000187,HF-M-003801,Care Coordination,Medium,Closed,2026-03-06
+HF-CASE-000188,HF-M-000468,Enrollment Support,Low,Closed,2026-12-07
+HF-CASE-000189,HF-M-003269,Prior Authorization Follow-up,Low,Closed,2026-03-08
+HF-CASE-000190,HF-M-000725,Enrollment Support,Low,Closed,2026-03-21
+HF-CASE-000191,HF-M-003708,Appeal / Grievance,Low,Closed,2025-12-19
+HF-CASE-000192,HF-M-001344,Enrollment Support,Medium,Closed,2026-02-23
+HF-CASE-000193,HF-M-002092,Benefits Question,Medium,Closed,2025-04-23
+HF-CASE-000194,HF-M-001354,Appeal / Grievance,Medium,Closed,2025-04-08
+HF-CASE-000195,HF-M-000398,Enrollment Support,Medium,Open,2025-06-23
+HF-CASE-000196,HF-M-001939,Enrollment Support,High,Closed,2026-04-03
+HF-CASE-000197,HF-M-000292,Benefits Question,High,Open,2026-08-28
+HF-CASE-000198,HF-M-003965,Prior Authorization Follow-up,Medium,Escalated,2026-06-18
+HF-CASE-000199,HF-M-000544,Prior Authorization Follow-up,Low,Closed,2025-12-13
+HF-CASE-000200,HF-M-003534,Appeal / Grievance,Medium,Closed,2025-09-15
+HF-CASE-000201,HF-M-003322,Provider Network Inquiry,High,Closed,2026-04-22
+HF-CASE-000202,HF-M-003791,Benefits Question,Low,Closed,2026-06-12
+HF-CASE-000203,HF-M-000298,Benefits Question,High,Closed,2025-03-06
+HF-CASE-000204,HF-M-002495,Provider Network Inquiry,Low,Open,2025-03-17
+HF-CASE-000205,HF-M-003588,Care Coordination,Low,Escalated,2025-08-16
+HF-CASE-000206,HF-M-002858,Appeal / Grievance,Low,Open,2025-08-15
+HF-CASE-000207,HF-M-002648,Appeal / Grievance,Medium,Closed,2026-09-11
+HF-CASE-000208,HF-M-003910,Care Coordination,Medium,Open,2026-02-05
+HF-CASE-000209,HF-M-000329,Care Coordination,Medium,Closed,2026-12-09
+HF-CASE-000210,HF-M-001273,Appeal / Grievance,Low,Closed,2026-05-07
+HF-CASE-000211,HF-M-003881,Prior Authorization Follow-up,High,Closed,2025-05-18
+HF-CASE-000212,HF-M-000306,Enrollment Support,Low,Closed,2025-09-01
+HF-CASE-000213,HF-M-003210,Appeal / Grievance,Urgent,Closed,2026-06-17
+HF-CASE-000214,HF-M-001118,Care Coordination,Low,Closed,2025-06-06
+HF-CASE-000215,HF-M-001600,Benefits Question,Low,Closed,2026-11-19
+HF-CASE-000216,HF-M-000344,Enrollment Support,Low,Closed,2026-03-16
+HF-CASE-000217,HF-M-001275,Appeal / Grievance,Urgent,Closed,2026-05-11
+HF-CASE-000218,HF-M-001147,Enrollment Support,Low,Closed,2025-04-17
+HF-CASE-000219,HF-M-003333,Enrollment Support,Medium,Closed,2026-08-06
+HF-CASE-000220,HF-M-002347,Provider Network Inquiry,Low,Open,2025-08-02
+HF-CASE-000221,HF-M-003698,Care Coordination,Urgent,Closed,2026-02-03
+HF-CASE-000222,HF-M-000895,Care Coordination,Medium,Open,2025-11-26
+HF-CASE-000223,HF-M-000756,Enrollment Support,Low,Closed,2026-02-12
+HF-CASE-000224,HF-M-002266,Benefits Question,High,Closed,2025-02-18
+HF-CASE-000225,HF-M-003077,Prior Authorization Follow-up,Medium,Open,2025-04-04
+HF-CASE-000226,HF-M-002296,Benefits Question,Medium,Escalated,2025-03-20
+HF-CASE-000227,HF-M-001977,Benefits Question,Medium,Closed,2025-10-15
+HF-CASE-000228,HF-M-003499,Appeal / Grievance,High,Open,2025-05-27
+HF-CASE-000229,HF-M-002191,Benefits Question,Low,Escalated,2025-11-25
+HF-CASE-000230,HF-M-001801,Care Coordination,Low,Open,2025-09-15
+HF-CASE-000231,HF-M-000777,Appeal / Grievance,Medium,Closed,2026-03-19
+HF-CASE-000232,HF-M-001963,Prior Authorization Follow-up,Low,Open,2026-11-28
+HF-CASE-000233,HF-M-003077,Prior Authorization Follow-up,Medium,Closed,2025-07-03
+HF-CASE-000234,HF-M-001997,Care Coordination,Urgent,Open,2026-10-05
+HF-CASE-000235,HF-M-001846,Care Coordination,High,Closed,2025-11-02
+HF-CASE-000236,HF-M-000920,Provider Network Inquiry,High,Closed,2025-03-17
+HF-CASE-000237,HF-M-000336,Appeal / Grievance,High,Escalated,2026-01-10
+HF-CASE-000238,HF-M-000084,Benefits Question,High,Closed,2026-04-16
+HF-CASE-000239,HF-M-001226,Provider Network Inquiry,Low,Closed,2026-12-01
+HF-CASE-000240,HF-M-000526,Appeal / Grievance,Medium,Closed,2026-01-21
+HF-CASE-000241,HF-M-000328,Prior Authorization Follow-up,Medium,Escalated,2026-03-19
+HF-CASE-000242,HF-M-001293,Provider Network Inquiry,Urgent,Open,2026-08-04
+HF-CASE-000243,HF-M-002384,Prior Authorization Follow-up,Medium,Closed,2026-12-09
+HF-CASE-000244,HF-M-000272,Care Coordination,Medium,Escalated,2025-07-09
+HF-CASE-000245,HF-M-002246,Benefits Question,High,Escalated,2026-11-26
+HF-CASE-000246,HF-M-001279,Benefits Question,Medium,Closed,2025-05-24
+HF-CASE-000247,HF-M-002526,Care Coordination,Medium,Closed,2026-04-17
+HF-CASE-000248,HF-M-001733,Provider Network Inquiry,Urgent,Closed,2026-02-06
+HF-CASE-000249,HF-M-001708,Benefits Question,High,Closed,2026-07-15
+HF-CASE-000250,HF-M-003854,Enrollment Support,Urgent,Closed,2025-06-27
+HF-CASE-000251,HF-M-001106,Appeal / Grievance,Medium,Open,2025-03-03
+HF-CASE-000252,HF-M-000323,Enrollment Support,Medium,Closed,2025-09-14
+HF-CASE-000253,HF-M-002120,Benefits Question,Low,Escalated,2025-05-11
+HF-CASE-000254,HF-M-003950,Provider Network Inquiry,Medium,Closed,2026-08-03
+HF-CASE-000255,HF-M-000006,Benefits Question,Medium,Escalated,2025-07-23
+HF-CASE-000256,HF-M-000968,Benefits Question,Low,Closed,2025-06-20
+HF-CASE-000257,HF-M-000757,Provider Network Inquiry,High,Closed,2025-01-11
+HF-CASE-000258,HF-M-000556,Benefits Question,Low,Closed,2025-08-28
+HF-CASE-000259,HF-M-000721,Benefits Question,Medium,Open,2025-09-06
+HF-CASE-000260,HF-M-000404,Appeal / Grievance,Medium,Closed,2026-12-17
+HF-CASE-000261,HF-M-001914,Benefits Question,Low,Closed,2026-08-04
+HF-CASE-000262,HF-M-003285,Enrollment Support,Low,Closed,2025-08-12
+HF-CASE-000263,HF-M-001863,Care Coordination,Low,Open,2025-01-01
+HF-CASE-000264,HF-M-001721,Appeal / Grievance,Low,Closed,2025-07-18
+HF-CASE-000265,HF-M-002498,Benefits Question,Urgent,Closed,2026-05-26
+HF-CASE-000266,HF-M-003191,Provider Network Inquiry,Low,Open,2025-04-21
+HF-CASE-000267,HF-M-003441,Benefits Question,Low,Closed,2026-11-12
+HF-CASE-000268,HF-M-002448,Prior Authorization Follow-up,Low,Closed,2026-07-02
+HF-CASE-000269,HF-M-001845,Benefits Question,Medium,Closed,2025-06-11
+HF-CASE-000270,HF-M-001325,Prior Authorization Follow-up,Low,Open,2026-12-02
+HF-CASE-000271,HF-M-003253,Care Coordination,Low,Closed,2025-11-01
+HF-CASE-000272,HF-M-001190,Enrollment Support,Low,Closed,2026-07-12
+HF-CASE-000273,HF-M-002122,Provider Network Inquiry,Medium,Closed,2026-08-03
+HF-CASE-000274,HF-M-001835,Prior Authorization Follow-up,Medium,Closed,2025-09-27
+HF-CASE-000275,HF-M-003595,Benefits Question,Medium,Open,2025-09-24
+HF-CASE-000276,HF-M-003532,Benefits Question,High,Closed,2025-08-20
+HF-CASE-000277,HF-M-003846,Prior Authorization Follow-up,Low,Closed,2025-08-15
+HF-CASE-000278,HF-M-003052,Appeal / Grievance,Low,Escalated,2026-07-09
+HF-CASE-000279,HF-M-000216,Provider Network Inquiry,Medium,Closed,2026-04-14
+HF-CASE-000280,HF-M-000451,Provider Network Inquiry,Urgent,Closed,2026-12-11
+HF-CASE-000281,HF-M-000610,Benefits Question,High,Closed,2025-07-10
+HF-CASE-000282,HF-M-003684,Enrollment Support,Medium,Closed,2025-02-24
+HF-CASE-000283,HF-M-002119,Appeal / Grievance,Medium,Open,2026-05-21
+HF-CASE-000284,HF-M-002302,Care Coordination,Low,Closed,2025-11-05
+HF-CASE-000285,HF-M-000461,Care Coordination,Medium,Open,2026-04-07
+HF-CASE-000286,HF-M-001013,Provider Network Inquiry,Low,Open,2026-10-22
+HF-CASE-000287,HF-M-002193,Benefits Question,Low,Escalated,2025-02-15
+HF-CASE-000288,HF-M-001914,Appeal / Grievance,High,Closed,2025-12-26
+HF-CASE-000289,HF-M-001351,Enrollment Support,High,Closed,2025-10-21
+HF-CASE-000290,HF-M-000968,Prior Authorization Follow-up,Low,Open,2026-12-11
+HF-CASE-000291,HF-M-003766,Appeal / Grievance,High,Closed,2025-07-09
+HF-CASE-000292,HF-M-001761,Enrollment Support,Medium,Closed,2025-06-10
+HF-CASE-000293,HF-M-002942,Benefits Question,Low,Closed,2025-07-16
+HF-CASE-000294,HF-M-000510,Enrollment Support,Urgent,Closed,2026-01-10
+HF-CASE-000295,HF-M-003276,Prior Authorization Follow-up,Medium,Closed,2025-12-01
+HF-CASE-000296,HF-M-001794,Enrollment Support,Low,Closed,2025-01-24
+HF-CASE-000297,HF-M-001999,Provider Network Inquiry,Medium,Closed,2026-07-17
+HF-CASE-000298,HF-M-001436,Prior Authorization Follow-up,Low,Open,2025-06-26
+HF-CASE-000299,HF-M-001392,Provider Network Inquiry,Low,Closed,2026-10-11
+HF-CASE-000300,HF-M-001263,Prior Authorization Follow-up,Medium,Closed,2025-01-22
+HF-CASE-000301,HF-M-002509,Prior Authorization Follow-up,Medium,Closed,2025-02-23
+HF-CASE-000302,HF-M-002978,Prior Authorization Follow-up,High,Closed,2026-10-14
+HF-CASE-000303,HF-M-000546,Care Coordination,Medium,Closed,2025-04-08
+HF-CASE-000304,HF-M-001231,Care Coordination,Low,Open,2025-05-27
+HF-CASE-000305,HF-M-003773,Enrollment Support,Medium,Closed,2025-08-11
+HF-CASE-000306,HF-M-000766,Prior Authorization Follow-up,High,Open,2026-08-12
+HF-CASE-000307,HF-M-000935,Provider Network Inquiry,Low,Closed,2025-04-20
+HF-CASE-000308,HF-M-001077,Prior Authorization Follow-up,Medium,Closed,2025-03-16
+HF-CASE-000309,HF-M-001604,Prior Authorization Follow-up,Urgent,Closed,2025-10-17
+HF-CASE-000310,HF-M-001152,Provider Network Inquiry,Low,Closed,2025-03-11
+HF-CASE-000311,HF-M-000482,Enrollment Support,High,Closed,2025-06-26
+HF-CASE-000312,HF-M-000856,Enrollment Support,Low,Closed,2026-04-20
+HF-CASE-000313,HF-M-002105,Appeal / Grievance,Medium,Closed,2026-06-09
+HF-CASE-000314,HF-M-000705,Appeal / Grievance,High,Closed,2025-10-26
+HF-CASE-000315,HF-M-002562,Prior Authorization Follow-up,Low,Closed,2026-10-25
+HF-CASE-000316,HF-M-003115,Enrollment Support,Low,Escalated,2026-02-16
+HF-CASE-000317,HF-M-001857,Enrollment Support,Urgent,Open,2025-01-15
+HF-CASE-000318,HF-M-001440,Appeal / Grievance,Low,Closed,2026-06-15
+HF-CASE-000319,HF-M-002422,Prior Authorization Follow-up,High,Closed,2025-04-06
+HF-CASE-000320,HF-M-000249,Enrollment Support,Low,Closed,2026-04-22
+HF-CASE-000321,HF-M-000657,Provider Network Inquiry,Low,Closed,2026-12-10
+HF-CASE-000322,HF-M-000857,Appeal / Grievance,Low,Closed,2026-05-01
+HF-CASE-000323,HF-M-002867,Appeal / Grievance,High,Closed,2026-04-15
+HF-CASE-000324,HF-M-002248,Appeal / Grievance,High,Closed,2026-09-15
+HF-CASE-000325,HF-M-002941,Enrollment Support,Medium,Closed,2026-12-28
+HF-CASE-000326,HF-M-000951,Benefits Question,Low,Escalated,2025-04-02
+HF-CASE-000327,HF-M-000190,Benefits Question,Medium,Closed,2026-04-06
+HF-CASE-000328,HF-M-001853,Provider Network Inquiry,Low,Closed,2025-02-14
+HF-CASE-000329,HF-M-001992,Appeal / Grievance,Medium,Closed,2026-12-23
+HF-CASE-000330,HF-M-002255,Appeal / Grievance,Medium,Open,2026-09-03
+HF-CASE-000331,HF-M-001177,Benefits Question,High,Closed,2025-04-12
+HF-CASE-000332,HF-M-003334,Enrollment Support,Medium,Closed,2025-03-07
+HF-CASE-000333,HF-M-002750,Care Coordination,Urgent,Closed,2026-05-13
+HF-CASE-000334,HF-M-003891,Provider Network Inquiry,Urgent,Closed,2025-08-03
+HF-CASE-000335,HF-M-002257,Benefits Question,Medium,Closed,2026-01-07
+HF-CASE-000336,HF-M-002879,Benefits Question,High,Closed,2026-10-15
+HF-CASE-000337,HF-M-003552,Provider Network Inquiry,Urgent,Open,2026-09-21
+HF-CASE-000338,HF-M-003599,Benefits Question,Low,Closed,2026-08-20
+HF-CASE-000339,HF-M-002661,Enrollment Support,Medium,Open,2026-10-08
+HF-CASE-000340,HF-M-002340,Benefits Question,High,Open,2026-08-06
+HF-CASE-000341,HF-M-000123,Enrollment Support,Low,Open,2025-02-02
+HF-CASE-000342,HF-M-001239,Provider Network Inquiry,Urgent,Closed,2026-07-17
+HF-CASE-000343,HF-M-002591,Appeal / Grievance,Low,Closed,2025-04-03
+HF-CASE-000344,HF-M-000867,Provider Network Inquiry,Medium,Closed,2026-10-05
+HF-CASE-000345,HF-M-000882,Benefits Question,Medium,Closed,2025-12-09
+HF-CASE-000346,HF-M-002488,Enrollment Support,Medium,Open,2025-05-04
+HF-CASE-000347,HF-M-001904,Prior Authorization Follow-up,Low,Open,2026-12-04
+HF-CASE-000348,HF-M-003581,Appeal / Grievance,Low,Closed,2025-07-09
+HF-CASE-000349,HF-M-003437,Appeal / Grievance,High,Closed,2026-11-13
+HF-CASE-000350,HF-M-000531,Appeal / Grievance,Low,Open,2025-07-20
+HF-CASE-000351,HF-M-000152,Benefits Question,Low,Open,2025-02-10
+HF-CASE-000352,HF-M-002650,Provider Network Inquiry,Low,Closed,2025-03-01
+HF-CASE-000353,HF-M-001540,Enrollment Support,High,Closed,2026-02-17
+HF-CASE-000354,HF-M-001294,Appeal / Grievance,Low,Open,2026-12-10
+HF-CASE-000355,HF-M-002742,Appeal / Grievance,Low,Escalated,2026-08-24
+HF-CASE-000356,HF-M-003346,Benefits Question,Medium,Open,2025-11-08
+HF-CASE-000357,HF-M-001036,Enrollment Support,Low,Closed,2025-10-08
+HF-CASE-000358,HF-M-003455,Appeal / Grievance,Low,Closed,2025-12-17
+HF-CASE-000359,HF-M-002647,Enrollment Support,High,Closed,2026-04-09
+HF-CASE-000360,HF-M-003651,Care Coordination,Medium,Escalated,2026-03-24
+HF-CASE-000361,HF-M-001107,Prior Authorization Follow-up,Low,Closed,2025-10-04
+HF-CASE-000362,HF-M-001723,Benefits Question,High,Closed,2026-12-07
+HF-CASE-000363,HF-M-000023,Provider Network Inquiry,Medium,Closed,2026-01-08
+HF-CASE-000364,HF-M-001623,Benefits Question,Medium,Open,2025-12-06
+HF-CASE-000365,HF-M-002723,Benefits Question,High,Closed,2025-07-23
+HF-CASE-000366,HF-M-001103,Care Coordination,Urgent,Escalated,2026-11-15
+HF-CASE-000367,HF-M-001731,Benefits Question,Urgent,Closed,2026-12-16
+HF-CASE-000368,HF-M-003749,Care Coordination,Low,Closed,2025-03-07
+HF-CASE-000369,HF-M-002606,Prior Authorization Follow-up,Low,Closed,2026-05-04
+HF-CASE-000370,HF-M-001067,Provider Network Inquiry,Low,Closed,2026-10-01
+HF-CASE-000371,HF-M-000896,Provider Network Inquiry,Low,Escalated,2025-01-19
+HF-CASE-000372,HF-M-000673,Enrollment Support,Urgent,Closed,2026-04-13
+HF-CASE-000373,HF-M-001114,Benefits Question,Medium,Closed,2025-10-26
+HF-CASE-000374,HF-M-003452,Care Coordination,Low,Closed,2026-09-02
+HF-CASE-000375,HF-M-003818,Care Coordination,Low,Closed,2025-07-14
+HF-CASE-000376,HF-M-003434,Benefits Question,Low,Open,2025-06-15
+HF-CASE-000377,HF-M-000386,Prior Authorization Follow-up,Medium,Closed,2025-01-01
+HF-CASE-000378,HF-M-000562,Provider Network Inquiry,Medium,Escalated,2026-10-22
+HF-CASE-000379,HF-M-000519,Provider Network Inquiry,Low,Closed,2026-01-16
+HF-CASE-000380,HF-M-001271,Care Coordination,High,Open,2025-09-01
+HF-CASE-000381,HF-M-000804,Care Coordination,Medium,Closed,2026-05-01
+HF-CASE-000382,HF-M-000215,Appeal / Grievance,Low,Open,2026-07-17
+HF-CASE-000383,HF-M-003700,Provider Network Inquiry,Urgent,Closed,2025-04-24
+HF-CASE-000384,HF-M-001771,Benefits Question,High,Closed,2026-05-05
+HF-CASE-000385,HF-M-003991,Care Coordination,Low,Escalated,2026-10-14
+HF-CASE-000386,HF-M-003402,Care Coordination,Medium,Open,2026-10-16
+HF-CASE-000387,HF-M-002390,Prior Authorization Follow-up,Urgent,Closed,2026-09-28
+HF-CASE-000388,HF-M-003838,Benefits Question,Medium,Escalated,2025-06-16
+HF-CASE-000389,HF-M-000513,Enrollment Support,High,Closed,2025-06-05
+HF-CASE-000390,HF-M-003169,Care Coordination,Medium,Closed,2026-10-10
+HF-CASE-000391,HF-M-002241,Appeal / Grievance,Low,Closed,2025-01-02
+HF-CASE-000392,HF-M-000317,Care Coordination,Medium,Closed,2026-02-06
+HF-CASE-000393,HF-M-001070,Benefits Question,Medium,Closed,2026-09-27
+HF-CASE-000394,HF-M-000156,Care Coordination,Low,Open,2025-03-28
+HF-CASE-000395,HF-M-003997,Provider Network Inquiry,Medium,Closed,2025-08-17
+HF-CASE-000396,HF-M-003172,Provider Network Inquiry,High,Closed,2026-09-24
+HF-CASE-000397,HF-M-003581,Enrollment Support,High,Closed,2025-06-22
+HF-CASE-000398,HF-M-000238,Provider Network Inquiry,High,Open,2026-08-08
+HF-CASE-000399,HF-M-000651,Enrollment Support,Urgent,Closed,2025-07-02
+HF-CASE-000400,HF-M-000370,Prior Authorization Follow-up,High,Closed,2026-10-24
+HF-CASE-000401,HF-M-002906,Provider Network Inquiry,Medium,Escalated,2025-01-20
+HF-CASE-000402,HF-M-002354,Care Coordination,Low,Closed,2025-05-18
+HF-CASE-000403,HF-M-000772,Care Coordination,Medium,Open,2025-12-14
+HF-CASE-000404,HF-M-000323,Care Coordination,Medium,Open,2026-12-23
+HF-CASE-000405,HF-M-001982,Enrollment Support,Medium,Closed,2025-01-05
+HF-CASE-000406,HF-M-002897,Care Coordination,Low,Closed,2026-09-10
+HF-CASE-000407,HF-M-001967,Care Coordination,Medium,Closed,2026-04-07
+HF-CASE-000408,HF-M-002642,Provider Network Inquiry,High,Closed,2025-02-08
+HF-CASE-000409,HF-M-003063,Prior Authorization Follow-up,Low,Closed,2025-08-09
+HF-CASE-000410,HF-M-000046,Enrollment Support,Urgent,Closed,2026-11-28
+HF-CASE-000411,HF-M-003019,Prior Authorization Follow-up,High,Closed,2025-09-17
+HF-CASE-000412,HF-M-000452,Benefits Question,High,Closed,2026-11-25
+HF-CASE-000413,HF-M-003680,Benefits Question,Urgent,Closed,2025-03-04
+HF-CASE-000414,HF-M-002096,Prior Authorization Follow-up,Urgent,Open,2025-02-19
+HF-CASE-000415,HF-M-001241,Appeal / Grievance,Medium,Closed,2025-09-14
+HF-CASE-000416,HF-M-000363,Provider Network Inquiry,Medium,Closed,2026-05-01
+HF-CASE-000417,HF-M-002584,Enrollment Support,High,Closed,2026-04-12
+HF-CASE-000418,HF-M-001322,Benefits Question,Medium,Closed,2025-10-15
+HF-CASE-000419,HF-M-000742,Appeal / Grievance,High,Escalated,2026-07-01
+HF-CASE-000420,HF-M-000013,Care Coordination,Medium,Open,2026-03-01
+HF-CASE-000421,HF-M-002484,Enrollment Support,High,Open,2026-04-20
+HF-CASE-000422,HF-M-003341,Prior Authorization Follow-up,Medium,Closed,2025-01-13
+HF-CASE-000423,HF-M-002893,Appeal / Grievance,Urgent,Closed,2025-12-08
+HF-CASE-000424,HF-M-002586,Appeal / Grievance,Low,Closed,2025-04-12
+HF-CASE-000425,HF-M-002907,Benefits Question,Low,Closed,2026-06-07
+HF-CASE-000426,HF-M-003353,Prior Authorization Follow-up,High,Closed,2025-03-13
+HF-CASE-000427,HF-M-001948,Care Coordination,Low,Closed,2025-02-28
+HF-CASE-000428,HF-M-001620,Enrollment Support,Urgent,Closed,2026-10-13
+HF-CASE-000429,HF-M-003768,Enrollment Support,Low,Escalated,2026-03-09
+HF-CASE-000430,HF-M-002827,Provider Network Inquiry,High,Closed,2026-12-24
+HF-CASE-000431,HF-M-002870,Care Coordination,Low,Open,2026-12-02
+HF-CASE-000432,HF-M-003259,Prior Authorization Follow-up,Medium,Closed,2025-01-12
+HF-CASE-000433,HF-M-003899,Appeal / Grievance,Medium,Closed,2026-02-21
+HF-CASE-000434,HF-M-003536,Appeal / Grievance,Urgent,Closed,2025-07-25
+HF-CASE-000435,HF-M-003388,Benefits Question,Low,Open,2026-12-22
+HF-CASE-000436,HF-M-000259,Benefits Question,Medium,Closed,2025-01-23
+HF-CASE-000437,HF-M-002528,Enrollment Support,Medium,Closed,2025-05-05
+HF-CASE-000438,HF-M-002665,Benefits Question,Medium,Closed,2025-06-06
+HF-CASE-000439,HF-M-002936,Care Coordination,Medium,Escalated,2025-12-26
+HF-CASE-000440,HF-M-001708,Benefits Question,High,Open,2025-11-11
+HF-CASE-000441,HF-M-001831,Care Coordination,Medium,Closed,2025-11-06
+HF-CASE-000442,HF-M-001099,Prior Authorization Follow-up,High,Closed,2026-10-28
+HF-CASE-000443,HF-M-000699,Provider Network Inquiry,High,Closed,2026-09-01
+HF-CASE-000444,HF-M-000424,Enrollment Support,High,Closed,2025-01-02
+HF-CASE-000445,HF-M-001312,Benefits Question,Medium,Closed,2025-12-10
+HF-CASE-000446,HF-M-002532,Benefits Question,Low,Closed,2025-09-03
+HF-CASE-000447,HF-M-003676,Provider Network Inquiry,High,Closed,2026-02-27
+HF-CASE-000448,HF-M-000649,Prior Authorization Follow-up,Medium,Escalated,2025-08-21
+HF-CASE-000449,HF-M-002199,Enrollment Support,High,Closed,2026-03-04
+HF-CASE-000450,HF-M-000980,Prior Authorization Follow-up,Medium,Closed,2026-07-01
+HF-CASE-000451,HF-M-000690,Enrollment Support,Medium,Closed,2026-06-28
+HF-CASE-000452,HF-M-000197,Appeal / Grievance,High,Closed,2025-05-22
+HF-CASE-000453,HF-M-000041,Care Coordination,Medium,Closed,2025-08-14
+HF-CASE-000454,HF-M-000017,Care Coordination,Medium,Closed,2025-08-16
+HF-CASE-000455,HF-M-001968,Provider Network Inquiry,Low,Closed,2025-05-15
+HF-CASE-000456,HF-M-003365,Appeal / Grievance,Low,Open,2025-11-18
+HF-CASE-000457,HF-M-003872,Prior Authorization Follow-up,High,Closed,2026-12-17
+HF-CASE-000458,HF-M-001715,Enrollment Support,Medium,Closed,2026-04-01
+HF-CASE-000459,HF-M-002878,Care Coordination,Low,Closed,2026-10-10
+HF-CASE-000460,HF-M-000483,Benefits Question,Low,Closed,2025-02-17
+HF-CASE-000461,HF-M-001930,Appeal / Grievance,Medium,Closed,2025-10-18
+HF-CASE-000462,HF-M-003353,Enrollment Support,High,Closed,2026-03-24
+HF-CASE-000463,HF-M-001536,Provider Network Inquiry,High,Closed,2025-05-01
+HF-CASE-000464,HF-M-002894,Provider Network Inquiry,High,Closed,2025-11-16
+HF-CASE-000465,HF-M-001207,Provider Network Inquiry,Low,Closed,2025-07-05
+HF-CASE-000466,HF-M-003606,Enrollment Support,High,Closed,2025-09-16
+HF-CASE-000467,HF-M-001132,Benefits Question,Urgent,Closed,2025-04-07
+HF-CASE-000468,HF-M-000558,Enrollment Support,Medium,Open,2025-10-06
+HF-CASE-000469,HF-M-003260,Appeal / Grievance,Medium,Escalated,2026-06-17
+HF-CASE-000470,HF-M-003087,Appeal / Grievance,Medium,Escalated,2026-06-24
+HF-CASE-000471,HF-M-000259,Enrollment Support,Medium,Closed,2026-12-08
+HF-CASE-000472,HF-M-003502,Appeal / Grievance,Medium,Closed,2025-01-20
+HF-CASE-000473,HF-M-001850,Prior Authorization Follow-up,Medium,Open,2026-07-07
+HF-CASE-000474,HF-M-003427,Benefits Question,Low,Closed,2025-09-27
+HF-CASE-000475,HF-M-002197,Benefits Question,High,Closed,2026-08-12
+HF-CASE-000476,HF-M-000983,Enrollment Support,Medium,Closed,2026-11-02
+HF-CASE-000477,HF-M-002335,Benefits Question,Urgent,Closed,2025-04-06
+HF-CASE-000478,HF-M-002642,Benefits Question,Medium,Closed,2025-12-11
+HF-CASE-000479,HF-M-003576,Appeal / Grievance,Medium,Open,2026-05-08
+HF-CASE-000480,HF-M-000894,Care Coordination,Medium,Closed,2026-05-16
+HF-CASE-000481,HF-M-003064,Appeal / Grievance,Medium,Closed,2025-07-13
+HF-CASE-000482,HF-M-001029,Benefits Question,Medium,Escalated,2026-08-26
+HF-CASE-000483,HF-M-002241,Care Coordination,High,Closed,2025-07-24
+HF-CASE-000484,HF-M-003878,Provider Network Inquiry,Medium,Closed,2025-08-25
+HF-CASE-000485,HF-M-003611,Appeal / Grievance,High,Closed,2025-07-02
+HF-CASE-000486,HF-M-001620,Enrollment Support,High,Open,2026-01-26
+HF-CASE-000487,HF-M-002863,Care Coordination,Urgent,Closed,2026-06-14
+HF-CASE-000488,HF-M-002912,Benefits Question,Low,Closed,2025-05-06
+HF-CASE-000489,HF-M-003776,Enrollment Support,Medium,Closed,2025-05-11
+HF-CASE-000490,HF-M-000088,Provider Network Inquiry,Low,Closed,2025-03-26
+HF-CASE-000491,HF-M-001454,Provider Network Inquiry,Low,Closed,2025-11-01
+HF-CASE-000492,HF-M-003993,Appeal / Grievance,Medium,Closed,2026-01-22
+HF-CASE-000493,HF-M-001240,Care Coordination,Low,Closed,2025-07-10
+HF-CASE-000494,HF-M-003906,Benefits Question,Medium,Closed,2025-11-24
+HF-CASE-000495,HF-M-002162,Appeal / Grievance,Low,Closed,2025-06-12
+HF-CASE-000496,HF-M-000414,Provider Network Inquiry,Medium,Closed,2025-05-23
+HF-CASE-000497,HF-M-001118,Benefits Question,Low,Closed,2025-05-16
+HF-CASE-000498,HF-M-001711,Provider Network Inquiry,Low,Closed,2026-09-28
+HF-CASE-000499,HF-M-001038,Benefits Question,Medium,Closed,2025-06-02
+HF-CASE-000500,HF-M-000496,Care Coordination,Low,Closed,2025-07-17
+HF-CASE-000501,HF-M-001236,Care Coordination,Medium,Closed,2026-07-24
+HF-CASE-000502,HF-M-000498,Provider Network Inquiry,Low,Closed,2026-07-08
+HF-CASE-000503,HF-M-001801,Prior Authorization Follow-up,Low,Open,2026-10-28
+HF-CASE-000504,HF-M-001218,Care Coordination,Low,Closed,2025-07-13
+HF-CASE-000505,HF-M-001822,Appeal / Grievance,Low,Closed,2026-04-11
+HF-CASE-000506,HF-M-000733,Enrollment Support,Urgent,Open,2026-03-28
+HF-CASE-000507,HF-M-003624,Provider Network Inquiry,Medium,Closed,2025-11-24
+HF-CASE-000508,HF-M-002628,Care Coordination,High,Closed,2025-11-15
+HF-CASE-000509,HF-M-002600,Enrollment Support,Medium,Escalated,2025-02-25
+HF-CASE-000510,HF-M-003552,Benefits Question,Medium,Closed,2025-08-03
+HF-CASE-000511,HF-M-003995,Enrollment Support,High,Closed,2026-08-22
+HF-CASE-000512,HF-M-001909,Care Coordination,Medium,Closed,2025-08-19
+HF-CASE-000513,HF-M-001066,Benefits Question,Low,Closed,2025-02-06
+HF-CASE-000514,HF-M-003891,Enrollment Support,High,Closed,2026-12-06
+HF-CASE-000515,HF-M-002650,Provider Network Inquiry,Low,Closed,2026-08-23
+HF-CASE-000516,HF-M-000638,Care Coordination,High,Closed,2026-08-10
+HF-CASE-000517,HF-M-000023,Care Coordination,Low,Closed,2025-08-11
+HF-CASE-000518,HF-M-000051,Appeal / Grievance,High,Closed,2025-06-12
+HF-CASE-000519,HF-M-002005,Care Coordination,Low,Open,2026-11-03
+HF-CASE-000520,HF-M-003749,Enrollment Support,Low,Closed,2025-09-16
+HF-CASE-000521,HF-M-002899,Enrollment Support,Medium,Closed,2026-07-09
+HF-CASE-000522,HF-M-000621,Provider Network Inquiry,Medium,Closed,2025-10-11
+HF-CASE-000523,HF-M-001163,Prior Authorization Follow-up,Low,Closed,2026-12-04
+HF-CASE-000524,HF-M-001732,Provider Network Inquiry,Medium,Closed,2026-09-19
+HF-CASE-000525,HF-M-002538,Prior Authorization Follow-up,Low,Open,2026-02-22
+HF-CASE-000526,HF-M-002678,Prior Authorization Follow-up,Low,Closed,2026-05-07
+HF-CASE-000527,HF-M-001490,Care Coordination,Medium,Open,2025-01-02
+HF-CASE-000528,HF-M-001708,Care Coordination,High,Closed,2026-11-14
+HF-CASE-000529,HF-M-000101,Enrollment Support,High,Closed,2026-04-01
+HF-CASE-000530,HF-M-000130,Care Coordination,High,Closed,2025-05-03
+HF-CASE-000531,HF-M-001474,Enrollment Support,Medium,Open,2025-12-03
+HF-CASE-000532,HF-M-000580,Provider Network Inquiry,Low,Closed,2025-10-10
+HF-CASE-000533,HF-M-000988,Provider Network Inquiry,Low,Open,2025-09-16
+HF-CASE-000534,HF-M-003582,Care Coordination,Medium,Closed,2026-02-06
+HF-CASE-000535,HF-M-002971,Prior Authorization Follow-up,Low,Open,2026-11-28
+HF-CASE-000536,HF-M-003005,Prior Authorization Follow-up,Low,Closed,2026-02-27
+HF-CASE-000537,HF-M-002139,Provider Network Inquiry,Medium,Escalated,2025-01-13
+HF-CASE-000538,HF-M-000617,Benefits Question,Medium,Closed,2025-11-01
+HF-CASE-000539,HF-M-003438,Enrollment Support,High,Closed,2025-07-12
+HF-CASE-000540,HF-M-003258,Benefits Question,Low,Closed,2025-09-10
+HF-CASE-000541,HF-M-003466,Provider Network Inquiry,Low,Closed,2026-02-12
+HF-CASE-000542,HF-M-001909,Appeal / Grievance,Medium,Open,2025-10-11
+HF-CASE-000543,HF-M-002928,Benefits Question,Medium,Closed,2025-11-10
+HF-CASE-000544,HF-M-003921,Benefits Question,Low,Closed,2025-08-03
+HF-CASE-000545,HF-M-003395,Appeal / Grievance,Low,Escalated,2026-02-09
+HF-CASE-000546,HF-M-001787,Enrollment Support,Medium,Escalated,2026-06-18
+HF-CASE-000547,HF-M-001136,Provider Network Inquiry,Medium,Closed,2026-05-25
+HF-CASE-000548,HF-M-002899,Care Coordination,Medium,Closed,2026-10-27
+HF-CASE-000549,HF-M-000948,Care Coordination,Medium,Closed,2026-08-07
+HF-CASE-000550,HF-M-001867,Appeal / Grievance,High,Closed,2026-07-26
+HF-CASE-000551,HF-M-000495,Prior Authorization Follow-up,High,Closed,2026-05-24
+HF-CASE-000552,HF-M-003759,Appeal / Grievance,Medium,Open,2025-06-12
+HF-CASE-000553,HF-M-000492,Benefits Question,Low,Open,2026-01-04
+HF-CASE-000554,HF-M-002223,Enrollment Support,Medium,Closed,2025-10-03
+HF-CASE-000555,HF-M-000041,Appeal / Grievance,Low,Closed,2025-01-22
+HF-CASE-000556,HF-M-003780,Appeal / Grievance,Medium,Closed,2025-10-09
+HF-CASE-000557,HF-M-002298,Provider Network Inquiry,Low,Closed,2025-10-02
+HF-CASE-000558,HF-M-001735,Care Coordination,Low,Closed,2025-09-27
+HF-CASE-000559,HF-M-001892,Enrollment Support,High,Closed,2025-04-09
+HF-CASE-000560,HF-M-001288,Appeal / Grievance,Medium,Closed,2025-11-02
+HF-CASE-000561,HF-M-000703,Benefits Question,Low,Closed,2026-11-27
+HF-CASE-000562,HF-M-003368,Enrollment Support,Medium,Open,2026-05-06
+HF-CASE-000563,HF-M-000610,Benefits Question,Medium,Closed,2025-01-10
+HF-CASE-000564,HF-M-003509,Care Coordination,Low,Closed,2025-09-06
+HF-CASE-000565,HF-M-003803,Enrollment Support,Low,Closed,2025-02-28
+HF-CASE-000566,HF-M-002432,Enrollment Support,Medium,Closed,2025-03-13
+HF-CASE-000567,HF-M-001910,Enrollment Support,Low,Closed,2025-10-28
+HF-CASE-000568,HF-M-001179,Enrollment Support,Medium,Closed,2026-07-05
+HF-CASE-000569,HF-M-002403,Prior Authorization Follow-up,Medium,Closed,2026-06-07
+HF-CASE-000570,HF-M-003943,Appeal / Grievance,Urgent,Escalated,2026-05-28
+HF-CASE-000571,HF-M-001262,Care Coordination,High,Closed,2026-09-17
+HF-CASE-000572,HF-M-000823,Benefits Question,Medium,Escalated,2026-02-27
+HF-CASE-000573,HF-M-003789,Prior Authorization Follow-up,Medium,Closed,2025-08-15
+HF-CASE-000574,HF-M-000353,Appeal / Grievance,Urgent,Closed,2026-06-09
+HF-CASE-000575,HF-M-000163,Prior Authorization Follow-up,Medium,Closed,2025-04-12
+HF-CASE-000576,HF-M-001650,Care Coordination,Low,Closed,2025-08-15
+HF-CASE-000577,HF-M-000451,Benefits Question,High,Closed,2025-06-10
+HF-CASE-000578,HF-M-001004,Benefits Question,High,Open,2025-08-04
+HF-CASE-000579,HF-M-002077,Enrollment Support,High,Open,2026-12-19
+HF-CASE-000580,HF-M-002348,Enrollment Support,High,Closed,2025-12-18
+HF-CASE-000581,HF-M-003578,Appeal / Grievance,Medium,Closed,2026-11-17
+HF-CASE-000582,HF-M-003885,Benefits Question,Medium,Escalated,2025-11-20
+HF-CASE-000583,HF-M-000714,Provider Network Inquiry,Medium,Closed,2025-08-14
+HF-CASE-000584,HF-M-003421,Provider Network Inquiry,High,Open,2025-09-28
+HF-CASE-000585,HF-M-000966,Benefits Question,Medium,Open,2026-03-14
+HF-CASE-000586,HF-M-001125,Prior Authorization Follow-up,High,Closed,2025-06-21
+HF-CASE-000587,HF-M-002652,Appeal / Grievance,Low,Closed,2026-01-08
+HF-CASE-000588,HF-M-001340,Appeal / Grievance,High,Open,2025-11-16
+HF-CASE-000589,HF-M-002189,Prior Authorization Follow-up,Low,Open,2026-01-22
+HF-CASE-000590,HF-M-001901,Prior Authorization Follow-up,Medium,Closed,2026-01-02
+HF-CASE-000591,HF-M-002073,Enrollment Support,Medium,Closed,2026-11-14
+HF-CASE-000592,HF-M-003239,Benefits Question,Medium,Closed,2026-01-21
+HF-CASE-000593,HF-M-001834,Benefits Question,Medium,Closed,2025-12-18
+HF-CASE-000594,HF-M-003036,Enrollment Support,High,Closed,2025-01-03
+HF-CASE-000595,HF-M-001609,Provider Network Inquiry,High,Closed,2025-08-03
+HF-CASE-000596,HF-M-002417,Provider Network Inquiry,Low,Closed,2025-02-15
+HF-CASE-000597,HF-M-000318,Benefits Question,Low,Closed,2025-05-06
+HF-CASE-000598,HF-M-002199,Prior Authorization Follow-up,Low,Closed,2026-04-23
+HF-CASE-000599,HF-M-000464,Care Coordination,Low,Closed,2026-07-13
+HF-CASE-000600,HF-M-000010,Enrollment Support,Medium,Closed,2025-07-03
+HF-CASE-000601,HF-M-001409,Benefits Question,Low,Closed,2026-07-20
+HF-CASE-000602,HF-M-003565,Appeal / Grievance,Low,Closed,2025-05-18
+HF-CASE-000603,HF-M-000500,Appeal / Grievance,Low,Closed,2026-04-25
+HF-CASE-000604,HF-M-002352,Enrollment Support,Low,Closed,2025-03-03
+HF-CASE-000605,HF-M-001776,Benefits Question,Urgent,Closed,2025-06-24
+HF-CASE-000606,HF-M-003029,Prior Authorization Follow-up,High,Open,2025-04-13
+HF-CASE-000607,HF-M-003416,Care Coordination,Medium,Escalated,2026-04-27
+HF-CASE-000608,HF-M-003472,Prior Authorization Follow-up,Medium,Escalated,2025-07-08
+HF-CASE-000609,HF-M-002532,Prior Authorization Follow-up,Medium,Closed,2025-08-26
+HF-CASE-000610,HF-M-003092,Care Coordination,High,Closed,2026-02-07
+HF-CASE-000611,HF-M-000278,Appeal / Grievance,Medium,Closed,2025-06-02
+HF-CASE-000612,HF-M-002207,Benefits Question,High,Closed,2025-02-28
+HF-CASE-000613,HF-M-003004,Appeal / Grievance,Urgent,Closed,2025-09-17
+HF-CASE-000614,HF-M-003063,Enrollment Support,Medium,Closed,2026-08-02
+HF-CASE-000615,HF-M-002643,Care Coordination,Low,Escalated,2025-04-06
+HF-CASE-000616,HF-M-000383,Enrollment Support,Low,Closed,2026-04-05
+HF-CASE-000617,HF-M-003735,Care Coordination,Low,Closed,2025-03-02
+HF-CASE-000618,HF-M-001911,Provider Network Inquiry,Urgent,Closed,2025-06-24
+HF-CASE-000619,HF-M-003654,Appeal / Grievance,High,Closed,2026-12-24
+HF-CASE-000620,HF-M-000216,Care Coordination,Medium,Closed,2026-11-15
+HF-CASE-000621,HF-M-000659,Enrollment Support,Urgent,Escalated,2026-10-08
+HF-CASE-000622,HF-M-001525,Appeal / Grievance,High,Closed,2025-09-12
+HF-CASE-000623,HF-M-000258,Benefits Question,High,Closed,2025-06-14
+HF-CASE-000624,HF-M-001956,Provider Network Inquiry,Low,Closed,2025-10-10
+HF-CASE-000625,HF-M-001716,Appeal / Grievance,Medium,Closed,2026-04-26
+HF-CASE-000626,HF-M-002002,Provider Network Inquiry,High,Closed,2026-02-23
+HF-CASE-000627,HF-M-001336,Appeal / Grievance,Low,Open,2025-07-07
+HF-CASE-000628,HF-M-001216,Appeal / Grievance,Medium,Open,2025-03-21
+HF-CASE-000629,HF-M-003792,Provider Network Inquiry,Urgent,Closed,2025-11-26
+HF-CASE-000630,HF-M-000934,Prior Authorization Follow-up,Low,Open,2026-08-19
+HF-CASE-000631,HF-M-001912,Prior Authorization Follow-up,Medium,Closed,2025-04-15
+HF-CASE-000632,HF-M-002174,Care Coordination,Medium,Closed,2025-11-21
+HF-CASE-000633,HF-M-003793,Benefits Question,Medium,Closed,2025-01-25
+HF-CASE-000634,HF-M-000997,Enrollment Support,Medium,Closed,2025-02-06
+HF-CASE-000635,HF-M-000933,Enrollment Support,Medium,Open,2025-02-23
+HF-CASE-000636,HF-M-000666,Benefits Question,Medium,Closed,2026-11-17
+HF-CASE-000637,HF-M-003728,Enrollment Support,Low,Open,2025-06-03
+HF-CASE-000638,HF-M-000424,Appeal / Grievance,Medium,Open,2025-12-20
+HF-CASE-000639,HF-M-002221,Provider Network Inquiry,Low,Closed,2026-06-20
+HF-CASE-000640,HF-M-003227,Care Coordination,High,Closed,2025-12-09
+HF-CASE-000641,HF-M-003552,Appeal / Grievance,Low,Closed,2026-11-12
+HF-CASE-000642,HF-M-000529,Care Coordination,High,Open,2026-01-13
+HF-CASE-000643,HF-M-002195,Provider Network Inquiry,Low,Closed,2026-05-16
+HF-CASE-000644,HF-M-002963,Appeal / Grievance,Urgent,Closed,2026-03-05
+HF-CASE-000645,HF-M-001216,Provider Network Inquiry,Urgent,Closed,2026-07-08
+HF-CASE-000646,HF-M-002331,Appeal / Grievance,Medium,Closed,2026-10-10
+HF-CASE-000647,HF-M-000338,Care Coordination,Medium,Closed,2026-01-24
+HF-CASE-000648,HF-M-003656,Appeal / Grievance,Low,Open,2026-01-25
+HF-CASE-000649,HF-M-003317,Prior Authorization Follow-up,Low,Open,2026-02-21
+HF-CASE-000650,HF-M-003985,Care Coordination,Urgent,Closed,2026-04-01
+HF-CASE-000651,HF-M-001134,Benefits Question,Low,Closed,2026-11-19
+HF-CASE-000652,HF-M-002102,Care Coordination,Urgent,Closed,2026-04-27
+HF-CASE-000653,HF-M-000557,Care Coordination,Low,Closed,2025-06-01
+HF-CASE-000654,HF-M-003932,Provider Network Inquiry,Urgent,Escalated,2025-02-05
+HF-CASE-000655,HF-M-003698,Prior Authorization Follow-up,Low,Closed,2025-07-05
+HF-CASE-000656,HF-M-001723,Care Coordination,High,Closed,2025-01-11
+HF-CASE-000657,HF-M-001752,Care Coordination,Medium,Closed,2025-03-21
+HF-CASE-000658,HF-M-000264,Provider Network Inquiry,Medium,Closed,2026-07-07
+HF-CASE-000659,HF-M-003982,Care Coordination,Medium,Closed,2025-03-25
+HF-CASE-000660,HF-M-002155,Prior Authorization Follow-up,Medium,Closed,2026-12-14
+HF-CASE-000661,HF-M-003248,Provider Network Inquiry,Low,Closed,2025-01-05
+HF-CASE-000662,HF-M-002651,Appeal / Grievance,Medium,Closed,2025-03-18
+HF-CASE-000663,HF-M-002415,Provider Network Inquiry,Low,Closed,2025-01-24
+HF-CASE-000664,HF-M-002736,Enrollment Support,Low,Closed,2026-08-18
+HF-CASE-000665,HF-M-003698,Provider Network Inquiry,Low,Closed,2025-03-01
+HF-CASE-000666,HF-M-002099,Care Coordination,Medium,Closed,2025-08-16
+HF-CASE-000667,HF-M-001200,Provider Network Inquiry,Urgent,Closed,2026-07-08
+HF-CASE-000668,HF-M-001946,Provider Network Inquiry,Urgent,Closed,2026-10-02
+HF-CASE-000669,HF-M-002804,Provider Network Inquiry,Medium,Open,2025-03-21
+HF-CASE-000670,HF-M-002050,Benefits Question,Medium,Open,2026-10-16
+HF-CASE-000671,HF-M-001093,Provider Network Inquiry,Urgent,Closed,2025-09-12
+HF-CASE-000672,HF-M-000676,Enrollment Support,Medium,Closed,2025-08-05
+HF-CASE-000673,HF-M-001674,Appeal / Grievance,Medium,Closed,2025-12-20
+HF-CASE-000674,HF-M-003715,Provider Network Inquiry,High,Closed,2025-05-04
+HF-CASE-000675,HF-M-003351,Care Coordination,Medium,Escalated,2026-09-24
+HF-CASE-000676,HF-M-003352,Prior Authorization Follow-up,Medium,Closed,2025-09-18
+HF-CASE-000677,HF-M-002007,Provider Network Inquiry,Medium,Closed,2026-08-23
+HF-CASE-000678,HF-M-000633,Care Coordination,Low,Open,2026-05-04
+HF-CASE-000679,HF-M-002561,Benefits Question,Medium,Closed,2025-07-19
+HF-CASE-000680,HF-M-001559,Prior Authorization Follow-up,High,Open,2025-06-16
+HF-CASE-000681,HF-M-001754,Benefits Question,Low,Closed,2025-05-14
+HF-CASE-000682,HF-M-003737,Benefits Question,Medium,Closed,2025-05-07
+HF-CASE-000683,HF-M-000233,Provider Network Inquiry,Urgent,Escalated,2025-03-04
+HF-CASE-000684,HF-M-002219,Provider Network Inquiry,High,Closed,2026-11-08
+HF-CASE-000685,HF-M-000192,Benefits Question,Medium,Closed,2026-06-09
+HF-CASE-000686,HF-M-002228,Enrollment Support,High,Closed,2025-07-16
+HF-CASE-000687,HF-M-000446,Provider Network Inquiry,Low,Closed,2026-02-17
+HF-CASE-000688,HF-M-003516,Care Coordination,Medium,Closed,2026-11-14
+HF-CASE-000689,HF-M-001549,Care Coordination,High,Closed,2026-11-12
+HF-CASE-000690,HF-M-003550,Care Coordination,Low,Open,2025-10-15
+HF-CASE-000691,HF-M-002866,Benefits Question,Medium,Closed,2025-11-25
+HF-CASE-000692,HF-M-003614,Provider Network Inquiry,Low,Open,2026-11-22
+HF-CASE-000693,HF-M-002379,Benefits Question,High,Closed,2025-05-10
+HF-CASE-000694,HF-M-003536,Appeal / Grievance,Medium,Closed,2025-01-24
+HF-CASE-000695,HF-M-003099,Prior Authorization Follow-up,Low,Closed,2026-11-23
+HF-CASE-000696,HF-M-002439,Provider Network Inquiry,Low,Open,2025-05-17
+HF-CASE-000697,HF-M-001637,Appeal / Grievance,Low,Closed,2026-10-26
+HF-CASE-000698,HF-M-000791,Benefits Question,High,Open,2026-09-13
+HF-CASE-000699,HF-M-002477,Care Coordination,Low,Closed,2025-04-16
+HF-CASE-000700,HF-M-000068,Prior Authorization Follow-up,Medium,Closed,2025-01-25
+HF-CASE-000701,HF-M-003344,Appeal / Grievance,Low,Closed,2025-07-21
+HF-CASE-000702,HF-M-000232,Prior Authorization Follow-up,Medium,Open,2025-12-24
+HF-CASE-000703,HF-M-000332,Prior Authorization Follow-up,Medium,Open,2026-11-13
+HF-CASE-000704,HF-M-002048,Appeal / Grievance,High,Closed,2026-05-06
+HF-CASE-000705,HF-M-000001,Benefits Question,Low,Closed,2025-01-02
+HF-CASE-000706,HF-M-000257,Provider Network Inquiry,Medium,Closed,2025-12-13
+HF-CASE-000707,HF-M-000759,Appeal / Grievance,Urgent,Closed,2025-07-27
+HF-CASE-000708,HF-M-002196,Provider Network Inquiry,Medium,Closed,2025-10-02
+HF-CASE-000709,HF-M-003265,Benefits Question,Low,Closed,2026-12-21
+HF-CASE-000710,HF-M-003463,Prior Authorization Follow-up,Low,Closed,2026-05-11
+HF-CASE-000711,HF-M-000147,Care Coordination,Medium,Open,2026-10-22
+HF-CASE-000712,HF-M-001203,Enrollment Support,Medium,Open,2025-03-01
+HF-CASE-000713,HF-M-000683,Appeal / Grievance,Urgent,Closed,2026-03-01
+HF-CASE-000714,HF-M-001935,Prior Authorization Follow-up,High,Escalated,2025-06-19
+HF-CASE-000715,HF-M-000886,Enrollment Support,Medium,Open,2025-12-27
+HF-CASE-000716,HF-M-001925,Appeal / Grievance,Low,Closed,2026-05-10
+HF-CASE-000717,HF-M-000350,Care Coordination,Medium,Open,2025-02-10
+HF-CASE-000718,HF-M-002868,Benefits Question,High,Closed,2026-08-21
+HF-CASE-000719,HF-M-000325,Prior Authorization Follow-up,Medium,Closed,2025-07-24
+HF-CASE-000720,HF-M-000401,Prior Authorization Follow-up,Medium,Closed,2025-11-27
+HF-CASE-000721,HF-M-002608,Prior Authorization Follow-up,Medium,Open,2026-11-04
+HF-CASE-000722,HF-M-003856,Benefits Question,Low,Closed,2025-11-10
+HF-CASE-000723,HF-M-001374,Prior Authorization Follow-up,Low,Closed,2025-02-16
+HF-CASE-000724,HF-M-000777,Care Coordination,Low,Closed,2025-02-21
+HF-CASE-000725,HF-M-000698,Provider Network Inquiry,Medium,Closed,2025-02-25
+HF-CASE-000726,HF-M-003569,Provider Network Inquiry,Medium,Closed,2026-08-02
+HF-CASE-000727,HF-M-000371,Prior Authorization Follow-up,Low,Closed,2026-10-10
+HF-CASE-000728,HF-M-003875,Enrollment Support,Low,Closed,2025-06-08
+HF-CASE-000729,HF-M-001843,Appeal / Grievance,Medium,Closed,2026-06-20
+HF-CASE-000730,HF-M-003394,Provider Network Inquiry,Medium,Closed,2026-05-01
+HF-CASE-000731,HF-M-002250,Appeal / Grievance,High,Closed,2025-11-22
+HF-CASE-000732,HF-M-002124,Enrollment Support,High,Closed,2026-10-25
+HF-CASE-000733,HF-M-002638,Care Coordination,High,Closed,2025-09-08
+HF-CASE-000734,HF-M-002492,Care Coordination,Medium,Escalated,2025-11-27
+HF-CASE-000735,HF-M-001389,Appeal / Grievance,Urgent,Open,2025-04-18
+HF-CASE-000736,HF-M-003910,Care Coordination,Medium,Closed,2025-01-06
+HF-CASE-000737,HF-M-003283,Prior Authorization Follow-up,Low,Closed,2026-05-19
+HF-CASE-000738,HF-M-000898,Benefits Question,Low,Closed,2026-01-15
+HF-CASE-000739,HF-M-001390,Benefits Question,Low,Closed,2025-03-08
+HF-CASE-000740,HF-M-002652,Care Coordination,Low,Closed,2026-01-25
+HF-CASE-000741,HF-M-002058,Care Coordination,Medium,Open,2026-05-07
+HF-CASE-000742,HF-M-002156,Enrollment Support,Medium,Closed,2025-08-12
+HF-CASE-000743,HF-M-002378,Provider Network Inquiry,Urgent,Closed,2025-08-19
+HF-CASE-000744,HF-M-002271,Appeal / Grievance,Low,Closed,2025-02-10
+HF-CASE-000745,HF-M-001790,Provider Network Inquiry,High,Closed,2025-04-21
+HF-CASE-000746,HF-M-002051,Prior Authorization Follow-up,High,Closed,2026-09-16
+HF-CASE-000747,HF-M-000696,Enrollment Support,Medium,Closed,2026-03-17
+HF-CASE-000748,HF-M-001357,Care Coordination,High,Closed,2025-02-27
+HF-CASE-000749,HF-M-002621,Benefits Question,High,Closed,2026-04-18
+HF-CASE-000750,HF-M-003622,Prior Authorization Follow-up,Urgent,Closed,2026-01-23
+HF-CASE-000751,HF-M-001878,Benefits Question,Low,Closed,2025-05-15
+HF-CASE-000752,HF-M-003342,Appeal / Grievance,Urgent,Closed,2025-01-21
+HF-CASE-000753,HF-M-000159,Appeal / Grievance,High,Closed,2025-04-11
+HF-CASE-000754,HF-M-002703,Enrollment Support,High,Closed,2025-08-21
+HF-CASE-000755,HF-M-000708,Provider Network Inquiry,Medium,Closed,2026-09-16
+HF-CASE-000756,HF-M-003597,Care Coordination,Medium,Escalated,2025-07-25
+HF-CASE-000757,HF-M-000154,Care Coordination,Medium,Open,2026-12-21
+HF-CASE-000758,HF-M-002866,Benefits Question,Medium,Closed,2025-09-03
+HF-CASE-000759,HF-M-001212,Prior Authorization Follow-up,Medium,Closed,2025-08-01
+HF-CASE-000760,HF-M-000342,Provider Network Inquiry,Medium,Closed,2026-03-04
+HF-CASE-000761,HF-M-001985,Care Coordination,Low,Closed,2026-01-14
+HF-CASE-000762,HF-M-002487,Prior Authorization Follow-up,Medium,Closed,2026-05-18
+HF-CASE-000763,HF-M-002020,Provider Network Inquiry,Low,Closed,2026-04-07
+HF-CASE-000764,HF-M-003806,Enrollment Support,Low,Closed,2025-05-23
+HF-CASE-000765,HF-M-002268,Appeal / Grievance,Medium,Closed,2026-05-07
+HF-CASE-000766,HF-M-001376,Provider Network Inquiry,Medium,Closed,2025-03-17
+HF-CASE-000767,HF-M-003963,Prior Authorization Follow-up,High,Escalated,2025-05-05
+HF-CASE-000768,HF-M-003566,Appeal / Grievance,Urgent,Closed,2025-05-02
+HF-CASE-000769,HF-M-003341,Provider Network Inquiry,High,Closed,2025-12-28
+HF-CASE-000770,HF-M-003898,Care Coordination,Low,Closed,2026-04-12
+HF-CASE-000771,HF-M-000051,Provider Network Inquiry,Low,Open,2026-10-06
+HF-CASE-000772,HF-M-001405,Care Coordination,High,Closed,2025-07-03
+HF-CASE-000773,HF-M-001933,Benefits Question,Low,Open,2025-09-18
+HF-CASE-000774,HF-M-002666,Enrollment Support,High,Closed,2026-01-02
+HF-CASE-000775,HF-M-000585,Appeal / Grievance,High,Closed,2025-04-20
+HF-CASE-000776,HF-M-002370,Provider Network Inquiry,High,Closed,2025-10-22
+HF-CASE-000777,HF-M-002068,Care Coordination,Medium,Closed,2026-06-04
+HF-CASE-000778,HF-M-003809,Enrollment Support,Low,Closed,2025-08-27
+HF-CASE-000779,HF-M-002189,Prior Authorization Follow-up,Medium,Escalated,2026-05-10
+HF-CASE-000780,HF-M-002657,Care Coordination,Low,Closed,2026-01-16
+HF-CASE-000781,HF-M-002004,Appeal / Grievance,Low,Closed,2025-12-08
+HF-CASE-000782,HF-M-003721,Enrollment Support,Low,Closed,2026-02-03
+HF-CASE-000783,HF-M-002082,Care Coordination,Medium,Closed,2025-06-09
+HF-CASE-000784,HF-M-000522,Enrollment Support,Urgent,Open,2025-07-05
+HF-CASE-000785,HF-M-001448,Prior Authorization Follow-up,Low,Closed,2026-07-13
+HF-CASE-000786,HF-M-002890,Prior Authorization Follow-up,Low,Closed,2026-01-12
+HF-CASE-000787,HF-M-001849,Benefits Question,Medium,Closed,2025-05-05
+HF-CASE-000788,HF-M-001378,Benefits Question,Medium,Closed,2025-09-12
+HF-CASE-000789,HF-M-003040,Appeal / Grievance,Low,Closed,2026-08-23
+HF-CASE-000790,HF-M-003401,Benefits Question,High,Open,2026-07-28
+HF-CASE-000791,HF-M-001520,Enrollment Support,Low,Closed,2026-11-05
+HF-CASE-000792,HF-M-000618,Provider Network Inquiry,Medium,Closed,2025-07-01
+HF-CASE-000793,HF-M-000697,Provider Network Inquiry,Medium,Closed,2026-09-01
+HF-CASE-000794,HF-M-003336,Benefits Question,Medium,Closed,2026-11-27
+HF-CASE-000795,HF-M-000810,Enrollment Support,High,Closed,2025-09-18
+HF-CASE-000796,HF-M-002480,Prior Authorization Follow-up,Medium,Closed,2025-11-20
+HF-CASE-000797,HF-M-001831,Prior Authorization Follow-up,Urgent,Escalated,2025-09-14
+HF-CASE-000798,HF-M-001740,Care Coordination,High,Open,2026-04-12
+HF-CASE-000799,HF-M-002879,Care Coordination,Medium,Closed,2026-08-20
+HF-CASE-000800,HF-M-003670,Appeal / Grievance,Medium,Closed,2026-09-13
+HF-CASE-000801,HF-M-002282,Provider Network Inquiry,Low,Closed,2026-06-04
+HF-CASE-000802,HF-M-002742,Benefits Question,Low,Open,2025-05-13
+HF-CASE-000803,HF-M-001733,Prior Authorization Follow-up,Low,Closed,2025-05-18
+HF-CASE-000804,HF-M-002720,Appeal / Grievance,Medium,Closed,2026-03-28
+HF-CASE-000805,HF-M-002019,Care Coordination,Low,Closed,2025-02-03
+HF-CASE-000806,HF-M-001498,Prior Authorization Follow-up,Urgent,Open,2025-11-04
+HF-CASE-000807,HF-M-003992,Care Coordination,High,Closed,2026-09-12
+HF-CASE-000808,HF-M-001397,Prior Authorization Follow-up,High,Closed,2025-10-22
+HF-CASE-000809,HF-M-003222,Enrollment Support,High,Closed,2025-05-01
+HF-CASE-000810,HF-M-000427,Benefits Question,Medium,Closed,2026-05-18
+HF-CASE-000811,HF-M-001083,Prior Authorization Follow-up,Low,Closed,2025-01-04
+HF-CASE-000812,HF-M-001228,Benefits Question,Low,Closed,2026-11-26
+HF-CASE-000813,HF-M-000420,Prior Authorization Follow-up,Medium,Closed,2026-04-22
+HF-CASE-000814,HF-M-003774,Appeal / Grievance,Urgent,Open,2025-09-28
+HF-CASE-000815,HF-M-001824,Benefits Question,Low,Closed,2025-11-01
+HF-CASE-000816,HF-M-003007,Prior Authorization Follow-up,High,Open,2026-04-11
+HF-CASE-000817,HF-M-002877,Benefits Question,Medium,Closed,2026-02-16
+HF-CASE-000818,HF-M-001955,Prior Authorization Follow-up,Low,Closed,2026-05-02
+HF-CASE-000819,HF-M-003657,Appeal / Grievance,High,Escalated,2026-10-11
+HF-CASE-000820,HF-M-000803,Benefits Question,Medium,Closed,2026-03-18
+HF-CASE-000821,HF-M-003697,Care Coordination,Medium,Closed,2025-08-05
+HF-CASE-000822,HF-M-001314,Provider Network Inquiry,Low,Open,2025-07-24
+HF-CASE-000823,HF-M-002192,Provider Network Inquiry,Urgent,Closed,2026-11-11
+HF-CASE-000824,HF-M-000072,Appeal / Grievance,Low,Open,2025-03-16
+HF-CASE-000825,HF-M-000113,Care Coordination,Low,Open,2026-06-23
+HF-CASE-000826,HF-M-001951,Prior Authorization Follow-up,Low,Closed,2025-06-05
+HF-CASE-000827,HF-M-003335,Prior Authorization Follow-up,Low,Closed,2026-06-10
+HF-CASE-000828,HF-M-003745,Enrollment Support,High,Closed,2026-09-22
+HF-CASE-000829,HF-M-000230,Appeal / Grievance,Low,Closed,2025-08-10
+HF-CASE-000830,HF-M-002185,Prior Authorization Follow-up,Medium,Closed,2026-09-17
+HF-CASE-000831,HF-M-000770,Provider Network Inquiry,Medium,Closed,2026-08-20
+HF-CASE-000832,HF-M-000460,Care Coordination,Medium,Open,2026-10-21
+HF-CASE-000833,HF-M-000332,Benefits Question,Low,Closed,2025-03-23
+HF-CASE-000834,HF-M-000803,Appeal / Grievance,Low,Closed,2025-05-27
+HF-CASE-000835,HF-M-000652,Prior Authorization Follow-up,Low,Open,2026-09-19
+HF-CASE-000836,HF-M-000422,Benefits Question,High,Closed,2026-06-22
+HF-CASE-000837,HF-M-002221,Enrollment Support,High,Escalated,2026-12-06
+HF-CASE-000838,HF-M-000096,Benefits Question,Low,Closed,2025-10-23
+HF-CASE-000839,HF-M-001093,Enrollment Support,Low,Closed,2026-01-10
+HF-CASE-000840,HF-M-002151,Provider Network Inquiry,High,Closed,2025-07-16
+HF-CASE-000841,HF-M-000054,Provider Network Inquiry,High,Escalated,2025-05-01
+HF-CASE-000842,HF-M-002083,Enrollment Support,Medium,Escalated,2025-11-02
+HF-CASE-000843,HF-M-000127,Care Coordination,Medium,Closed,2025-09-11
+HF-CASE-000844,HF-M-000628,Provider Network Inquiry,High,Open,2026-08-01
+HF-CASE-000845,HF-M-003383,Enrollment Support,High,Closed,2026-03-03
+HF-CASE-000846,HF-M-002219,Enrollment Support,Medium,Open,2025-06-15
+HF-CASE-000847,HF-M-002012,Enrollment Support,High,Escalated,2026-04-26
+HF-CASE-000848,HF-M-001663,Enrollment Support,Medium,Closed,2026-11-20
+HF-CASE-000849,HF-M-000176,Enrollment Support,Medium,Open,2026-04-20
+HF-CASE-000850,HF-M-002963,Prior Authorization Follow-up,Medium,Closed,2025-04-14
+HF-CASE-000851,HF-M-002390,Appeal / Grievance,Medium,Closed,2026-09-07
+HF-CASE-000852,HF-M-000043,Appeal / Grievance,Medium,Closed,2026-07-10
+HF-CASE-000853,HF-M-001031,Appeal / Grievance,Low,Closed,2026-05-17
+HF-CASE-000854,HF-M-000610,Care Coordination,High,Closed,2025-11-22
+HF-CASE-000855,HF-M-000787,Appeal / Grievance,Urgent,Open,2025-11-20
+HF-CASE-000856,HF-M-000075,Care Coordination,High,Open,2025-06-23
+HF-CASE-000857,HF-M-002016,Enrollment Support,High,Open,2025-09-07
+HF-CASE-000858,HF-M-002876,Prior Authorization Follow-up,High,Open,2026-12-06
+HF-CASE-000859,HF-M-000582,Provider Network Inquiry,Medium,Closed,2025-02-03
+HF-CASE-000860,HF-M-003519,Appeal / Grievance,Medium,Open,2025-05-17
+HF-CASE-000861,HF-M-003401,Appeal / Grievance,Medium,Closed,2025-07-06
+HF-CASE-000862,HF-M-002282,Provider Network Inquiry,Medium,Closed,2026-08-26
+HF-CASE-000863,HF-M-002629,Appeal / Grievance,Low,Closed,2026-08-04
+HF-CASE-000864,HF-M-002332,Prior Authorization Follow-up,Low,Closed,2025-12-01
+HF-CASE-000865,HF-M-000679,Care Coordination,High,Open,2026-10-17
+HF-CASE-000866,HF-M-000190,Enrollment Support,Low,Closed,2025-10-24
+HF-CASE-000867,HF-M-003001,Provider Network Inquiry,High,Closed,2025-10-01
+HF-CASE-000868,HF-M-002365,Appeal / Grievance,Low,Escalated,2025-03-18
+HF-CASE-000869,HF-M-003251,Enrollment Support,High,Open,2025-11-15
+HF-CASE-000870,HF-M-001413,Care Coordination,High,Closed,2026-01-22
+HF-CASE-000871,HF-M-002185,Enrollment Support,Low,Open,2026-08-22
+HF-CASE-000872,HF-M-002767,Care Coordination,High,Closed,2025-05-19
+HF-CASE-000873,HF-M-002756,Appeal / Grievance,High,Closed,2025-05-04
+HF-CASE-000874,HF-M-003558,Provider Network Inquiry,Urgent,Closed,2025-06-14
+HF-CASE-000875,HF-M-001915,Enrollment Support,Low,Closed,2025-11-19
+HF-CASE-000876,HF-M-000076,Appeal / Grievance,Low,Closed,2026-12-05
+HF-CASE-000877,HF-M-001916,Enrollment Support,Urgent,Closed,2026-09-22
+HF-CASE-000878,HF-M-000043,Provider Network Inquiry,Low,Closed,2025-08-27
+HF-CASE-000879,HF-M-001162,Care Coordination,Medium,Open,2026-03-05
+HF-CASE-000880,HF-M-000080,Prior Authorization Follow-up,Medium,Closed,2025-07-09
+HF-CASE-000881,HF-M-000978,Care Coordination,Medium,Closed,2026-03-08
+HF-CASE-000882,HF-M-001466,Provider Network Inquiry,Medium,Escalated,2025-03-28
+HF-CASE-000883,HF-M-002342,Care Coordination,Low,Escalated,2026-06-04
+HF-CASE-000884,HF-M-001487,Appeal / Grievance,Medium,Closed,2025-04-22
+HF-CASE-000885,HF-M-001153,Enrollment Support,Urgent,Closed,2026-05-15
+HF-CASE-000886,HF-M-002547,Provider Network Inquiry,Medium,Closed,2026-06-26
+HF-CASE-000887,HF-M-002671,Appeal / Grievance,Low,Closed,2026-07-17
+HF-CASE-000888,HF-M-003185,Care Coordination,Low,Escalated,2025-06-23
+HF-CASE-000889,HF-M-000551,Prior Authorization Follow-up,High,Closed,2025-10-26
+HF-CASE-000890,HF-M-001610,Appeal / Grievance,Low,Closed,2026-12-17
+HF-CASE-000891,HF-M-001406,Prior Authorization Follow-up,Medium,Open,2025-12-20
+HF-CASE-000892,HF-M-002626,Prior Authorization Follow-up,High,Open,2025-03-19
+HF-CASE-000893,HF-M-002560,Appeal / Grievance,Medium,Escalated,2026-12-16
+HF-CASE-000894,HF-M-003689,Prior Authorization Follow-up,Low,Escalated,2025-04-20
+HF-CASE-000895,HF-M-002383,Prior Authorization Follow-up,Low,Closed,2025-01-14
+HF-CASE-000896,HF-M-000482,Provider Network Inquiry,Low,Open,2026-11-02
+HF-CASE-000897,HF-M-001624,Appeal / Grievance,Medium,Open,2025-11-03
+HF-CASE-000898,HF-M-002249,Prior Authorization Follow-up,High,Closed,2026-11-19
+HF-CASE-000899,HF-M-002336,Enrollment Support,Low,Closed,2026-06-13
+HF-CASE-000900,HF-M-001997,Care Coordination,Low,Closed,2026-05-05
+HF-CASE-000901,HF-M-000143,Care Coordination,Medium,Open,2026-03-21
+HF-CASE-000902,HF-M-001894,Appeal / Grievance,High,Escalated,2025-04-15
+HF-CASE-000903,HF-M-003458,Benefits Question,High,Closed,2026-09-14
+HF-CASE-000904,HF-M-003380,Prior Authorization Follow-up,High,Closed,2025-07-09
+HF-CASE-000905,HF-M-003819,Provider Network Inquiry,Medium,Closed,2026-02-15
+HF-CASE-000906,HF-M-001290,Provider Network Inquiry,Urgent,Open,2026-12-01
+HF-CASE-000907,HF-M-000244,Enrollment Support,Medium,Open,2025-09-04
+HF-CASE-000908,HF-M-003546,Prior Authorization Follow-up,Low,Open,2025-04-09
+HF-CASE-000909,HF-M-001194,Appeal / Grievance,High,Escalated,2025-01-06
+HF-CASE-000910,HF-M-000716,Appeal / Grievance,Low,Closed,2025-07-01
+HF-CASE-000911,HF-M-002590,Provider Network Inquiry,Urgent,Closed,2025-08-01
+HF-CASE-000912,HF-M-003038,Provider Network Inquiry,High,Open,2025-07-08
+HF-CASE-000913,HF-M-000987,Enrollment Support,Medium,Open,2025-11-02
+HF-CASE-000914,HF-M-003694,Appeal / Grievance,Low,Closed,2026-03-04
+HF-CASE-000915,HF-M-000580,Benefits Question,Low,Closed,2025-03-09
+HF-CASE-000916,HF-M-000385,Prior Authorization Follow-up,Urgent,Closed,2026-01-01
+HF-CASE-000917,HF-M-001643,Benefits Question,High,Closed,2025-05-15
+HF-CASE-000918,HF-M-002830,Prior Authorization Follow-up,Medium,Closed,2025-10-01
+HF-CASE-000919,HF-M-003541,Care Coordination,Low,Closed,2025-05-11
+HF-CASE-000920,HF-M-000192,Care Coordination,Urgent,Closed,2025-07-24
+HF-CASE-000921,HF-M-003575,Provider Network Inquiry,Low,Closed,2026-03-28
+HF-CASE-000922,HF-M-003009,Benefits Question,Low,Closed,2026-05-11
+HF-CASE-000923,HF-M-000925,Prior Authorization Follow-up,Low,Closed,2025-07-18
+HF-CASE-000924,HF-M-001093,Provider Network Inquiry,Low,Open,2026-07-10
+HF-CASE-000925,HF-M-000813,Enrollment Support,Medium,Closed,2026-10-08
+HF-CASE-000926,HF-M-000482,Enrollment Support,Urgent,Closed,2025-08-20
+HF-CASE-000927,HF-M-000203,Prior Authorization Follow-up,Medium,Closed,2026-06-15
+HF-CASE-000928,HF-M-000975,Benefits Question,Medium,Closed,2026-02-07
+HF-CASE-000929,HF-M-003439,Enrollment Support,Low,Closed,2025-07-06
+HF-CASE-000930,HF-M-003424,Benefits Question,Low,Closed,2025-10-22
+HF-CASE-000931,HF-M-001889,Enrollment Support,Medium,Closed,2026-10-10
+HF-CASE-000932,HF-M-001365,Enrollment Support,High,Closed,2025-05-05
+HF-CASE-000933,HF-M-002688,Appeal / Grievance,Medium,Closed,2026-04-17
+HF-CASE-000934,HF-M-002656,Provider Network Inquiry,Medium,Closed,2026-07-24
+HF-CASE-000935,HF-M-000466,Enrollment Support,Low,Closed,2026-12-13
+HF-CASE-000936,HF-M-000936,Care Coordination,High,Open,2026-05-23
+HF-CASE-000937,HF-M-000172,Appeal / Grievance,High,Open,2025-01-23
+HF-CASE-000938,HF-M-000650,Care Coordination,High,Open,2026-10-12
+HF-CASE-000939,HF-M-000421,Enrollment Support,Medium,Escalated,2025-06-16
+HF-CASE-000940,HF-M-000118,Care Coordination,Low,Closed,2025-11-08
+HF-CASE-000941,HF-M-002128,Enrollment Support,Urgent,Closed,2025-11-02
+HF-CASE-000942,HF-M-000893,Provider Network Inquiry,Low,Closed,2025-09-02
+HF-CASE-000943,HF-M-000208,Provider Network Inquiry,Urgent,Open,2025-02-25
+HF-CASE-000944,HF-M-003928,Appeal / Grievance,Low,Escalated,2026-09-04
+HF-CASE-000945,HF-M-001370,Appeal / Grievance,High,Closed,2025-07-12
+HF-CASE-000946,HF-M-001170,Appeal / Grievance,High,Open,2026-03-24
+HF-CASE-000947,HF-M-001153,Enrollment Support,Medium,Open,2026-06-08
+HF-CASE-000948,HF-M-002090,Prior Authorization Follow-up,Low,Closed,2025-06-22
+HF-CASE-000949,HF-M-001240,Enrollment Support,Urgent,Closed,2025-06-18
+HF-CASE-000950,HF-M-002712,Enrollment Support,Urgent,Closed,2025-08-03
+HF-CASE-000951,HF-M-002854,Benefits Question,Urgent,Open,2026-05-09
+HF-CASE-000952,HF-M-003238,Provider Network Inquiry,Medium,Closed,2025-05-13
+HF-CASE-000953,HF-M-001659,Appeal / Grievance,Low,Closed,2026-09-09
+HF-CASE-000954,HF-M-000630,Enrollment Support,High,Open,2025-01-04
+HF-CASE-000955,HF-M-003056,Benefits Question,Low,Escalated,2025-02-14
+HF-CASE-000956,HF-M-002625,Appeal / Grievance,Medium,Closed,2026-08-21
+HF-CASE-000957,HF-M-000185,Benefits Question,High,Closed,2026-02-20
+HF-CASE-000958,HF-M-000883,Benefits Question,Low,Closed,2025-06-09
+HF-CASE-000959,HF-M-003444,Enrollment Support,Low,Open,2026-05-03
+HF-CASE-000960,HF-M-001459,Appeal / Grievance,Urgent,Open,2025-04-27
+HF-CASE-000961,HF-M-001026,Enrollment Support,Medium,Closed,2025-06-03
+HF-CASE-000962,HF-M-002696,Benefits Question,Medium,Open,2025-06-08
+HF-CASE-000963,HF-M-001902,Provider Network Inquiry,High,Closed,2025-12-12
+HF-CASE-000964,HF-M-002698,Benefits Question,High,Closed,2026-07-18
+HF-CASE-000965,HF-M-001238,Care Coordination,High,Closed,2025-07-05
+HF-CASE-000966,HF-M-002966,Provider Network Inquiry,Low,Closed,2025-07-05
+HF-CASE-000967,HF-M-001067,Enrollment Support,Medium,Closed,2025-08-22
+HF-CASE-000968,HF-M-002561,Enrollment Support,High,Closed,2025-03-19
+HF-CASE-000969,HF-M-001477,Benefits Question,Low,Open,2025-06-24
+HF-CASE-000970,HF-M-001311,Benefits Question,High,Closed,2025-02-18
+HF-CASE-000971,HF-M-000747,Prior Authorization Follow-up,Low,Open,2026-12-28
+HF-CASE-000972,HF-M-003736,Enrollment Support,Medium,Open,2025-01-18
+HF-CASE-000973,HF-M-003803,Benefits Question,Low,Closed,2025-11-16
+HF-CASE-000974,HF-M-003971,Prior Authorization Follow-up,Medium,Open,2026-11-28
+HF-CASE-000975,HF-M-000645,Provider Network Inquiry,Medium,Escalated,2025-04-07
+HF-CASE-000976,HF-M-003389,Care Coordination,Medium,Escalated,2026-03-11
+HF-CASE-000977,HF-M-003107,Provider Network Inquiry,Medium,Closed,2026-12-06
+HF-CASE-000978,HF-M-001459,Enrollment Support,Medium,Closed,2025-04-23
+HF-CASE-000979,HF-M-000464,Benefits Question,Low,Closed,2025-02-24
+HF-CASE-000980,HF-M-000797,Appeal / Grievance,Low,Open,2025-05-24
+HF-CASE-000981,HF-M-002074,Benefits Question,Medium,Escalated,2025-08-09
+HF-CASE-000982,HF-M-000962,Appeal / Grievance,Medium,Closed,2026-03-03
+HF-CASE-000983,HF-M-003704,Provider Network Inquiry,Urgent,Open,2025-02-10
+HF-CASE-000984,HF-M-001489,Prior Authorization Follow-up,Low,Closed,2026-03-11
+HF-CASE-000985,HF-M-003770,Provider Network Inquiry,Medium,Closed,2025-02-19
+HF-CASE-000986,HF-M-002811,Care Coordination,Low,Closed,2025-02-14
+HF-CASE-000987,HF-M-000003,Provider Network Inquiry,Low,Closed,2026-11-11
+HF-CASE-000988,HF-M-003713,Enrollment Support,Medium,Closed,2026-02-21
+HF-CASE-000989,HF-M-003965,Care Coordination,Urgent,Escalated,2025-09-12
+HF-CASE-000990,HF-M-001338,Appeal / Grievance,Low,Open,2025-04-01
+HF-CASE-000991,HF-M-001644,Care Coordination,Low,Closed,2025-01-11
+HF-CASE-000992,HF-M-001897,Provider Network Inquiry,Medium,Escalated,2025-11-15
+HF-CASE-000993,HF-M-000429,Enrollment Support,High,Closed,2026-11-05
+HF-CASE-000994,HF-M-003722,Care Coordination,Medium,Closed,2025-07-27
+HF-CASE-000995,HF-M-001579,Prior Authorization Follow-up,High,Closed,2025-03-18
+HF-CASE-000996,HF-M-002880,Care Coordination,Medium,Closed,2025-06-19
+HF-CASE-000997,HF-M-001118,Care Coordination,High,Closed,2025-07-19
+HF-CASE-000998,HF-M-002601,Benefits Question,Urgent,Closed,2025-06-06
+HF-CASE-000999,HF-M-003085,Benefits Question,Low,Closed,2025-10-01
+HF-CASE-001000,HF-M-000417,Prior Authorization Follow-up,High,Closed,2025-11-22
+HF-CASE-001001,HF-M-003618,Prior Authorization Follow-up,Low,Open,2025-07-06
+HF-CASE-001002,HF-M-000906,Appeal / Grievance,Urgent,Open,2025-01-10
+HF-CASE-001003,HF-M-002762,Benefits Question,High,Closed,2025-09-25
+HF-CASE-001004,HF-M-000651,Enrollment Support,Low,Open,2026-09-18
+HF-CASE-001005,HF-M-003912,Care Coordination,Medium,Open,2025-02-03
+HF-CASE-001006,HF-M-001186,Provider Network Inquiry,Medium,Closed,2026-08-14
+HF-CASE-001007,HF-M-002220,Benefits Question,High,Closed,2025-11-25
+HF-CASE-001008,HF-M-003796,Enrollment Support,Low,Closed,2025-08-25
+HF-CASE-001009,HF-M-000210,Prior Authorization Follow-up,Low,Closed,2025-08-18
+HF-CASE-001010,HF-M-003991,Provider Network Inquiry,Low,Open,2026-12-01
+HF-CASE-001011,HF-M-000806,Enrollment Support,Low,Open,2025-11-19
+HF-CASE-001012,HF-M-000089,Enrollment Support,Medium,Closed,2026-03-12
+HF-CASE-001013,HF-M-002493,Benefits Question,High,Closed,2025-02-05
+HF-CASE-001014,HF-M-000472,Appeal / Grievance,Low,Closed,2025-02-06
+HF-CASE-001015,HF-M-002803,Benefits Question,Medium,Open,2025-07-01
+HF-CASE-001016,HF-M-002864,Enrollment Support,Low,Closed,2025-12-06
+HF-CASE-001017,HF-M-002444,Appeal / Grievance,Medium,Closed,2025-01-20
+HF-CASE-001018,HF-M-002948,Benefits Question,High,Open,2025-10-07
+HF-CASE-001019,HF-M-001146,Enrollment Support,High,Closed,2026-10-04
+HF-CASE-001020,HF-M-001146,Provider Network Inquiry,Low,Closed,2026-06-28
+HF-CASE-001021,HF-M-003290,Prior Authorization Follow-up,Medium,Closed,2025-12-21
+HF-CASE-001022,HF-M-002492,Appeal / Grievance,Low,Closed,2026-11-11
+HF-CASE-001023,HF-M-001701,Prior Authorization Follow-up,Medium,Closed,2026-03-18
+HF-CASE-001024,HF-M-000535,Enrollment Support,Low,Closed,2026-04-27
+HF-CASE-001025,HF-M-000086,Care Coordination,Low,Closed,2025-08-05
+HF-CASE-001026,HF-M-002977,Appeal / Grievance,Low,Closed,2025-10-12
+HF-CASE-001027,HF-M-001168,Appeal / Grievance,Low,Open,2026-02-21
+HF-CASE-001028,HF-M-002995,Appeal / Grievance,Low,Closed,2025-06-28
+HF-CASE-001029,HF-M-003275,Prior Authorization Follow-up,Medium,Escalated,2026-03-08
+HF-CASE-001030,HF-M-003139,Enrollment Support,Medium,Closed,2026-03-12
+HF-CASE-001031,HF-M-000367,Enrollment Support,Medium,Closed,2026-11-20
+HF-CASE-001032,HF-M-000018,Benefits Question,Medium,Closed,2026-11-17
+HF-CASE-001033,HF-M-000846,Appeal / Grievance,Low,Open,2026-07-20
+HF-CASE-001034,HF-M-001093,Enrollment Support,Low,Closed,2025-01-20
+HF-CASE-001035,HF-M-003478,Prior Authorization Follow-up,High,Closed,2025-03-15
+HF-CASE-001036,HF-M-002100,Provider Network Inquiry,Medium,Closed,2025-02-21
+HF-CASE-001037,HF-M-000736,Enrollment Support,Medium,Closed,2026-02-20
+HF-CASE-001038,HF-M-000209,Prior Authorization Follow-up,Low,Open,2026-03-01
+HF-CASE-001039,HF-M-001517,Enrollment Support,High,Open,2025-07-24
+HF-CASE-001040,HF-M-001382,Prior Authorization Follow-up,High,Closed,2025-09-16
+HF-CASE-001041,HF-M-001452,Care Coordination,Low,Escalated,2026-09-01
+HF-CASE-001042,HF-M-002665,Provider Network Inquiry,High,Closed,2026-01-27
+HF-CASE-001043,HF-M-003742,Benefits Question,High,Closed,2026-12-26
+HF-CASE-001044,HF-M-003527,Enrollment Support,Low,Closed,2026-12-23
+HF-CASE-001045,HF-M-003354,Care Coordination,Medium,Closed,2025-05-11
+HF-CASE-001046,HF-M-001877,Prior Authorization Follow-up,Medium,Closed,2026-03-12
+HF-CASE-001047,HF-M-003522,Provider Network Inquiry,Medium,Closed,2026-11-01
+HF-CASE-001048,HF-M-001971,Care Coordination,Low,Closed,2026-10-21
+HF-CASE-001049,HF-M-002767,Provider Network Inquiry,Medium,Closed,2025-06-08
+HF-CASE-001050,HF-M-000188,Benefits Question,Low,Closed,2025-11-20
+HF-CASE-001051,HF-M-001918,Benefits Question,High,Closed,2026-10-02
+HF-CASE-001052,HF-M-001965,Appeal / Grievance,High,Closed,2026-01-15
+HF-CASE-001053,HF-M-003603,Enrollment Support,Low,Escalated,2025-06-04
+HF-CASE-001054,HF-M-003184,Appeal / Grievance,High,Closed,2025-11-07
+HF-CASE-001055,HF-M-000367,Provider Network Inquiry,Medium,Closed,2025-11-19
+HF-CASE-001056,HF-M-002145,Care Coordination,Low,Closed,2026-12-13
+HF-CASE-001057,HF-M-002536,Enrollment Support,High,Closed,2026-04-19
+HF-CASE-001058,HF-M-000275,Care Coordination,Medium,Closed,2025-09-23
+HF-CASE-001059,HF-M-000003,Prior Authorization Follow-up,Low,Closed,2025-09-19
+HF-CASE-001060,HF-M-003964,Care Coordination,Medium,Closed,2025-10-16
+HF-CASE-001061,HF-M-002834,Enrollment Support,Low,Open,2026-01-15
+HF-CASE-001062,HF-M-002800,Appeal / Grievance,Medium,Closed,2026-05-12
+HF-CASE-001063,HF-M-003171,Appeal / Grievance,Medium,Closed,2026-12-13
+HF-CASE-001064,HF-M-002062,Care Coordination,Medium,Closed,2026-08-23
+HF-CASE-001065,HF-M-003734,Provider Network Inquiry,Low,Closed,2025-11-07
+HF-CASE-001066,HF-M-002294,Care Coordination,Medium,Closed,2026-02-19
+HF-CASE-001067,HF-M-003630,Appeal / Grievance,Low,Closed,2025-08-02
+HF-CASE-001068,HF-M-003038,Benefits Question,Medium,Closed,2026-10-13
+HF-CASE-001069,HF-M-000437,Benefits Question,Urgent,Closed,2026-11-19
+HF-CASE-001070,HF-M-000815,Provider Network Inquiry,Medium,Closed,2026-09-03
+HF-CASE-001071,HF-M-000926,Care Coordination,Low,Closed,2025-10-22
+HF-CASE-001072,HF-M-001455,Care Coordination,High,Closed,2025-11-22
+HF-CASE-001073,HF-M-000121,Benefits Question,High,Closed,2025-05-05
+HF-CASE-001074,HF-M-003615,Appeal / Grievance,Low,Open,2025-02-23
+HF-CASE-001075,HF-M-003771,Prior Authorization Follow-up,High,Closed,2026-01-07
+HF-CASE-001076,HF-M-001629,Care Coordination,High,Escalated,2026-01-05
+HF-CASE-001077,HF-M-002370,Provider Network Inquiry,High,Closed,2026-09-21
+HF-CASE-001078,HF-M-000893,Enrollment Support,Low,Closed,2025-01-08
+HF-CASE-001079,HF-M-002748,Provider Network Inquiry,Low,Closed,2026-03-19
+HF-CASE-001080,HF-M-000491,Benefits Question,Medium,Closed,2025-02-19
+HF-CASE-001081,HF-M-002168,Enrollment Support,Medium,Closed,2025-09-03
+HF-CASE-001082,HF-M-003142,Care Coordination,Medium,Closed,2025-08-14
+HF-CASE-001083,HF-M-000364,Enrollment Support,Low,Escalated,2026-05-03
+HF-CASE-001084,HF-M-001363,Prior Authorization Follow-up,Medium,Closed,2025-08-05
+HF-CASE-001085,HF-M-001983,Care Coordination,High,Closed,2026-10-23
+HF-CASE-001086,HF-M-002513,Benefits Question,High,Closed,2025-12-17
+HF-CASE-001087,HF-M-002532,Provider Network Inquiry,Medium,Closed,2026-03-25
+HF-CASE-001088,HF-M-003610,Provider Network Inquiry,Low,Open,2026-08-09
+HF-CASE-001089,HF-M-000231,Provider Network Inquiry,Medium,Closed,2025-01-26
+HF-CASE-001090,HF-M-000676,Care Coordination,Low,Closed,2026-01-08
+HF-CASE-001091,HF-M-001223,Provider Network Inquiry,High,Closed,2026-04-09
+HF-CASE-001092,HF-M-000482,Prior Authorization Follow-up,Medium,Closed,2026-07-16
+HF-CASE-001093,HF-M-002439,Provider Network Inquiry,Low,Closed,2025-10-12
+HF-CASE-001094,HF-M-000767,Appeal / Grievance,Medium,Closed,2026-12-08
+HF-CASE-001095,HF-M-003836,Benefits Question,Medium,Closed,2025-06-28
+HF-CASE-001096,HF-M-001228,Prior Authorization Follow-up,High,Closed,2025-05-22
+HF-CASE-001097,HF-M-001219,Care Coordination,Low,Closed,2025-09-01
+HF-CASE-001098,HF-M-000731,Provider Network Inquiry,Low,Closed,2026-03-25
+HF-CASE-001099,HF-M-000222,Prior Authorization Follow-up,Low,Closed,2026-06-20
+HF-CASE-001100,HF-M-001876,Enrollment Support,Low,Closed,2025-03-15
+HF-CASE-001101,HF-M-003610,Appeal / Grievance,Medium,Closed,2025-08-12
+HF-CASE-001102,HF-M-000146,Care Coordination,Low,Escalated,2026-01-17
+HF-CASE-001103,HF-M-000967,Enrollment Support,High,Closed,2025-07-19
+HF-CASE-001104,HF-M-003271,Prior Authorization Follow-up,Urgent,Open,2025-09-05
+HF-CASE-001105,HF-M-002077,Prior Authorization Follow-up,Medium,Closed,2025-11-15
+HF-CASE-001106,HF-M-000619,Enrollment Support,Urgent,Escalated,2025-09-24
+HF-CASE-001107,HF-M-002204,Appeal / Grievance,Medium,Open,2025-07-20
+HF-CASE-001108,HF-M-003177,Provider Network Inquiry,Low,Closed,2025-01-06
+HF-CASE-001109,HF-M-000861,Provider Network Inquiry,High,Open,2025-05-08
+HF-CASE-001110,HF-M-000275,Enrollment Support,Low,Open,2026-02-14
+HF-CASE-001111,HF-M-000844,Provider Network Inquiry,Medium,Open,2025-03-17
+HF-CASE-001112,HF-M-002500,Provider Network Inquiry,Medium,Open,2025-01-12
+HF-CASE-001113,HF-M-001899,Benefits Question,Low,Closed,2025-02-03
+HF-CASE-001114,HF-M-003099,Provider Network Inquiry,Low,Closed,2026-07-27
+HF-CASE-001115,HF-M-002806,Appeal / Grievance,High,Closed,2025-12-04
+HF-CASE-001116,HF-M-000637,Provider Network Inquiry,Low,Escalated,2025-05-08
+HF-CASE-001117,HF-M-002261,Care Coordination,Low,Closed,2025-06-27
+HF-CASE-001118,HF-M-002588,Benefits Question,Low,Closed,2025-04-11
+HF-CASE-001119,HF-M-002510,Prior Authorization Follow-up,High,Closed,2026-01-11
+HF-CASE-001120,HF-M-001286,Enrollment Support,Low,Closed,2025-12-16
+HF-CASE-001121,HF-M-001831,Appeal / Grievance,Medium,Closed,2026-09-07
+HF-CASE-001122,HF-M-000244,Appeal / Grievance,Medium,Closed,2026-01-20
+HF-CASE-001123,HF-M-002757,Benefits Question,High,Closed,2026-11-10
+HF-CASE-001124,HF-M-001519,Enrollment Support,Medium,Closed,2026-10-27
+HF-CASE-001125,HF-M-001707,Provider Network Inquiry,Low,Open,2025-12-13
+HF-CASE-001126,HF-M-002474,Enrollment Support,Medium,Open,2026-02-15
+HF-CASE-001127,HF-M-002528,Care Coordination,Medium,Closed,2025-01-08
+HF-CASE-001128,HF-M-000920,Benefits Question,Low,Escalated,2026-07-13
+HF-CASE-001129,HF-M-000161,Appeal / Grievance,Low,Closed,2026-06-02
+HF-CASE-001130,HF-M-000855,Provider Network Inquiry,High,Closed,2026-02-01
+HF-CASE-001131,HF-M-003999,Prior Authorization Follow-up,Medium,Open,2026-04-25
+HF-CASE-001132,HF-M-000305,Prior Authorization Follow-up,Low,Closed,2025-04-23
+HF-CASE-001133,HF-M-000323,Appeal / Grievance,Urgent,Closed,2025-10-10
+HF-CASE-001134,HF-M-003791,Benefits Question,High,Closed,2026-11-04
+HF-CASE-001135,HF-M-001022,Appeal / Grievance,Low,Closed,2026-04-01
+HF-CASE-001136,HF-M-003432,Provider Network Inquiry,Low,Closed,2026-09-04
+HF-CASE-001137,HF-M-000340,Appeal / Grievance,High,Closed,2026-03-27
+HF-CASE-001138,HF-M-003288,Benefits Question,Medium,Open,2026-03-14
+HF-CASE-001139,HF-M-000342,Provider Network Inquiry,Low,Closed,2025-07-04
+HF-CASE-001140,HF-M-002869,Enrollment Support,Urgent,Closed,2026-09-12
+HF-CASE-001141,HF-M-003274,Provider Network Inquiry,Medium,Closed,2026-09-28
+HF-CASE-001142,HF-M-000627,Enrollment Support,Medium,Open,2026-08-13
+HF-CASE-001143,HF-M-003912,Enrollment Support,Medium,Closed,2025-04-19
+HF-CASE-001144,HF-M-000338,Prior Authorization Follow-up,High,Open,2026-01-05
+HF-CASE-001145,HF-M-001272,Provider Network Inquiry,High,Closed,2026-06-26
+HF-CASE-001146,HF-M-003097,Enrollment Support,Low,Closed,2026-12-26
+HF-CASE-001147,HF-M-002571,Appeal / Grievance,Medium,Closed,2025-06-28
+HF-CASE-001148,HF-M-003436,Prior Authorization Follow-up,High,Open,2025-01-26
+HF-CASE-001149,HF-M-001415,Benefits Question,Low,Closed,2025-09-06
+HF-CASE-001150,HF-M-002520,Appeal / Grievance,Low,Closed,2026-04-04
+HF-CASE-001151,HF-M-002572,Prior Authorization Follow-up,Medium,Open,2025-01-26
+HF-CASE-001152,HF-M-001682,Provider Network Inquiry,Low,Open,2025-07-02
+HF-CASE-001153,HF-M-003576,Enrollment Support,Medium,Open,2025-03-05
+HF-CASE-001154,HF-M-003560,Appeal / Grievance,High,Closed,2026-08-25
+HF-CASE-001155,HF-M-000626,Enrollment Support,Medium,Open,2026-09-19
+HF-CASE-001156,HF-M-003687,Care Coordination,High,Open,2026-10-17
+HF-CASE-001157,HF-M-000064,Care Coordination,Low,Closed,2025-10-04
+HF-CASE-001158,HF-M-000889,Benefits Question,Medium,Closed,2025-04-16
+HF-CASE-001159,HF-M-002854,Benefits Question,Low,Open,2026-02-11
+HF-CASE-001160,HF-M-003074,Prior Authorization Follow-up,Low,Closed,2025-02-02
+HF-CASE-001161,HF-M-003098,Benefits Question,Medium,Closed,2025-07-04
+HF-CASE-001162,HF-M-000453,Appeal / Grievance,Medium,Open,2026-12-22
+HF-CASE-001163,HF-M-001690,Care Coordination,High,Open,2026-10-25
+HF-CASE-001164,HF-M-001089,Enrollment Support,Low,Closed,2025-04-27
+HF-CASE-001165,HF-M-003161,Prior Authorization Follow-up,Urgent,Closed,2026-11-25
+HF-CASE-001166,HF-M-003768,Care Coordination,Medium,Open,2026-12-23
+HF-CASE-001167,HF-M-001485,Enrollment Support,Low,Closed,2026-03-19
+HF-CASE-001168,HF-M-003311,Benefits Question,Medium,Closed,2026-03-09
+HF-CASE-001169,HF-M-000281,Appeal / Grievance,Low,Closed,2025-06-10
+HF-CASE-001170,HF-M-000043,Provider Network Inquiry,Medium,Closed,2025-05-14
+HF-CASE-001171,HF-M-001633,Enrollment Support,Medium,Closed,2026-09-08
+HF-CASE-001172,HF-M-001446,Benefits Question,High,Closed,2026-08-06
+HF-CASE-001173,HF-M-001768,Enrollment Support,Low,Closed,2026-11-01
+HF-CASE-001174,HF-M-000197,Enrollment Support,Low,Open,2026-03-20
+HF-CASE-001175,HF-M-003760,Prior Authorization Follow-up,Medium,Open,2025-09-13
+HF-CASE-001176,HF-M-001552,Appeal / Grievance,Medium,Closed,2026-10-01
+HF-CASE-001177,HF-M-001102,Appeal / Grievance,Medium,Closed,2026-04-26
+HF-CASE-001178,HF-M-001158,Appeal / Grievance,Low,Closed,2025-12-25
+HF-CASE-001179,HF-M-003901,Appeal / Grievance,Low,Closed,2025-12-04
+HF-CASE-001180,HF-M-003263,Appeal / Grievance,Low,Closed,2025-04-20
+HF-CASE-001181,HF-M-002206,Provider Network Inquiry,Medium,Closed,2026-07-14
+HF-CASE-001182,HF-M-002174,Prior Authorization Follow-up,Medium,Escalated,2026-12-17
+HF-CASE-001183,HF-M-000512,Benefits Question,Medium,Open,2025-03-06
+HF-CASE-001184,HF-M-003669,Appeal / Grievance,Medium,Closed,2026-01-11
+HF-CASE-001185,HF-M-001719,Provider Network Inquiry,Low,Open,2026-12-10
+HF-CASE-001186,HF-M-002863,Care Coordination,Low,Closed,2026-10-09
+HF-CASE-001187,HF-M-001239,Enrollment Support,Medium,Closed,2025-07-15
+HF-CASE-001188,HF-M-000059,Provider Network Inquiry,Medium,Closed,2026-04-21
+HF-CASE-001189,HF-M-003539,Appeal / Grievance,Low,Closed,2025-06-04
+HF-CASE-001190,HF-M-002590,Provider Network Inquiry,Medium,Closed,2025-11-27
+HF-CASE-001191,HF-M-001252,Benefits Question,Urgent,Closed,2026-04-18
+HF-CASE-001192,HF-M-002364,Provider Network Inquiry,Medium,Closed,2026-01-03
+HF-CASE-001193,HF-M-003892,Benefits Question,High,Closed,2026-10-02
+HF-CASE-001194,HF-M-002853,Care Coordination,High,Closed,2026-11-08
+HF-CASE-001195,HF-M-001336,Provider Network Inquiry,Low,Escalated,2026-02-14
+HF-CASE-001196,HF-M-000997,Appeal / Grievance,Medium,Closed,2026-06-02
+HF-CASE-001197,HF-M-003130,Appeal / Grievance,Medium,Closed,2025-02-11
+HF-CASE-001198,HF-M-000777,Provider Network Inquiry,Medium,Closed,2025-06-01
+HF-CASE-001199,HF-M-002898,Prior Authorization Follow-up,Urgent,Closed,2026-09-21
+HF-CASE-001200,HF-M-003857,Appeal / Grievance,High,Open,2025-04-22
+HF-CASE-001201,HF-M-002587,Enrollment Support,Urgent,Open,2025-08-12
+HF-CASE-001202,HF-M-003186,Care Coordination,Medium,Closed,2025-04-23
+HF-CASE-001203,HF-M-000005,Care Coordination,Low,Closed,2026-01-20
+HF-CASE-001204,HF-M-002399,Care Coordination,Low,Closed,2026-02-18
+HF-CASE-001205,HF-M-000268,Enrollment Support,Low,Closed,2025-07-04
+HF-CASE-001206,HF-M-003682,Prior Authorization Follow-up,Medium,Open,2026-04-14
+HF-CASE-001207,HF-M-000315,Appeal / Grievance,Medium,Closed,2026-10-13
+HF-CASE-001208,HF-M-001971,Appeal / Grievance,Low,Closed,2025-03-16
+HF-CASE-001209,HF-M-003302,Appeal / Grievance,Medium,Closed,2025-07-18
+HF-CASE-001210,HF-M-002680,Benefits Question,High,Open,2026-09-25
+HF-CASE-001211,HF-M-003553,Appeal / Grievance,Low,Closed,2025-09-19
+HF-CASE-001212,HF-M-001190,Appeal / Grievance,Medium,Closed,2026-04-03
+HF-CASE-001213,HF-M-002050,Benefits Question,Medium,Closed,2026-08-13
+HF-CASE-001214,HF-M-002884,Prior Authorization Follow-up,Medium,Closed,2025-06-24
+HF-CASE-001215,HF-M-001232,Appeal / Grievance,High,Closed,2026-10-03
+HF-CASE-001216,HF-M-000354,Benefits Question,Low,Closed,2026-03-25
+HF-CASE-001217,HF-M-001246,Enrollment Support,Medium,Open,2026-11-19
+HF-CASE-001218,HF-M-003229,Prior Authorization Follow-up,Medium,Open,2026-09-14
+HF-CASE-001219,HF-M-002521,Provider Network Inquiry,High,Closed,2026-09-06
+HF-CASE-001220,HF-M-002062,Appeal / Grievance,Medium,Escalated,2026-02-25
+HF-CASE-001221,HF-M-000999,Prior Authorization Follow-up,Medium,Closed,2026-05-22
+HF-CASE-001222,HF-M-000171,Benefits Question,High,Escalated,2026-01-07
+HF-CASE-001223,HF-M-002260,Enrollment Support,Low,Closed,2025-02-03
+HF-CASE-001224,HF-M-001514,Benefits Question,Medium,Closed,2026-01-03
+HF-CASE-001225,HF-M-002207,Enrollment Support,Low,Closed,2026-09-10
+HF-CASE-001226,HF-M-002509,Appeal / Grievance,Medium,Open,2026-07-01
+HF-CASE-001227,HF-M-002802,Care Coordination,Medium,Open,2025-01-04
+HF-CASE-001228,HF-M-003855,Enrollment Support,Urgent,Closed,2025-04-19
+HF-CASE-001229,HF-M-003149,Care Coordination,Low,Closed,2025-04-12
+HF-CASE-001230,HF-M-001848,Appeal / Grievance,Low,Closed,2026-05-16
+HF-CASE-001231,HF-M-000657,Care Coordination,Medium,Closed,2025-10-13
+HF-CASE-001232,HF-M-003728,Care Coordination,High,Closed,2026-04-27
+HF-CASE-001233,HF-M-001515,Appeal / Grievance,Low,Escalated,2026-01-22
+HF-CASE-001234,HF-M-001579,Prior Authorization Follow-up,Low,Closed,2026-07-09
+HF-CASE-001235,HF-M-001987,Appeal / Grievance,Low,Closed,2026-11-27
+HF-CASE-001236,HF-M-003347,Provider Network Inquiry,Low,Closed,2026-10-15
+HF-CASE-001237,HF-M-001397,Appeal / Grievance,Medium,Open,2025-01-11
+HF-CASE-001238,HF-M-003450,Provider Network Inquiry,Low,Closed,2026-11-08
+HF-CASE-001239,HF-M-001660,Appeal / Grievance,Medium,Open,2025-02-15
+HF-CASE-001240,HF-M-003428,Provider Network Inquiry,Medium,Closed,2025-12-02
+HF-CASE-001241,HF-M-002519,Benefits Question,Medium,Closed,2025-12-24
+HF-CASE-001242,HF-M-003769,Enrollment Support,Low,Closed,2026-09-08
+HF-CASE-001243,HF-M-003660,Benefits Question,Low,Closed,2025-12-02
+HF-CASE-001244,HF-M-003381,Prior Authorization Follow-up,Low,Closed,2025-04-17
+HF-CASE-001245,HF-M-000614,Enrollment Support,Low,Closed,2025-07-25
+HF-CASE-001246,HF-M-001390,Provider Network Inquiry,Medium,Open,2026-01-11
+HF-CASE-001247,HF-M-000616,Appeal / Grievance,High,Closed,2025-06-05
+HF-CASE-001248,HF-M-001557,Care Coordination,Medium,Closed,2025-09-17
+HF-CASE-001249,HF-M-001533,Appeal / Grievance,Medium,Closed,2026-01-20
+HF-CASE-001250,HF-M-001224,Provider Network Inquiry,High,Closed,2025-09-17
+HF-CASE-001251,HF-M-003277,Enrollment Support,Medium,Closed,2026-09-01
+HF-CASE-001252,HF-M-003681,Prior Authorization Follow-up,High,Closed,2026-05-12
+HF-CASE-001253,HF-M-002883,Provider Network Inquiry,High,Escalated,2026-02-17
+HF-CASE-001254,HF-M-001807,Appeal / Grievance,Low,Closed,2025-07-11
+HF-CASE-001255,HF-M-000281,Enrollment Support,Low,Closed,2025-06-15
+HF-CASE-001256,HF-M-001614,Provider Network Inquiry,Low,Closed,2026-03-28
+HF-CASE-001257,HF-M-002803,Benefits Question,Medium,Open,2026-09-09
+HF-CASE-001258,HF-M-000725,Appeal / Grievance,High,Closed,2026-04-25
+HF-CASE-001259,HF-M-001317,Benefits Question,High,Closed,2025-02-21
+HF-CASE-001260,HF-M-003763,Provider Network Inquiry,Low,Closed,2026-04-13
+HF-CASE-001261,HF-M-000790,Enrollment Support,Low,Open,2025-06-08
+HF-CASE-001262,HF-M-000374,Appeal / Grievance,Urgent,Closed,2025-01-18
+HF-CASE-001263,HF-M-000116,Benefits Question,Low,Closed,2025-03-11
+HF-CASE-001264,HF-M-002498,Appeal / Grievance,Low,Closed,2026-07-20
+HF-CASE-001265,HF-M-000360,Prior Authorization Follow-up,Low,Closed,2026-02-21
+HF-CASE-001266,HF-M-003919,Provider Network Inquiry,Urgent,Escalated,2025-08-05
+HF-CASE-001267,HF-M-002084,Benefits Question,Medium,Closed,2026-02-20
+HF-CASE-001268,HF-M-003923,Provider Network Inquiry,Low,Closed,2026-02-20
+HF-CASE-001269,HF-M-003382,Provider Network Inquiry,High,Closed,2025-04-08
+HF-CASE-001270,HF-M-000865,Appeal / Grievance,Medium,Closed,2026-07-03
+HF-CASE-001271,HF-M-000991,Benefits Question,Low,Closed,2025-12-05
+HF-CASE-001272,HF-M-003734,Enrollment Support,Urgent,Closed,2026-02-22
+HF-CASE-001273,HF-M-002007,Prior Authorization Follow-up,Urgent,Closed,2025-03-18
+HF-CASE-001274,HF-M-000188,Provider Network Inquiry,Low,Closed,2026-12-03
+HF-CASE-001275,HF-M-001855,Enrollment Support,Medium,Closed,2025-04-23
+HF-CASE-001276,HF-M-002851,Appeal / Grievance,Low,Closed,2026-09-08
+HF-CASE-001277,HF-M-001485,Benefits Question,Low,Closed,2026-11-13
+HF-CASE-001278,HF-M-003220,Benefits Question,Low,Open,2025-11-11
+HF-CASE-001279,HF-M-001624,Benefits Question,High,Open,2025-01-17
+HF-CASE-001280,HF-M-002251,Provider Network Inquiry,Low,Closed,2025-06-16
+HF-CASE-001281,HF-M-002802,Enrollment Support,Medium,Closed,2026-12-08
+HF-CASE-001282,HF-M-003709,Care Coordination,Medium,Closed,2025-03-11
+HF-CASE-001283,HF-M-000050,Benefits Question,Low,Closed,2025-02-05
+HF-CASE-001284,HF-M-000802,Benefits Question,Medium,Closed,2026-03-02
+HF-CASE-001285,HF-M-002342,Benefits Question,Low,Closed,2026-07-23
+HF-CASE-001286,HF-M-003099,Enrollment Support,Urgent,Closed,2025-05-11
+HF-CASE-001287,HF-M-003007,Prior Authorization Follow-up,Medium,Closed,2025-08-07
+HF-CASE-001288,HF-M-003146,Appeal / Grievance,High,Open,2025-12-03
+HF-CASE-001289,HF-M-000441,Care Coordination,Medium,Closed,2025-11-19
+HF-CASE-001290,HF-M-000910,Provider Network Inquiry,Low,Closed,2026-11-15
+HF-CASE-001291,HF-M-003417,Enrollment Support,Medium,Closed,2025-02-22
+HF-CASE-001292,HF-M-001761,Benefits Question,High,Closed,2026-06-14
+HF-CASE-001293,HF-M-002624,Prior Authorization Follow-up,Low,Closed,2026-02-02
+HF-CASE-001294,HF-M-001862,Enrollment Support,High,Closed,2026-12-14
+HF-CASE-001295,HF-M-002582,Benefits Question,Urgent,Closed,2026-04-05
+HF-CASE-001296,HF-M-001192,Prior Authorization Follow-up,Low,Closed,2025-06-01
+HF-CASE-001297,HF-M-003631,Enrollment Support,Medium,Closed,2025-06-01
+HF-CASE-001298,HF-M-002949,Benefits Question,Medium,Open,2025-07-23
+HF-CASE-001299,HF-M-002136,Enrollment Support,Low,Closed,2025-11-05
+HF-CASE-001300,HF-M-001146,Care Coordination,Urgent,Open,2026-11-27
+HF-CASE-001301,HF-M-003262,Enrollment Support,Medium,Closed,2026-07-19
+HF-CASE-001302,HF-M-002785,Enrollment Support,Urgent,Escalated,2025-03-25
+HF-CASE-001303,HF-M-000540,Enrollment Support,Medium,Closed,2025-02-07
+HF-CASE-001304,HF-M-000033,Enrollment Support,Medium,Closed,2025-01-10
+HF-CASE-001305,HF-M-001241,Provider Network Inquiry,Low,Closed,2025-05-12
+HF-CASE-001306,HF-M-000888,Benefits Question,Low,Closed,2025-03-16
+HF-CASE-001307,HF-M-003942,Care Coordination,High,Closed,2025-09-03
+HF-CASE-001308,HF-M-002022,Enrollment Support,Medium,Closed,2025-04-09
+HF-CASE-001309,HF-M-001916,Prior Authorization Follow-up,Low,Closed,2026-05-08
+HF-CASE-001310,HF-M-003905,Prior Authorization Follow-up,Urgent,Open,2025-11-18
+HF-CASE-001311,HF-M-003352,Enrollment Support,Low,Closed,2026-09-10
+HF-CASE-001312,HF-M-002290,Enrollment Support,High,Escalated,2026-10-13
+HF-CASE-001313,HF-M-001494,Benefits Question,Medium,Closed,2026-02-08
+HF-CASE-001314,HF-M-003835,Appeal / Grievance,Low,Open,2026-02-02
+HF-CASE-001315,HF-M-001729,Enrollment Support,Low,Open,2025-07-19
+HF-CASE-001316,HF-M-000873,Appeal / Grievance,Medium,Closed,2026-12-28
+HF-CASE-001317,HF-M-003288,Benefits Question,High,Open,2026-10-11
+HF-CASE-001318,HF-M-003457,Prior Authorization Follow-up,High,Closed,2026-07-23
+HF-CASE-001319,HF-M-001699,Appeal / Grievance,Low,Closed,2026-11-05
+HF-CASE-001320,HF-M-001146,Care Coordination,Low,Escalated,2025-12-02
+HF-CASE-001321,HF-M-002383,Prior Authorization Follow-up,Low,Open,2026-12-08
+HF-CASE-001322,HF-M-001199,Care Coordination,Medium,Closed,2026-10-25
+HF-CASE-001323,HF-M-002690,Benefits Question,Urgent,Closed,2026-12-10
+HF-CASE-001324,HF-M-000680,Prior Authorization Follow-up,Low,Closed,2026-04-15
+HF-CASE-001325,HF-M-003828,Appeal / Grievance,Medium,Open,2026-05-20
+HF-CASE-001326,HF-M-001212,Appeal / Grievance,Low,Closed,2026-10-04
+HF-CASE-001327,HF-M-001397,Care Coordination,Low,Closed,2026-02-24
+HF-CASE-001328,HF-M-002231,Care Coordination,Medium,Escalated,2026-07-17
+HF-CASE-001329,HF-M-000350,Appeal / Grievance,Medium,Closed,2025-12-17
+HF-CASE-001330,HF-M-002489,Appeal / Grievance,Low,Closed,2026-07-20
+HF-CASE-001331,HF-M-002312,Appeal / Grievance,High,Closed,2025-01-10
+HF-CASE-001332,HF-M-002992,Provider Network Inquiry,Medium,Closed,2025-09-22
+HF-CASE-001333,HF-M-000055,Care Coordination,Low,Open,2025-03-09
+HF-CASE-001334,HF-M-002348,Appeal / Grievance,High,Closed,2025-05-05
+HF-CASE-001335,HF-M-003185,Prior Authorization Follow-up,Low,Closed,2026-08-11
+HF-CASE-001336,HF-M-000700,Enrollment Support,Medium,Closed,2026-02-11
+HF-CASE-001337,HF-M-001664,Enrollment Support,High,Closed,2025-12-16
+HF-CASE-001338,HF-M-000573,Provider Network Inquiry,Medium,Open,2025-01-09
+HF-CASE-001339,HF-M-000847,Appeal / Grievance,Low,Closed,2025-07-28
+HF-CASE-001340,HF-M-000944,Care Coordination,High,Closed,2026-12-24
+HF-CASE-001341,HF-M-000750,Provider Network Inquiry,Urgent,Closed,2026-09-26
+HF-CASE-001342,HF-M-003881,Benefits Question,Medium,Escalated,2026-01-22
+HF-CASE-001343,HF-M-003945,Benefits Question,Medium,Closed,2026-06-23
+HF-CASE-001344,HF-M-000807,Care Coordination,Medium,Closed,2025-09-17
+HF-CASE-001345,HF-M-003157,Care Coordination,Urgent,Closed,2026-01-12
+HF-CASE-001346,HF-M-001149,Provider Network Inquiry,Urgent,Closed,2026-03-19
+HF-CASE-001347,HF-M-003793,Appeal / Grievance,High,Closed,2025-06-17
+HF-CASE-001348,HF-M-000212,Benefits Question,Medium,Closed,2026-07-27
+HF-CASE-001349,HF-M-002232,Enrollment Support,Medium,Closed,2026-05-28
+HF-CASE-001350,HF-M-000557,Prior Authorization Follow-up,Low,Open,2026-03-23
+HF-CASE-001351,HF-M-000495,Appeal / Grievance,Medium,Closed,2026-10-13
+HF-CASE-001352,HF-M-000631,Care Coordination,Medium,Closed,2026-09-27
+HF-CASE-001353,HF-M-002959,Benefits Question,Medium,Closed,2025-02-08
+HF-CASE-001354,HF-M-003868,Care Coordination,Low,Open,2025-06-24
+HF-CASE-001355,HF-M-001299,Care Coordination,Low,Closed,2025-06-16
+HF-CASE-001356,HF-M-002956,Care Coordination,Low,Closed,2026-03-02
+HF-CASE-001357,HF-M-002088,Care Coordination,Low,Closed,2025-01-09
+HF-CASE-001358,HF-M-000362,Enrollment Support,Urgent,Closed,2026-12-02
+HF-CASE-001359,HF-M-001196,Provider Network Inquiry,Medium,Closed,2025-06-02
+HF-CASE-001360,HF-M-002547,Enrollment Support,Urgent,Closed,2025-10-18
+HF-CASE-001361,HF-M-002057,Benefits Question,Low,Closed,2026-03-17
+HF-CASE-001362,HF-M-003183,Care Coordination,Low,Closed,2026-02-05
+HF-CASE-001363,HF-M-001531,Provider Network Inquiry,Low,Closed,2026-07-01
+HF-CASE-001364,HF-M-001030,Appeal / Grievance,Low,Closed,2025-01-26
+HF-CASE-001365,HF-M-000478,Appeal / Grievance,Low,Closed,2026-10-27
+HF-CASE-001366,HF-M-001433,Enrollment Support,Low,Closed,2025-12-24
+HF-CASE-001367,HF-M-000866,Benefits Question,Medium,Escalated,2025-11-24
+HF-CASE-001368,HF-M-002270,Provider Network Inquiry,Medium,Open,2025-05-24
+HF-CASE-001369,HF-M-001296,Prior Authorization Follow-up,Medium,Open,2026-08-17
+HF-CASE-001370,HF-M-002709,Provider Network Inquiry,High,Closed,2026-12-25
+HF-CASE-001371,HF-M-002733,Care Coordination,Medium,Closed,2026-11-25
+HF-CASE-001372,HF-M-002829,Care Coordination,Low,Closed,2026-07-13
+HF-CASE-001373,HF-M-001610,Care Coordination,Medium,Closed,2026-04-22
+HF-CASE-001374,HF-M-002895,Care Coordination,Low,Closed,2026-09-27
+HF-CASE-001375,HF-M-002628,Prior Authorization Follow-up,Medium,Closed,2025-05-12
+HF-CASE-001376,HF-M-002129,Care Coordination,Low,Open,2025-07-14
+HF-CASE-001377,HF-M-003638,Enrollment Support,Urgent,Closed,2026-08-26
+HF-CASE-001378,HF-M-001326,Benefits Question,Medium,Open,2026-03-10
+HF-CASE-001379,HF-M-000125,Benefits Question,Urgent,Open,2026-09-07
+HF-CASE-001380,HF-M-003165,Enrollment Support,Low,Closed,2025-11-23
+HF-CASE-001381,HF-M-003151,Benefits Question,Medium,Closed,2025-04-06
+HF-CASE-001382,HF-M-001846,Appeal / Grievance,Urgent,Closed,2026-01-06
+HF-CASE-001383,HF-M-001985,Benefits Question,High,Closed,2025-05-08
+HF-CASE-001384,HF-M-000639,Appeal / Grievance,Urgent,Closed,2025-01-24
+HF-CASE-001385,HF-M-003060,Prior Authorization Follow-up,Medium,Closed,2026-11-05
+HF-CASE-001386,HF-M-001577,Care Coordination,Medium,Closed,2025-07-21
+HF-CASE-001387,HF-M-001914,Prior Authorization Follow-up,Urgent,Closed,2026-03-18
+HF-CASE-001388,HF-M-001333,Care Coordination,Urgent,Closed,2026-09-01
+HF-CASE-001389,HF-M-000851,Care Coordination,Medium,Open,2025-02-08
+HF-CASE-001390,HF-M-003039,Enrollment Support,High,Closed,2026-09-11
+HF-CASE-001391,HF-M-001510,Provider Network Inquiry,High,Closed,2025-02-24
+HF-CASE-001392,HF-M-000360,Prior Authorization Follow-up,Urgent,Open,2025-01-06
+HF-CASE-001393,HF-M-002051,Appeal / Grievance,High,Closed,2025-10-01
+HF-CASE-001394,HF-M-003294,Enrollment Support,Low,Closed,2025-07-16
+HF-CASE-001395,HF-M-002731,Appeal / Grievance,Low,Closed,2025-11-25
+HF-CASE-001396,HF-M-002542,Appeal / Grievance,High,Closed,2025-05-01
+HF-CASE-001397,HF-M-000412,Appeal / Grievance,Medium,Closed,2026-11-01
+HF-CASE-001398,HF-M-000536,Appeal / Grievance,High,Closed,2026-10-07
+HF-CASE-001399,HF-M-000232,Care Coordination,Medium,Closed,2026-04-17
+HF-CASE-001400,HF-M-002601,Enrollment Support,High,Closed,2026-04-26
+HF-CASE-001401,HF-M-002422,Benefits Question,Urgent,Closed,2025-09-27
+HF-CASE-001402,HF-M-003849,Prior Authorization Follow-up,Low,Closed,2025-04-26
+HF-CASE-001403,HF-M-000339,Prior Authorization Follow-up,Low,Open,2025-07-07
+HF-CASE-001404,HF-M-003504,Appeal / Grievance,Low,Closed,2026-11-20
+HF-CASE-001405,HF-M-003278,Benefits Question,Medium,Open,2025-12-15
+HF-CASE-001406,HF-M-002254,Appeal / Grievance,Urgent,Closed,2026-08-13
+HF-CASE-001407,HF-M-000967,Benefits Question,Low,Closed,2025-06-08
+HF-CASE-001408,HF-M-000456,Prior Authorization Follow-up,Low,Closed,2025-08-08
+HF-CASE-001409,HF-M-002351,Enrollment Support,Urgent,Closed,2026-06-23
+HF-CASE-001410,HF-M-003772,Care Coordination,Medium,Open,2025-11-05
+HF-CASE-001411,HF-M-002520,Provider Network Inquiry,Medium,Closed,2025-08-16
+HF-CASE-001412,HF-M-003622,Provider Network Inquiry,High,Open,2026-03-11
+HF-CASE-001413,HF-M-003206,Enrollment Support,Urgent,Closed,2025-03-16
+HF-CASE-001414,HF-M-001897,Prior Authorization Follow-up,Urgent,Closed,2026-11-17
+HF-CASE-001415,HF-M-002304,Care Coordination,High,Closed,2025-09-25
+HF-CASE-001416,HF-M-001860,Provider Network Inquiry,Urgent,Open,2026-01-02
+HF-CASE-001417,HF-M-003517,Care Coordination,Low,Closed,2025-06-28
+HF-CASE-001418,HF-M-001161,Provider Network Inquiry,Urgent,Escalated,2026-07-06
+HF-CASE-001419,HF-M-001305,Enrollment Support,Medium,Closed,2025-03-25
+HF-CASE-001420,HF-M-000883,Provider Network Inquiry,Low,Closed,2025-06-11
+HF-CASE-001421,HF-M-002333,Benefits Question,Low,Closed,2025-02-11
+HF-CASE-001422,HF-M-002448,Care Coordination,Urgent,Closed,2025-06-23
+HF-CASE-001423,HF-M-000383,Provider Network Inquiry,High,Closed,2026-10-16
+HF-CASE-001424,HF-M-003223,Enrollment Support,Low,Escalated,2025-12-18
+HF-CASE-001425,HF-M-002372,Appeal / Grievance,Medium,Closed,2025-09-20
+HF-CASE-001426,HF-M-002289,Benefits Question,Low,Open,2025-09-18
+HF-CASE-001427,HF-M-003422,Care Coordination,Medium,Closed,2025-03-02
+HF-CASE-001428,HF-M-000949,Prior Authorization Follow-up,Low,Closed,2025-04-16
+HF-CASE-001429,HF-M-001131,Provider Network Inquiry,Urgent,Open,2025-07-19
+HF-CASE-001430,HF-M-003373,Appeal / Grievance,Medium,Open,2025-08-20
+HF-CASE-001431,HF-M-001021,Care Coordination,Low,Closed,2026-10-13
+HF-CASE-001432,HF-M-002487,Appeal / Grievance,Medium,Closed,2025-04-03
+HF-CASE-001433,HF-M-002366,Enrollment Support,Medium,Closed,2025-05-09
+HF-CASE-001434,HF-M-003511,Prior Authorization Follow-up,Low,Closed,2025-10-09
+HF-CASE-001435,HF-M-002402,Enrollment Support,Low,Closed,2025-01-06
+HF-CASE-001436,HF-M-001990,Enrollment Support,Urgent,Open,2025-05-28
+HF-CASE-001437,HF-M-002366,Provider Network Inquiry,Medium,Open,2026-06-25
+HF-CASE-001438,HF-M-000192,Appeal / Grievance,Low,Open,2025-01-04
+HF-CASE-001439,HF-M-000428,Appeal / Grievance,Medium,Closed,2025-06-04
+HF-CASE-001440,HF-M-000563,Care Coordination,Low,Closed,2025-06-07
+HF-CASE-001441,HF-M-001452,Care Coordination,Urgent,Closed,2025-12-08
+HF-CASE-001442,HF-M-001749,Benefits Question,Medium,Open,2026-06-12
+HF-CASE-001443,HF-M-002181,Benefits Question,Medium,Closed,2025-07-26
+HF-CASE-001444,HF-M-003381,Benefits Question,Low,Closed,2026-09-11
+HF-CASE-001445,HF-M-003507,Provider Network Inquiry,Medium,Closed,2026-07-11
+HF-CASE-001446,HF-M-002681,Provider Network Inquiry,Low,Closed,2025-10-18
+HF-CASE-001447,HF-M-003840,Provider Network Inquiry,Low,Closed,2026-02-06
+HF-CASE-001448,HF-M-003910,Prior Authorization Follow-up,Urgent,Closed,2025-07-05
+HF-CASE-001449,HF-M-003741,Provider Network Inquiry,High,Closed,2026-01-15
+HF-CASE-001450,HF-M-000493,Prior Authorization Follow-up,Medium,Open,2025-03-25
+HF-CASE-001451,HF-M-003115,Appeal / Grievance,High,Closed,2026-07-15
+HF-CASE-001452,HF-M-001297,Enrollment Support,Urgent,Closed,2026-08-02
+HF-CASE-001453,HF-M-001353,Benefits Question,Medium,Closed,2025-05-08
+HF-CASE-001454,HF-M-003373,Care Coordination,High,Closed,2026-12-13
+HF-CASE-001455,HF-M-001854,Care Coordination,Medium,Open,2025-11-17
+HF-CASE-001456,HF-M-000521,Benefits Question,High,Closed,2026-03-24
+HF-CASE-001457,HF-M-002181,Enrollment Support,Low,Closed,2025-01-20
+HF-CASE-001458,HF-M-001355,Benefits Question,Low,Open,2026-03-26
+HF-CASE-001459,HF-M-002452,Prior Authorization Follow-up,Medium,Closed,2026-05-05
+HF-CASE-001460,HF-M-001684,Enrollment Support,High,Closed,2025-04-06
+HF-CASE-001461,HF-M-001462,Prior Authorization Follow-up,High,Closed,2025-11-15
+HF-CASE-001462,HF-M-001125,Appeal / Grievance,High,Closed,2026-01-23
+HF-CASE-001463,HF-M-001362,Benefits Question,Low,Open,2025-12-20
+HF-CASE-001464,HF-M-001919,Prior Authorization Follow-up,High,Closed,2025-07-04
+HF-CASE-001465,HF-M-002757,Prior Authorization Follow-up,Medium,Open,2026-10-27
+HF-CASE-001466,HF-M-001712,Appeal / Grievance,Medium,Closed,2026-09-15
+HF-CASE-001467,HF-M-002563,Care Coordination,High,Closed,2026-11-19
+HF-CASE-001468,HF-M-003508,Benefits Question,High,Open,2025-08-11
+HF-CASE-001469,HF-M-001936,Appeal / Grievance,Low,Closed,2026-05-18
+HF-CASE-001470,HF-M-002774,Enrollment Support,High,Open,2026-02-11
+HF-CASE-001471,HF-M-000862,Appeal / Grievance,Low,Closed,2025-08-09
+HF-CASE-001472,HF-M-003314,Provider Network Inquiry,Low,Closed,2026-08-09
+HF-CASE-001473,HF-M-000925,Appeal / Grievance,High,Escalated,2025-12-18
+HF-CASE-001474,HF-M-000739,Prior Authorization Follow-up,Low,Closed,2026-08-08
+HF-CASE-001475,HF-M-003985,Benefits Question,Medium,Closed,2025-11-04
+HF-CASE-001476,HF-M-001963,Provider Network Inquiry,Low,Closed,2025-07-21
+HF-CASE-001477,HF-M-001025,Prior Authorization Follow-up,High,Closed,2026-01-27
+HF-CASE-001478,HF-M-003946,Provider Network Inquiry,Urgent,Closed,2026-05-04
+HF-CASE-001479,HF-M-001530,Prior Authorization Follow-up,Medium,Closed,2026-03-18
+HF-CASE-001480,HF-M-003835,Enrollment Support,Low,Closed,2025-01-20
+HF-CASE-001481,HF-M-001793,Provider Network Inquiry,Medium,Escalated,2025-04-22
+HF-CASE-001482,HF-M-001335,Enrollment Support,High,Closed,2025-02-08
+HF-CASE-001483,HF-M-003693,Care Coordination,Low,Closed,2026-12-19
+HF-CASE-001484,HF-M-002702,Prior Authorization Follow-up,Low,Closed,2026-01-20
+HF-CASE-001485,HF-M-002363,Care Coordination,Urgent,Open,2026-08-12
+HF-CASE-001486,HF-M-002240,Benefits Question,Medium,Escalated,2025-05-09
+HF-CASE-001487,HF-M-000978,Enrollment Support,High,Closed,2025-10-09
+HF-CASE-001488,HF-M-002762,Appeal / Grievance,Medium,Closed,2026-08-19
+HF-CASE-001489,HF-M-000095,Care Coordination,Low,Closed,2026-09-19
+HF-CASE-001490,HF-M-001073,Provider Network Inquiry,High,Closed,2026-04-22
+HF-CASE-001491,HF-M-003808,Prior Authorization Follow-up,Low,Closed,2025-08-27
+HF-CASE-001492,HF-M-001708,Provider Network Inquiry,Low,Closed,2026-05-23
+HF-CASE-001493,HF-M-000077,Prior Authorization Follow-up,Medium,Closed,2026-10-14
+HF-CASE-001494,HF-M-001026,Prior Authorization Follow-up,Medium,Closed,2025-06-28
+HF-CASE-001495,HF-M-001983,Enrollment Support,Low,Closed,2026-12-13
+HF-CASE-001496,HF-M-001333,Benefits Question,Medium,Closed,2026-11-20
+HF-CASE-001497,HF-M-000890,Appeal / Grievance,High,Open,2025-05-13
+HF-CASE-001498,HF-M-001678,Prior Authorization Follow-up,Low,Open,2026-11-06
+HF-CASE-001499,HF-M-000547,Care Coordination,Urgent,Closed,2025-05-16
+HF-CASE-001500,HF-M-000457,Enrollment Support,High,Closed,2025-01-13
+HF-CASE-001501,HF-M-001097,Care Coordination,Low,Closed,2025-10-21
+HF-CASE-001502,HF-M-000325,Care Coordination,High,Closed,2025-07-14
+HF-CASE-001503,HF-M-002305,Enrollment Support,Low,Escalated,2025-12-21
+HF-CASE-001504,HF-M-000095,Enrollment Support,High,Closed,2025-05-24
+HF-CASE-001505,HF-M-000117,Provider Network Inquiry,Low,Closed,2025-07-16
+HF-CASE-001506,HF-M-003695,Enrollment Support,Medium,Closed,2026-01-27
+HF-CASE-001507,HF-M-001197,Provider Network Inquiry,High,Closed,2026-04-06
+HF-CASE-001508,HF-M-001947,Prior Authorization Follow-up,Low,Closed,2025-03-17
+HF-CASE-001509,HF-M-002072,Care Coordination,High,Closed,2025-06-15
+HF-CASE-001510,HF-M-001750,Provider Network Inquiry,High,Closed,2025-07-09
+HF-CASE-001511,HF-M-001024,Prior Authorization Follow-up,Urgent,Closed,2026-12-11
+HF-CASE-001512,HF-M-000564,Benefits Question,Low,Closed,2026-02-25
+HF-CASE-001513,HF-M-003372,Provider Network Inquiry,High,Open,2026-09-09
+HF-CASE-001514,HF-M-002913,Provider Network Inquiry,High,Closed,2025-12-13
+HF-CASE-001515,HF-M-000893,Benefits Question,Medium,Closed,2026-10-02
+HF-CASE-001516,HF-M-001335,Care Coordination,Low,Closed,2026-10-20
+HF-CASE-001517,HF-M-000225,Benefits Question,Medium,Closed,2025-02-23
+HF-CASE-001518,HF-M-001046,Appeal / Grievance,High,Closed,2026-11-06
+HF-CASE-001519,HF-M-001540,Provider Network Inquiry,Medium,Closed,2026-08-04
+HF-CASE-001520,HF-M-000821,Prior Authorization Follow-up,Low,Closed,2026-12-13
+HF-CASE-001521,HF-M-001744,Provider Network Inquiry,Medium,Escalated,2025-11-17
+HF-CASE-001522,HF-M-000821,Prior Authorization Follow-up,High,Closed,2026-08-24
+HF-CASE-001523,HF-M-000907,Care Coordination,Low,Escalated,2026-05-20
+HF-CASE-001524,HF-M-002030,Appeal / Grievance,Medium,Closed,2026-07-16
+HF-CASE-001525,HF-M-001269,Appeal / Grievance,Low,Closed,2026-08-09
+HF-CASE-001526,HF-M-002995,Appeal / Grievance,Medium,Closed,2026-04-25
+HF-CASE-001527,HF-M-000370,Provider Network Inquiry,Urgent,Closed,2025-05-16
+HF-CASE-001528,HF-M-002178,Provider Network Inquiry,Low,Closed,2026-11-14
+HF-CASE-001529,HF-M-000430,Enrollment Support,High,Closed,2025-05-02
+HF-CASE-001530,HF-M-003440,Provider Network Inquiry,Low,Open,2026-12-25
+HF-CASE-001531,HF-M-000544,Prior Authorization Follow-up,Medium,Closed,2025-07-10
+HF-CASE-001532,HF-M-002044,Appeal / Grievance,Medium,Closed,2026-05-19
+HF-CASE-001533,HF-M-000335,Care Coordination,Medium,Closed,2025-01-26
+HF-CASE-001534,HF-M-000617,Prior Authorization Follow-up,Medium,Closed,2026-10-09
+HF-CASE-001535,HF-M-003641,Enrollment Support,High,Closed,2025-06-02
+HF-CASE-001536,HF-M-000125,Appeal / Grievance,High,Closed,2026-11-07
+HF-CASE-001537,HF-M-001596,Benefits Question,Medium,Closed,2026-06-09
+HF-CASE-001538,HF-M-003215,Benefits Question,Low,Closed,2025-04-07
+HF-CASE-001539,HF-M-003523,Prior Authorization Follow-up,Low,Escalated,2026-04-25
+HF-CASE-001540,HF-M-001220,Prior Authorization Follow-up,Low,Closed,2025-03-04
+HF-CASE-001541,HF-M-003543,Benefits Question,Low,Closed,2026-10-28
+HF-CASE-001542,HF-M-001624,Appeal / Grievance,High,Closed,2025-09-17
+HF-CASE-001543,HF-M-001469,Benefits Question,Medium,Closed,2025-07-09
+HF-CASE-001544,HF-M-002473,Care Coordination,High,Open,2026-02-23
+HF-CASE-001545,HF-M-000752,Benefits Question,High,Closed,2026-07-07
+HF-CASE-001546,HF-M-000877,Appeal / Grievance,High,Closed,2026-01-19
+HF-CASE-001547,HF-M-002695,Care Coordination,Urgent,Closed,2026-04-21
+HF-CASE-001548,HF-M-003065,Prior Authorization Follow-up,High,Closed,2026-08-28
+HF-CASE-001549,HF-M-002755,Appeal / Grievance,Low,Closed,2025-10-19
+HF-CASE-001550,HF-M-001635,Appeal / Grievance,Low,Closed,2025-07-20
+HF-CASE-001551,HF-M-001478,Prior Authorization Follow-up,Medium,Closed,2025-01-24
+HF-CASE-001552,HF-M-002060,Appeal / Grievance,High,Closed,2026-09-11
+HF-CASE-001553,HF-M-000654,Prior Authorization Follow-up,Medium,Closed,2026-01-27
+HF-CASE-001554,HF-M-001706,Provider Network Inquiry,Low,Open,2025-08-03
+HF-CASE-001555,HF-M-001906,Appeal / Grievance,High,Closed,2025-03-03
+HF-CASE-001556,HF-M-003830,Enrollment Support,Urgent,Closed,2025-04-13
+HF-CASE-001557,HF-M-002961,Appeal / Grievance,Low,Open,2025-01-02
+HF-CASE-001558,HF-M-003130,Appeal / Grievance,Medium,Closed,2026-01-17
+HF-CASE-001559,HF-M-002615,Care Coordination,Urgent,Closed,2026-01-07
+HF-CASE-001560,HF-M-000834,Benefits Question,Medium,Closed,2026-08-07
+HF-CASE-001561,HF-M-001610,Care Coordination,Low,Escalated,2025-03-06
+HF-CASE-001562,HF-M-001589,Provider Network Inquiry,Low,Open,2025-12-01
+HF-CASE-001563,HF-M-002559,Benefits Question,Urgent,Open,2026-02-25
+HF-CASE-001564,HF-M-002988,Provider Network Inquiry,Low,Closed,2025-04-19
+HF-CASE-001565,HF-M-002056,Provider Network Inquiry,High,Closed,2026-03-04
+HF-CASE-001566,HF-M-000302,Provider Network Inquiry,Low,Open,2025-09-23
+HF-CASE-001567,HF-M-001407,Appeal / Grievance,High,Closed,2025-01-20
+HF-CASE-001568,HF-M-002631,Prior Authorization Follow-up,Low,Escalated,2025-05-17
+HF-CASE-001569,HF-M-002898,Prior Authorization Follow-up,High,Open,2025-09-05
+HF-CASE-001570,HF-M-000219,Benefits Question,High,Closed,2025-06-02
+HF-CASE-001571,HF-M-003952,Prior Authorization Follow-up,High,Closed,2025-03-03
+HF-CASE-001572,HF-M-003782,Benefits Question,High,Closed,2026-11-21
+HF-CASE-001573,HF-M-001719,Care Coordination,Medium,Open,2025-02-10
+HF-CASE-001574,HF-M-001678,Provider Network Inquiry,High,Escalated,2025-05-24
+HF-CASE-001575,HF-M-003573,Appeal / Grievance,High,Closed,2026-12-14
+HF-CASE-001576,HF-M-002392,Benefits Question,Low,Closed,2025-09-04
+HF-CASE-001577,HF-M-003470,Care Coordination,Low,Closed,2026-07-09
+HF-CASE-001578,HF-M-002692,Provider Network Inquiry,Urgent,Closed,2026-09-28
+HF-CASE-001579,HF-M-002202,Provider Network Inquiry,Medium,Closed,2026-08-08
+HF-CASE-001580,HF-M-000090,Provider Network Inquiry,Medium,Closed,2025-03-06
+HF-CASE-001581,HF-M-002157,Enrollment Support,Low,Escalated,2025-03-04
+HF-CASE-001582,HF-M-003529,Benefits Question,Urgent,Closed,2026-02-15
+HF-CASE-001583,HF-M-002909,Care Coordination,Urgent,Closed,2025-03-11
+HF-CASE-001584,HF-M-001834,Appeal / Grievance,Medium,Closed,2026-01-13
+HF-CASE-001585,HF-M-001255,Appeal / Grievance,Medium,Closed,2026-04-05
+HF-CASE-001586,HF-M-000099,Enrollment Support,Medium,Open,2025-05-19
+HF-CASE-001587,HF-M-002902,Provider Network Inquiry,Medium,Open,2026-09-23
+HF-CASE-001588,HF-M-001083,Benefits Question,Medium,Closed,2026-11-15
+HF-CASE-001589,HF-M-003924,Prior Authorization Follow-up,Medium,Closed,2026-02-23
+HF-CASE-001590,HF-M-000855,Care Coordination,Low,Closed,2025-10-20
+HF-CASE-001591,HF-M-003233,Enrollment Support,Low,Closed,2026-12-16
+HF-CASE-001592,HF-M-003192,Care Coordination,Medium,Open,2025-01-12
+HF-CASE-001593,HF-M-000124,Prior Authorization Follow-up,Medium,Closed,2026-11-13
+HF-CASE-001594,HF-M-000861,Prior Authorization Follow-up,Medium,Closed,2025-02-02
+HF-CASE-001595,HF-M-002371,Care Coordination,High,Closed,2026-04-09
+HF-CASE-001596,HF-M-002189,Care Coordination,Low,Closed,2026-06-01
+HF-CASE-001597,HF-M-003628,Benefits Question,Medium,Closed,2026-11-13
+HF-CASE-001598,HF-M-000814,Appeal / Grievance,Medium,Closed,2026-12-19
+HF-CASE-001599,HF-M-001814,Enrollment Support,Low,Escalated,2026-01-19
+HF-CASE-001600,HF-M-003191,Appeal / Grievance,Urgent,Closed,2026-06-27
+HF-CASE-001601,HF-M-002218,Enrollment Support,Low,Closed,2026-01-10
+HF-CASE-001602,HF-M-002454,Prior Authorization Follow-up,High,Closed,2025-10-04
+HF-CASE-001603,HF-M-000769,Enrollment Support,Low,Open,2026-03-13
+HF-CASE-001604,HF-M-003010,Enrollment Support,Medium,Closed,2026-01-10
+HF-CASE-001605,HF-M-001467,Enrollment Support,High,Closed,2025-12-17
+HF-CASE-001606,HF-M-000576,Benefits Question,High,Closed,2025-03-23
+HF-CASE-001607,HF-M-001339,Prior Authorization Follow-up,Medium,Closed,2026-09-19
+HF-CASE-001608,HF-M-000788,Provider Network Inquiry,Urgent,Closed,2025-01-18
+HF-CASE-001609,HF-M-002450,Prior Authorization Follow-up,Medium,Closed,2025-09-23
+HF-CASE-001610,HF-M-003968,Provider Network Inquiry,Low,Closed,2025-09-19
+HF-CASE-001611,HF-M-001505,Care Coordination,Low,Closed,2026-06-07
+HF-CASE-001612,HF-M-001134,Benefits Question,Low,Open,2026-03-04
+HF-CASE-001613,HF-M-001201,Prior Authorization Follow-up,High,Closed,2025-01-24
+HF-CASE-001614,HF-M-001510,Benefits Question,Medium,Closed,2026-03-06
+HF-CASE-001615,HF-M-003745,Care Coordination,Low,Closed,2025-03-10
+HF-CASE-001616,HF-M-000662,Prior Authorization Follow-up,Medium,Closed,2025-07-11
+HF-CASE-001617,HF-M-000472,Provider Network Inquiry,Low,Closed,2026-06-23
+HF-CASE-001618,HF-M-003094,Prior Authorization Follow-up,Urgent,Closed,2026-07-04
+HF-CASE-001619,HF-M-002545,Prior Authorization Follow-up,Low,Closed,2026-05-03
+HF-CASE-001620,HF-M-001961,Prior Authorization Follow-up,Medium,Closed,2026-08-01
+HF-CASE-001621,HF-M-001981,Prior Authorization Follow-up,Urgent,Closed,2025-03-01
+HF-CASE-001622,HF-M-000205,Enrollment Support,Low,Open,2026-07-07
+HF-CASE-001623,HF-M-001982,Appeal / Grievance,Low,Closed,2026-01-19
+HF-CASE-001624,HF-M-000268,Enrollment Support,Urgent,Closed,2026-12-15
+HF-CASE-001625,HF-M-000450,Prior Authorization Follow-up,Low,Closed,2025-08-20
+HF-CASE-001626,HF-M-002011,Appeal / Grievance,Low,Escalated,2025-11-16
+HF-CASE-001627,HF-M-000291,Care Coordination,Medium,Closed,2025-03-14
+HF-CASE-001628,HF-M-002400,Appeal / Grievance,Low,Closed,2025-07-08
+HF-CASE-001629,HF-M-002040,Prior Authorization Follow-up,High,Closed,2026-03-02
+HF-CASE-001630,HF-M-002211,Care Coordination,Medium,Closed,2025-10-04
+HF-CASE-001631,HF-M-003755,Enrollment Support,Medium,Open,2025-07-21
+HF-CASE-001632,HF-M-001166,Benefits Question,Urgent,Closed,2026-09-18
+HF-CASE-001633,HF-M-000644,Benefits Question,Medium,Closed,2025-11-03
+HF-CASE-001634,HF-M-001833,Care Coordination,Low,Closed,2026-11-17
+HF-CASE-001635,HF-M-001928,Care Coordination,Low,Closed,2025-04-04
+HF-CASE-001636,HF-M-001225,Prior Authorization Follow-up,Medium,Closed,2025-07-03
+HF-CASE-001637,HF-M-003857,Prior Authorization Follow-up,Low,Closed,2025-12-13
+HF-CASE-001638,HF-M-003212,Prior Authorization Follow-up,Medium,Closed,2025-05-09
+HF-CASE-001639,HF-M-002523,Provider Network Inquiry,Medium,Closed,2026-08-05
+HF-CASE-001640,HF-M-001453,Benefits Question,Low,Open,2026-06-22
+HF-CASE-001641,HF-M-002943,Care Coordination,Medium,Closed,2026-10-25
+HF-CASE-001642,HF-M-000728,Enrollment Support,Low,Escalated,2025-06-04
+HF-CASE-001643,HF-M-001719,Provider Network Inquiry,Low,Closed,2025-07-18
+HF-CASE-001644,HF-M-003926,Enrollment Support,Low,Open,2025-10-05
+HF-CASE-001645,HF-M-003730,Provider Network Inquiry,Low,Closed,2025-04-11
+HF-CASE-001646,HF-M-002520,Appeal / Grievance,Medium,Closed,2026-08-03
+HF-CASE-001647,HF-M-001460,Appeal / Grievance,Low,Open,2026-03-04
+HF-CASE-001648,HF-M-003556,Prior Authorization Follow-up,High,Escalated,2025-09-16
+HF-CASE-001649,HF-M-003789,Provider Network Inquiry,Low,Closed,2025-02-27
+HF-CASE-001650,HF-M-000450,Appeal / Grievance,High,Open,2025-11-26
+HF-CASE-001651,HF-M-001887,Provider Network Inquiry,Medium,Closed,2026-11-17
+HF-CASE-001652,HF-M-000574,Prior Authorization Follow-up,Low,Open,2026-06-23
+HF-CASE-001653,HF-M-002547,Provider Network Inquiry,Medium,Closed,2025-11-02
+HF-CASE-001654,HF-M-002243,Benefits Question,Medium,Closed,2026-06-26
+HF-CASE-001655,HF-M-000060,Enrollment Support,Medium,Closed,2025-01-16
+HF-CASE-001656,HF-M-003881,Care Coordination,High,Closed,2026-08-21
+HF-CASE-001657,HF-M-003455,Benefits Question,Low,Open,2025-12-12
+HF-CASE-001658,HF-M-003376,Enrollment Support,Medium,Closed,2026-09-05
+HF-CASE-001659,HF-M-003652,Care Coordination,Medium,Closed,2025-01-23
+HF-CASE-001660,HF-M-001119,Enrollment Support,Low,Closed,2025-02-24
+HF-CASE-001661,HF-M-002566,Benefits Question,Medium,Closed,2025-09-24
+HF-CASE-001662,HF-M-000169,Care Coordination,High,Closed,2026-07-21
+HF-CASE-001663,HF-M-001139,Benefits Question,Medium,Closed,2025-10-26
+HF-CASE-001664,HF-M-000803,Enrollment Support,Low,Open,2026-03-07
+HF-CASE-001665,HF-M-000611,Provider Network Inquiry,Medium,Closed,2025-05-19
+HF-CASE-001666,HF-M-003127,Provider Network Inquiry,Medium,Closed,2026-05-02
+HF-CASE-001667,HF-M-001669,Enrollment Support,High,Closed,2025-07-14
+HF-CASE-001668,HF-M-003124,Care Coordination,Urgent,Closed,2026-10-06
+HF-CASE-001669,HF-M-003010,Provider Network Inquiry,Low,Closed,2026-04-17
+HF-CASE-001670,HF-M-000664,Benefits Question,High,Closed,2025-07-20
+HF-CASE-001671,HF-M-002481,Appeal / Grievance,Medium,Closed,2026-02-08
+HF-CASE-001672,HF-M-000887,Appeal / Grievance,Medium,Closed,2025-02-21
+HF-CASE-001673,HF-M-000934,Appeal / Grievance,Low,Closed,2026-09-21
+HF-CASE-001674,HF-M-002406,Care Coordination,Medium,Closed,2026-05-26
+HF-CASE-001675,HF-M-000903,Benefits Question,High,Closed,2025-05-19
+HF-CASE-001676,HF-M-002716,Benefits Question,Low,Closed,2026-02-07
+HF-CASE-001677,HF-M-003662,Benefits Question,High,Open,2026-04-19
+HF-CASE-001678,HF-M-000067,Prior Authorization Follow-up,Low,Closed,2026-07-11
+HF-CASE-001679,HF-M-002771,Prior Authorization Follow-up,Low,Open,2025-02-26
+HF-CASE-001680,HF-M-000706,Provider Network Inquiry,Low,Closed,2025-05-24
+HF-CASE-001681,HF-M-000173,Appeal / Grievance,Low,Closed,2026-11-04
+HF-CASE-001682,HF-M-002513,Prior Authorization Follow-up,Medium,Closed,2026-04-08
+HF-CASE-001683,HF-M-002268,Appeal / Grievance,Medium,Closed,2026-07-06
+HF-CASE-001684,HF-M-003912,Prior Authorization Follow-up,Medium,Closed,2026-11-15
+HF-CASE-001685,HF-M-002266,Enrollment Support,Low,Closed,2026-08-07
+HF-CASE-001686,HF-M-000840,Care Coordination,Medium,Closed,2026-11-17
+HF-CASE-001687,HF-M-000821,Prior Authorization Follow-up,Low,Closed,2026-06-03
+HF-CASE-001688,HF-M-003292,Prior Authorization Follow-up,High,Closed,2025-06-03
+HF-CASE-001689,HF-M-001921,Care Coordination,Medium,Closed,2026-04-08
+HF-CASE-001690,HF-M-002831,Benefits Question,Low,Closed,2025-02-16
+HF-CASE-001691,HF-M-000551,Appeal / Grievance,Medium,Closed,2025-04-23
+HF-CASE-001692,HF-M-003425,Prior Authorization Follow-up,Low,Closed,2025-04-10
+HF-CASE-001693,HF-M-001053,Care Coordination,High,Closed,2025-08-04
+HF-CASE-001694,HF-M-000715,Enrollment Support,Urgent,Closed,2025-06-07
+HF-CASE-001695,HF-M-002741,Appeal / Grievance,Urgent,Open,2026-03-08
+HF-CASE-001696,HF-M-003297,Enrollment Support,Low,Closed,2026-05-09
+HF-CASE-001697,HF-M-001140,Appeal / Grievance,High,Closed,2026-05-21
+HF-CASE-001698,HF-M-002229,Provider Network Inquiry,Medium,Closed,2026-09-01
+HF-CASE-001699,HF-M-000187,Benefits Question,Medium,Closed,2026-03-27
+HF-CASE-001700,HF-M-002353,Care Coordination,High,Closed,2025-01-19
+HF-CASE-001701,HF-M-002876,Provider Network Inquiry,Medium,Closed,2025-04-27
+HF-CASE-001702,HF-M-003981,Care Coordination,Low,Closed,2025-11-06
+HF-CASE-001703,HF-M-002122,Enrollment Support,High,Closed,2025-01-03
+HF-CASE-001704,HF-M-002070,Prior Authorization Follow-up,High,Escalated,2026-03-13
+HF-CASE-001705,HF-M-002617,Benefits Question,Medium,Closed,2025-08-17
+HF-CASE-001706,HF-M-001808,Enrollment Support,Medium,Escalated,2025-11-26
+HF-CASE-001707,HF-M-003178,Provider Network Inquiry,Urgent,Closed,2025-05-02
+HF-CASE-001708,HF-M-000746,Enrollment Support,Medium,Open,2025-01-22
+HF-CASE-001709,HF-M-003480,Appeal / Grievance,High,Closed,2025-10-24
+HF-CASE-001710,HF-M-003604,Benefits Question,High,Closed,2025-02-12
+HF-CASE-001711,HF-M-003904,Care Coordination,High,Closed,2025-08-02
+HF-CASE-001712,HF-M-003887,Enrollment Support,Medium,Closed,2026-08-05
+HF-CASE-001713,HF-M-002685,Prior Authorization Follow-up,Low,Closed,2025-07-28
+HF-CASE-001714,HF-M-003195,Appeal / Grievance,Medium,Closed,2025-07-15
+HF-CASE-001715,HF-M-002618,Appeal / Grievance,Low,Closed,2026-06-02
+HF-CASE-001716,HF-M-003603,Provider Network Inquiry,Low,Closed,2026-03-28
+HF-CASE-001717,HF-M-000425,Prior Authorization Follow-up,Urgent,Escalated,2025-10-14
+HF-CASE-001718,HF-M-001464,Enrollment Support,Urgent,Closed,2025-10-17
+HF-CASE-001719,HF-M-002965,Prior Authorization Follow-up,Low,Closed,2025-04-08
+HF-CASE-001720,HF-M-001138,Appeal / Grievance,Medium,Closed,2025-12-26
+HF-CASE-001721,HF-M-002887,Prior Authorization Follow-up,High,Escalated,2025-07-06
+HF-CASE-001722,HF-M-001332,Enrollment Support,Urgent,Open,2025-04-22
+HF-CASE-001723,HF-M-002127,Appeal / Grievance,Urgent,Closed,2026-09-26
+HF-CASE-001724,HF-M-003394,Prior Authorization Follow-up,Medium,Closed,2025-02-01
+HF-CASE-001725,HF-M-003568,Provider Network Inquiry,High,Closed,2025-04-21
+HF-CASE-001726,HF-M-003063,Enrollment Support,Low,Open,2026-03-12
+HF-CASE-001727,HF-M-003482,Prior Authorization Follow-up,Low,Closed,2026-07-05
+HF-CASE-001728,HF-M-002269,Benefits Question,Medium,Closed,2026-10-03
+HF-CASE-001729,HF-M-001469,Provider Network Inquiry,Medium,Open,2025-01-01
+HF-CASE-001730,HF-M-000965,Prior Authorization Follow-up,Medium,Open,2025-11-18
+HF-CASE-001731,HF-M-000741,Prior Authorization Follow-up,Low,Closed,2026-11-21
+HF-CASE-001732,HF-M-003681,Provider Network Inquiry,High,Closed,2026-09-28
+HF-CASE-001733,HF-M-002525,Care Coordination,Low,Closed,2026-11-17
+HF-CASE-001734,HF-M-001379,Provider Network Inquiry,Medium,Closed,2026-12-08
+HF-CASE-001735,HF-M-002683,Enrollment Support,Medium,Closed,2026-04-08
+HF-CASE-001736,HF-M-002202,Prior Authorization Follow-up,Medium,Closed,2025-05-25
+HF-CASE-001737,HF-M-000422,Benefits Question,Low,Closed,2025-02-19
+HF-CASE-001738,HF-M-002927,Prior Authorization Follow-up,High,Open,2026-03-04
+HF-CASE-001739,HF-M-000396,Enrollment Support,Medium,Closed,2026-09-18
+HF-CASE-001740,HF-M-001852,Care Coordination,Low,Closed,2026-11-06
+HF-CASE-001741,HF-M-000818,Provider Network Inquiry,Low,Closed,2025-09-06
+HF-CASE-001742,HF-M-001627,Care Coordination,Medium,Closed,2026-10-01
+HF-CASE-001743,HF-M-000249,Appeal / Grievance,Urgent,Closed,2025-09-01
+HF-CASE-001744,HF-M-000410,Enrollment Support,Low,Open,2025-05-21
+HF-CASE-001745,HF-M-003812,Benefits Question,Medium,Closed,2025-03-19
+HF-CASE-001746,HF-M-001827,Enrollment Support,High,Open,2026-10-19
+HF-CASE-001747,HF-M-002573,Care Coordination,Low,Closed,2026-01-07
+HF-CASE-001748,HF-M-000932,Provider Network Inquiry,Low,Closed,2025-09-07
+HF-CASE-001749,HF-M-003424,Provider Network Inquiry,High,Open,2025-07-23
+HF-CASE-001750,HF-M-003046,Provider Network Inquiry,Low,Closed,2025-06-03
+HF-CASE-001751,HF-M-001339,Prior Authorization Follow-up,Low,Closed,2025-04-01
+HF-CASE-001752,HF-M-000956,Provider Network Inquiry,Medium,Open,2025-12-02
+HF-CASE-001753,HF-M-002869,Appeal / Grievance,Low,Open,2025-04-26
+HF-CASE-001754,HF-M-003872,Benefits Question,Low,Closed,2026-12-04
+HF-CASE-001755,HF-M-002267,Care Coordination,High,Open,2025-03-12
+HF-CASE-001756,HF-M-003799,Prior Authorization Follow-up,Low,Closed,2026-12-18
+HF-CASE-001757,HF-M-001205,Prior Authorization Follow-up,Medium,Closed,2026-06-14
+HF-CASE-001758,HF-M-002430,Provider Network Inquiry,High,Closed,2025-07-28
+HF-CASE-001759,HF-M-001438,Benefits Question,Low,Closed,2026-08-10
+HF-CASE-001760,HF-M-001007,Benefits Question,Medium,Closed,2026-05-21
+HF-CASE-001761,HF-M-001008,Enrollment Support,Medium,Closed,2026-01-09
+HF-CASE-001762,HF-M-003515,Enrollment Support,Low,Closed,2025-02-05
+HF-CASE-001763,HF-M-000493,Prior Authorization Follow-up,High,Closed,2025-08-19
+HF-CASE-001764,HF-M-001725,Benefits Question,Low,Escalated,2026-04-07
+HF-CASE-001765,HF-M-003162,Prior Authorization Follow-up,Urgent,Closed,2025-11-26
+HF-CASE-001766,HF-M-001849,Benefits Question,Medium,Closed,2026-09-06
+HF-CASE-001767,HF-M-001984,Prior Authorization Follow-up,Medium,Closed,2026-11-04
+HF-CASE-001768,HF-M-002691,Prior Authorization Follow-up,Low,Closed,2026-05-08
+HF-CASE-001769,HF-M-001919,Benefits Question,Medium,Closed,2026-08-17
+HF-CASE-001770,HF-M-001255,Enrollment Support,Medium,Closed,2025-07-11
+HF-CASE-001771,HF-M-002666,Provider Network Inquiry,Medium,Closed,2025-02-19
+HF-CASE-001772,HF-M-001614,Prior Authorization Follow-up,Low,Closed,2026-06-27
+HF-CASE-001773,HF-M-000888,Appeal / Grievance,Medium,Closed,2026-10-16
+HF-CASE-001774,HF-M-000175,Prior Authorization Follow-up,High,Open,2026-06-03
+HF-CASE-001775,HF-M-001381,Benefits Question,Low,Open,2025-09-20
+HF-CASE-001776,HF-M-000611,Prior Authorization Follow-up,Low,Closed,2025-07-14
+HF-CASE-001777,HF-M-003283,Prior Authorization Follow-up,Medium,Escalated,2025-09-20
+HF-CASE-001778,HF-M-001257,Prior Authorization Follow-up,Low,Closed,2026-06-09
+HF-CASE-001779,HF-M-001521,Appeal / Grievance,High,Open,2026-06-11
+HF-CASE-001780,HF-M-003193,Provider Network Inquiry,Medium,Closed,2025-02-12
+HF-CASE-001781,HF-M-001804,Appeal / Grievance,Medium,Closed,2026-05-13
+HF-CASE-001782,HF-M-003688,Enrollment Support,High,Closed,2026-08-06
+HF-CASE-001783,HF-M-000879,Appeal / Grievance,Medium,Closed,2026-04-24
+HF-CASE-001784,HF-M-001686,Benefits Question,Urgent,Closed,2026-05-25
+HF-CASE-001785,HF-M-003232,Prior Authorization Follow-up,Medium,Closed,2026-12-23
+HF-CASE-001786,HF-M-001760,Provider Network Inquiry,Medium,Closed,2026-10-04
+HF-CASE-001787,HF-M-001758,Provider Network Inquiry,Medium,Closed,2026-12-28
+HF-CASE-001788,HF-M-001626,Care Coordination,High,Closed,2026-09-01
+HF-CASE-001789,HF-M-001631,Enrollment Support,High,Closed,2025-09-14
+HF-CASE-001790,HF-M-000579,Care Coordination,Medium,Closed,2026-09-18
+HF-CASE-001791,HF-M-000218,Provider Network Inquiry,High,Closed,2026-08-13
+HF-CASE-001792,HF-M-001712,Appeal / Grievance,Medium,Closed,2025-03-08
+HF-CASE-001793,HF-M-002829,Appeal / Grievance,Medium,Closed,2025-01-01
+HF-CASE-001794,HF-M-003897,Appeal / Grievance,High,Open,2026-01-03
+HF-CASE-001795,HF-M-003374,Prior Authorization Follow-up,Low,Open,2026-01-26
+HF-CASE-001796,HF-M-000110,Provider Network Inquiry,Low,Closed,2025-05-15
+HF-CASE-001797,HF-M-000661,Benefits Question,Low,Closed,2025-06-13
+HF-CASE-001798,HF-M-003653,Provider Network Inquiry,Medium,Closed,2025-06-21
+HF-CASE-001799,HF-M-002205,Appeal / Grievance,Medium,Open,2025-01-13
+HF-CASE-001800,HF-M-001907,Provider Network Inquiry,Medium,Closed,2026-07-07
+HF-CASE-001801,HF-M-002374,Benefits Question,Urgent,Closed,2026-03-05
+HF-CASE-001802,HF-M-001603,Appeal / Grievance,Urgent,Closed,2025-08-26
+HF-CASE-001803,HF-M-001520,Provider Network Inquiry,Medium,Closed,2025-11-26
+HF-CASE-001804,HF-M-000378,Provider Network Inquiry,Low,Closed,2026-08-20
+HF-CASE-001805,HF-M-003000,Benefits Question,Medium,Closed,2026-02-12
+HF-CASE-001806,HF-M-002132,Benefits Question,Medium,Closed,2025-06-17
+HF-CASE-001807,HF-M-003462,Care Coordination,Low,Closed,2025-11-22
+HF-CASE-001808,HF-M-002681,Enrollment Support,Urgent,Closed,2025-11-03
+HF-CASE-001809,HF-M-001133,Appeal / Grievance,Medium,Closed,2025-07-12
+HF-CASE-001810,HF-M-003667,Prior Authorization Follow-up,Urgent,Open,2025-03-18
+HF-CASE-001811,HF-M-001392,Appeal / Grievance,Low,Closed,2026-05-21
+HF-CASE-001812,HF-M-000539,Provider Network Inquiry,Medium,Closed,2025-11-20
+HF-CASE-001813,HF-M-003570,Appeal / Grievance,Low,Escalated,2026-09-05
+HF-CASE-001814,HF-M-002262,Care Coordination,Medium,Closed,2025-09-23
+HF-CASE-001815,HF-M-003882,Provider Network Inquiry,Medium,Closed,2026-08-06
+HF-CASE-001816,HF-M-003715,Appeal / Grievance,Low,Escalated,2025-12-16
+HF-CASE-001817,HF-M-001900,Benefits Question,Medium,Closed,2025-10-05
+HF-CASE-001818,HF-M-002038,Prior Authorization Follow-up,High,Closed,2026-12-07
+HF-CASE-001819,HF-M-000509,Appeal / Grievance,Low,Closed,2026-11-01
+HF-CASE-001820,HF-M-002673,Benefits Question,Low,Closed,2026-08-01
+HF-CASE-001821,HF-M-001164,Appeal / Grievance,Low,Closed,2026-07-09
+HF-CASE-001822,HF-M-000515,Enrollment Support,Low,Open,2026-03-23
+HF-CASE-001823,HF-M-003161,Appeal / Grievance,Medium,Closed,2026-07-22
+HF-CASE-001824,HF-M-003063,Appeal / Grievance,High,Closed,2026-06-22
+HF-CASE-001825,HF-M-002320,Provider Network Inquiry,Medium,Closed,2026-04-18
+HF-CASE-001826,HF-M-003301,Appeal / Grievance,Low,Closed,2026-12-25
+HF-CASE-001827,HF-M-003467,Care Coordination,Urgent,Escalated,2026-09-05
+HF-CASE-001828,HF-M-002829,Care Coordination,Urgent,Closed,2025-08-26
+HF-CASE-001829,HF-M-001369,Appeal / Grievance,Medium,Closed,2025-11-21
+HF-CASE-001830,HF-M-001173,Appeal / Grievance,High,Closed,2026-02-19
+HF-CASE-001831,HF-M-002799,Benefits Question,Medium,Closed,2026-05-14
+HF-CASE-001832,HF-M-003237,Benefits Question,Low,Closed,2026-09-07
+HF-CASE-001833,HF-M-003686,Care Coordination,Low,Open,2026-01-13
+HF-CASE-001834,HF-M-001269,Benefits Question,Low,Closed,2026-07-19
+HF-CASE-001835,HF-M-000624,Benefits Question,Low,Closed,2026-10-27
+HF-CASE-001836,HF-M-003819,Provider Network Inquiry,Urgent,Open,2026-07-17
+HF-CASE-001837,HF-M-003675,Benefits Question,Medium,Open,2026-11-05
+HF-CASE-001838,HF-M-003815,Enrollment Support,Medium,Closed,2026-05-21
+HF-CASE-001839,HF-M-003252,Enrollment Support,Low,Closed,2025-11-20
+HF-CASE-001840,HF-M-002078,Care Coordination,Low,Closed,2026-11-11
+HF-CASE-001841,HF-M-000345,Appeal / Grievance,Urgent,Closed,2025-07-17
+HF-CASE-001842,HF-M-002971,Benefits Question,High,Closed,2025-07-16
+HF-CASE-001843,HF-M-002448,Benefits Question,Medium,Escalated,2025-10-20
+HF-CASE-001844,HF-M-000289,Enrollment Support,Low,Closed,2025-02-25
+HF-CASE-001845,HF-M-000442,Prior Authorization Follow-up,Medium,Closed,2025-09-06
+HF-CASE-001846,HF-M-003567,Care Coordination,Low,Closed,2026-05-04
+HF-CASE-001847,HF-M-003583,Provider Network Inquiry,High,Closed,2025-10-21
+HF-CASE-001848,HF-M-003329,Care Coordination,Medium,Closed,2026-12-28
+HF-CASE-001849,HF-M-003313,Appeal / Grievance,Urgent,Closed,2025-02-01
+HF-CASE-001850,HF-M-003494,Benefits Question,Medium,Closed,2025-10-22
+HF-CASE-001851,HF-M-002603,Provider Network Inquiry,Medium,Closed,2025-06-28
+HF-CASE-001852,HF-M-001027,Prior Authorization Follow-up,Medium,Closed,2025-06-20
+HF-CASE-001853,HF-M-003710,Provider Network Inquiry,High,Closed,2026-03-22
+HF-CASE-001854,HF-M-001526,Appeal / Grievance,High,Closed,2025-03-01
+HF-CASE-001855,HF-M-002255,Prior Authorization Follow-up,Medium,Closed,2026-01-19
+HF-CASE-001856,HF-M-002333,Appeal / Grievance,Medium,Closed,2026-04-01
+HF-CASE-001857,HF-M-001505,Care Coordination,Urgent,Closed,2025-07-07
+HF-CASE-001858,HF-M-003626,Benefits Question,Low,Closed,2025-07-26
+HF-CASE-001859,HF-M-000397,Care Coordination,Low,Escalated,2025-04-14
+HF-CASE-001860,HF-M-003799,Appeal / Grievance,Low,Closed,2025-08-01
+HF-CASE-001861,HF-M-002450,Appeal / Grievance,Medium,Closed,2026-01-05
+HF-CASE-001862,HF-M-002821,Prior Authorization Follow-up,Low,Open,2026-07-18
+HF-CASE-001863,HF-M-002228,Prior Authorization Follow-up,Medium,Open,2026-03-19
+HF-CASE-001864,HF-M-002403,Appeal / Grievance,Low,Open,2025-10-03
+HF-CASE-001865,HF-M-001736,Provider Network Inquiry,High,Closed,2025-09-07
+HF-CASE-001866,HF-M-000582,Enrollment Support,Medium,Closed,2025-06-01
+HF-CASE-001867,HF-M-002244,Enrollment Support,Medium,Closed,2025-02-28
+HF-CASE-001868,HF-M-001921,Appeal / Grievance,Low,Closed,2025-01-08
+HF-CASE-001869,HF-M-003526,Care Coordination,Medium,Closed,2026-01-07
+HF-CASE-001870,HF-M-000580,Prior Authorization Follow-up,Low,Closed,2026-04-08
+HF-CASE-001871,HF-M-003869,Prior Authorization Follow-up,Urgent,Open,2026-07-17
+HF-CASE-001872,HF-M-002110,Provider Network Inquiry,Medium,Closed,2026-04-09
+HF-CASE-001873,HF-M-001977,Appeal / Grievance,Medium,Open,2026-07-06
+HF-CASE-001874,HF-M-001358,Provider Network Inquiry,Medium,Closed,2026-09-26
+HF-CASE-001875,HF-M-001721,Enrollment Support,High,Closed,2026-01-13
+HF-CASE-001876,HF-M-001982,Enrollment Support,Medium,Closed,2025-09-08
+HF-CASE-001877,HF-M-001382,Enrollment Support,Low,Closed,2025-10-20
+HF-CASE-001878,HF-M-003355,Provider Network Inquiry,Urgent,Closed,2026-12-16
+HF-CASE-001879,HF-M-003198,Care Coordination,High,Closed,2026-05-18
+HF-CASE-001880,HF-M-003146,Provider Network Inquiry,High,Closed,2025-04-25
+HF-CASE-001881,HF-M-000428,Enrollment Support,Low,Closed,2026-10-20
+HF-CASE-001882,HF-M-002856,Appeal / Grievance,Low,Closed,2026-12-12
+HF-CASE-001883,HF-M-003529,Enrollment Support,Low,Closed,2026-10-13
+HF-CASE-001884,HF-M-002850,Benefits Question,High,Closed,2026-08-04
+HF-CASE-001885,HF-M-003039,Provider Network Inquiry,Low,Open,2026-04-22
+HF-CASE-001886,HF-M-002708,Provider Network Inquiry,Medium,Closed,2026-02-21
+HF-CASE-001887,HF-M-003804,Prior Authorization Follow-up,Low,Open,2026-04-19
+HF-CASE-001888,HF-M-001032,Prior Authorization Follow-up,Medium,Closed,2025-04-08
+HF-CASE-001889,HF-M-003881,Care Coordination,High,Closed,2026-04-10
+HF-CASE-001890,HF-M-002633,Benefits Question,Medium,Closed,2026-08-03
+HF-CASE-001891,HF-M-002651,Appeal / Grievance,Low,Closed,2026-04-23
+HF-CASE-001892,HF-M-000059,Enrollment Support,Low,Open,2025-07-01
+HF-CASE-001893,HF-M-001243,Prior Authorization Follow-up,Low,Closed,2026-01-20
+HF-CASE-001894,HF-M-001397,Appeal / Grievance,Low,Closed,2026-06-12
+HF-CASE-001895,HF-M-002629,Care Coordination,High,Closed,2026-05-02
+HF-CASE-001896,HF-M-003183,Benefits Question,Medium,Closed,2025-07-08
+HF-CASE-001897,HF-M-000699,Benefits Question,Medium,Open,2026-12-28
+HF-CASE-001898,HF-M-001352,Prior Authorization Follow-up,Low,Closed,2026-12-19
+HF-CASE-001899,HF-M-002465,Appeal / Grievance,High,Closed,2025-06-02
+HF-CASE-001900,HF-M-001071,Prior Authorization Follow-up,Low,Closed,2026-02-07
+HF-CASE-001901,HF-M-000749,Prior Authorization Follow-up,High,Open,2026-02-03
+HF-CASE-001902,HF-M-002230,Benefits Question,Medium,Escalated,2025-07-19
+HF-CASE-001903,HF-M-003884,Appeal / Grievance,Medium,Open,2026-11-03
+HF-CASE-001904,HF-M-000798,Appeal / Grievance,Low,Open,2026-05-14
+HF-CASE-001905,HF-M-002611,Prior Authorization Follow-up,High,Closed,2025-12-13
+HF-CASE-001906,HF-M-000326,Enrollment Support,High,Open,2026-07-23
+HF-CASE-001907,HF-M-000475,Appeal / Grievance,Medium,Closed,2025-10-25
+HF-CASE-001908,HF-M-000787,Appeal / Grievance,Medium,Escalated,2026-09-21
+HF-CASE-001909,HF-M-000580,Enrollment Support,Medium,Open,2025-01-19
+HF-CASE-001910,HF-M-003280,Benefits Question,Medium,Closed,2025-09-14
+HF-CASE-001911,HF-M-003868,Provider Network Inquiry,Medium,Closed,2026-02-14
+HF-CASE-001912,HF-M-002779,Provider Network Inquiry,Medium,Closed,2026-12-25
+HF-CASE-001913,HF-M-002336,Appeal / Grievance,Medium,Closed,2025-02-06
+HF-CASE-001914,HF-M-003449,Appeal / Grievance,Low,Closed,2025-11-15
+HF-CASE-001915,HF-M-000892,Care Coordination,Urgent,Open,2025-11-13
+HF-CASE-001916,HF-M-001386,Prior Authorization Follow-up,Medium,Closed,2026-06-25
+HF-CASE-001917,HF-M-001054,Enrollment Support,Low,Escalated,2026-09-27
+HF-CASE-001918,HF-M-000630,Enrollment Support,Medium,Open,2025-11-10
+HF-CASE-001919,HF-M-001177,Prior Authorization Follow-up,Urgent,Open,2026-08-02
+HF-CASE-001920,HF-M-000458,Care Coordination,Medium,Closed,2026-09-10
+HF-CASE-001921,HF-M-002523,Care Coordination,Low,Escalated,2026-09-28
+HF-CASE-001922,HF-M-003979,Benefits Question,Medium,Open,2026-02-13
+HF-CASE-001923,HF-M-002157,Prior Authorization Follow-up,Low,Closed,2026-04-21
+HF-CASE-001924,HF-M-002760,Benefits Question,Medium,Closed,2026-01-07
+HF-CASE-001925,HF-M-000168,Provider Network Inquiry,Low,Closed,2026-05-27
+HF-CASE-001926,HF-M-002906,Provider Network Inquiry,High,Open,2025-01-20
+HF-CASE-001927,HF-M-003407,Appeal / Grievance,Urgent,Open,2026-03-06
+HF-CASE-001928,HF-M-000335,Provider Network Inquiry,High,Closed,2025-04-22
+HF-CASE-001929,HF-M-003844,Appeal / Grievance,Medium,Open,2026-05-28
+HF-CASE-001930,HF-M-002896,Benefits Question,Low,Open,2025-02-02
+HF-CASE-001931,HF-M-003398,Care Coordination,Urgent,Closed,2025-03-24
+HF-CASE-001932,HF-M-002635,Benefits Question,High,Closed,2026-10-15
+HF-CASE-001933,HF-M-002569,Enrollment Support,Medium,Closed,2026-07-15
+HF-CASE-001934,HF-M-001208,Prior Authorization Follow-up,High,Closed,2025-03-12
+HF-CASE-001935,HF-M-000446,Prior Authorization Follow-up,Low,Closed,2026-05-06
+HF-CASE-001936,HF-M-002023,Care Coordination,Urgent,Open,2026-12-06
+HF-CASE-001937,HF-M-003318,Enrollment Support,High,Open,2026-09-15
+HF-CASE-001938,HF-M-002306,Provider Network Inquiry,Low,Closed,2026-06-11
+HF-CASE-001939,HF-M-000603,Benefits Question,Medium,Escalated,2025-01-08
+HF-CASE-001940,HF-M-001161,Prior Authorization Follow-up,Medium,Closed,2026-04-01
+HF-CASE-001941,HF-M-001038,Appeal / Grievance,High,Closed,2026-04-13
+HF-CASE-001942,HF-M-001426,Care Coordination,Medium,Closed,2025-10-26
+HF-CASE-001943,HF-M-000748,Prior Authorization Follow-up,Medium,Open,2026-02-23
+HF-CASE-001944,HF-M-003897,Enrollment Support,High,Escalated,2026-05-04
+HF-CASE-001945,HF-M-001276,Enrollment Support,Medium,Closed,2026-01-06
+HF-CASE-001946,HF-M-003720,Provider Network Inquiry,High,Closed,2026-08-11
+HF-CASE-001947,HF-M-003978,Prior Authorization Follow-up,Medium,Closed,2026-10-28
+HF-CASE-001948,HF-M-001108,Benefits Question,Medium,Closed,2026-03-17
+HF-CASE-001949,HF-M-002738,Benefits Question,Urgent,Closed,2026-07-05
+HF-CASE-001950,HF-M-003847,Appeal / Grievance,Urgent,Open,2026-03-16
+HF-CASE-001951,HF-M-000928,Benefits Question,High,Closed,2026-06-05
+HF-CASE-001952,HF-M-002171,Provider Network Inquiry,Medium,Open,2025-08-23
+HF-CASE-001953,HF-M-001642,Provider Network Inquiry,High,Closed,2026-07-21
+HF-CASE-001954,HF-M-002047,Care Coordination,High,Closed,2025-01-21
+HF-CASE-001955,HF-M-003066,Prior Authorization Follow-up,High,Closed,2025-06-26
+HF-CASE-001956,HF-M-001843,Provider Network Inquiry,Medium,Closed,2026-07-28
+HF-CASE-001957,HF-M-002297,Appeal / Grievance,High,Open,2025-03-15
+HF-CASE-001958,HF-M-000852,Appeal / Grievance,Low,Closed,2026-06-03
+HF-CASE-001959,HF-M-000552,Benefits Question,Low,Closed,2025-06-05
+HF-CASE-001960,HF-M-001009,Benefits Question,Urgent,Closed,2025-02-20
+HF-CASE-001961,HF-M-002507,Appeal / Grievance,Medium,Closed,2026-10-26
+HF-CASE-001962,HF-M-003585,Prior Authorization Follow-up,Medium,Closed,2026-08-22
+HF-CASE-001963,HF-M-001908,Benefits Question,High,Closed,2025-06-02
+HF-CASE-001964,HF-M-000877,Appeal / Grievance,Medium,Closed,2025-07-19
+HF-CASE-001965,HF-M-003096,Care Coordination,Medium,Open,2025-10-24
+HF-CASE-001966,HF-M-000416,Care Coordination,Medium,Open,2026-02-26
+HF-CASE-001967,HF-M-000122,Provider Network Inquiry,Medium,Open,2026-08-20
+HF-CASE-001968,HF-M-001014,Provider Network Inquiry,High,Closed,2025-10-05
+HF-CASE-001969,HF-M-003666,Prior Authorization Follow-up,Urgent,Closed,2026-09-19
+HF-CASE-001970,HF-M-003273,Benefits Question,Medium,Closed,2026-10-01
+HF-CASE-001971,HF-M-002613,Enrollment Support,Low,Closed,2026-02-06
+HF-CASE-001972,HF-M-002402,Prior Authorization Follow-up,High,Closed,2025-12-14
+HF-CASE-001973,HF-M-003025,Prior Authorization Follow-up,Low,Closed,2026-01-04
+HF-CASE-001974,HF-M-002063,Care Coordination,Urgent,Open,2025-01-23
+HF-CASE-001975,HF-M-001820,Enrollment Support,High,Closed,2025-08-17
+HF-CASE-001976,HF-M-001051,Benefits Question,High,Closed,2025-01-12
+HF-CASE-001977,HF-M-003652,Care Coordination,High,Closed,2025-05-25
+HF-CASE-001978,HF-M-002518,Care Coordination,Medium,Escalated,2026-09-21
+HF-CASE-001979,HF-M-003519,Provider Network Inquiry,High,Closed,2026-08-19
+HF-CASE-001980,HF-M-001817,Care Coordination,High,Closed,2026-09-10
+HF-CASE-001981,HF-M-001908,Prior Authorization Follow-up,Low,Closed,2026-08-06
+HF-CASE-001982,HF-M-003079,Enrollment Support,Low,Escalated,2025-12-15
+HF-CASE-001983,HF-M-002096,Provider Network Inquiry,Low,Closed,2025-01-28
+HF-CASE-001984,HF-M-002781,Care Coordination,Low,Closed,2026-05-04
+HF-CASE-001985,HF-M-003817,Appeal / Grievance,Medium,Closed,2026-05-16
+HF-CASE-001986,HF-M-000320,Prior Authorization Follow-up,Medium,Closed,2026-09-09
+HF-CASE-001987,HF-M-002189,Prior Authorization Follow-up,Urgent,Closed,2025-09-06
+HF-CASE-001988,HF-M-001106,Prior Authorization Follow-up,Medium,Closed,2026-09-12
+HF-CASE-001989,HF-M-003136,Benefits Question,Low,Escalated,2025-03-16
+HF-CASE-001990,HF-M-002594,Care Coordination,Medium,Closed,2025-09-03
+HF-CASE-001991,HF-M-001467,Provider Network Inquiry,Urgent,Closed,2025-07-21
+HF-CASE-001992,HF-M-000387,Care Coordination,Urgent,Closed,2025-12-11
+HF-CASE-001993,HF-M-002847,Appeal / Grievance,Medium,Closed,2026-06-03
+HF-CASE-001994,HF-M-002782,Enrollment Support,High,Closed,2025-04-25
+HF-CASE-001995,HF-M-000019,Provider Network Inquiry,Urgent,Open,2025-12-16
+HF-CASE-001996,HF-M-002545,Appeal / Grievance,High,Open,2026-10-22
+HF-CASE-001997,HF-M-002092,Prior Authorization Follow-up,Low,Closed,2025-05-08
+HF-CASE-001998,HF-M-003909,Appeal / Grievance,High,Closed,2026-05-03
+HF-CASE-001999,HF-M-001619,Prior Authorization Follow-up,Low,Closed,2025-04-23
+HF-CASE-002000,HF-M-003741,Provider Network Inquiry,Medium,Closed,2026-09-18
+HF-CASE-002001,HF-M-001973,Provider Network Inquiry,Medium,Closed,2025-05-07
+HF-CASE-002002,HF-M-003385,Prior Authorization Follow-up,Low,Closed,2025-07-24
+HF-CASE-002003,HF-M-001912,Benefits Question,Low,Closed,2026-07-08
+HF-CASE-002004,HF-M-001913,Appeal / Grievance,Low,Closed,2026-04-07
+HF-CASE-002005,HF-M-003370,Benefits Question,High,Escalated,2025-11-22
+HF-CASE-002006,HF-M-000038,Provider Network Inquiry,Low,Closed,2025-10-12
+HF-CASE-002007,HF-M-003452,Enrollment Support,Medium,Closed,2026-08-25
+HF-CASE-002008,HF-M-000533,Appeal / Grievance,Medium,Closed,2025-05-11
+HF-CASE-002009,HF-M-003552,Care Coordination,High,Open,2026-09-08
+HF-CASE-002010,HF-M-002327,Provider Network Inquiry,High,Open,2026-02-07
+HF-CASE-002011,HF-M-001490,Enrollment Support,Low,Closed,2025-11-09
+HF-CASE-002012,HF-M-001669,Care Coordination,Medium,Open,2026-09-27
+HF-CASE-002013,HF-M-003663,Enrollment Support,Medium,Closed,2025-03-09
+HF-CASE-002014,HF-M-003993,Prior Authorization Follow-up,Urgent,Open,2025-01-08
+HF-CASE-002015,HF-M-002088,Enrollment Support,Medium,Closed,2025-02-06
+HF-CASE-002016,HF-M-002414,Prior Authorization Follow-up,High,Closed,2026-05-11
+HF-CASE-002017,HF-M-000709,Prior Authorization Follow-up,High,Closed,2026-11-20
+HF-CASE-002018,HF-M-001691,Prior Authorization Follow-up,Medium,Closed,2026-03-17
+HF-CASE-002019,HF-M-000722,Enrollment Support,Medium,Closed,2026-09-18
+HF-CASE-002020,HF-M-003025,Enrollment Support,Low,Closed,2026-07-16
+HF-CASE-002021,HF-M-000421,Enrollment Support,Medium,Closed,2026-09-19
+HF-CASE-002022,HF-M-001027,Enrollment Support,Low,Closed,2026-12-23
+HF-CASE-002023,HF-M-003193,Benefits Question,High,Closed,2026-12-27
+HF-CASE-002024,HF-M-002227,Enrollment Support,Medium,Closed,2026-05-18
+HF-CASE-002025,HF-M-003394,Care Coordination,Medium,Closed,2025-05-19
+HF-CASE-002026,HF-M-002125,Prior Authorization Follow-up,High,Closed,2025-12-20
+HF-CASE-002027,HF-M-001775,Provider Network Inquiry,Urgent,Closed,2025-05-21
+HF-CASE-002028,HF-M-003892,Benefits Question,Medium,Closed,2026-03-04
+HF-CASE-002029,HF-M-003644,Benefits Question,High,Closed,2026-04-05
+HF-CASE-002030,HF-M-003491,Care Coordination,Low,Closed,2026-11-17
+HF-CASE-002031,HF-M-000533,Appeal / Grievance,High,Closed,2025-03-27
+HF-CASE-002032,HF-M-000872,Provider Network Inquiry,Low,Closed,2026-10-28
+HF-CASE-002033,HF-M-003054,Appeal / Grievance,Medium,Closed,2025-04-07
+HF-CASE-002034,HF-M-000442,Care Coordination,High,Closed,2026-07-25
+HF-CASE-002035,HF-M-002880,Provider Network Inquiry,Low,Closed,2026-09-20
+HF-CASE-002036,HF-M-000970,Prior Authorization Follow-up,Urgent,Closed,2026-06-21
+HF-CASE-002037,HF-M-002872,Care Coordination,Low,Closed,2025-12-25
+HF-CASE-002038,HF-M-002714,Prior Authorization Follow-up,Low,Closed,2026-04-26
+HF-CASE-002039,HF-M-002352,Care Coordination,High,Closed,2026-05-24
+HF-CASE-002040,HF-M-003214,Benefits Question,Medium,Closed,2026-05-04
+HF-CASE-002041,HF-M-001029,Provider Network Inquiry,Low,Closed,2025-02-18
+HF-CASE-002042,HF-M-003644,Appeal / Grievance,Low,Closed,2025-01-06
+HF-CASE-002043,HF-M-002983,Care Coordination,High,Closed,2026-10-14
+HF-CASE-002044,HF-M-002675,Enrollment Support,Urgent,Closed,2025-03-01
+HF-CASE-002045,HF-M-001371,Appeal / Grievance,Low,Escalated,2025-03-24
+HF-CASE-002046,HF-M-002165,Enrollment Support,Low,Closed,2025-09-12
+HF-CASE-002047,HF-M-001469,Enrollment Support,High,Closed,2025-10-17
+HF-CASE-002048,HF-M-000303,Enrollment Support,Low,Closed,2025-04-17
+HF-CASE-002049,HF-M-002175,Enrollment Support,Medium,Closed,2026-09-27
+HF-CASE-002050,HF-M-001722,Prior Authorization Follow-up,Medium,Closed,2025-03-08
+HF-CASE-002051,HF-M-003419,Benefits Question,Medium,Open,2026-01-02
+HF-CASE-002052,HF-M-000225,Appeal / Grievance,Low,Closed,2025-06-05
+HF-CASE-002053,HF-M-002910,Benefits Question,High,Closed,2026-01-15
+HF-CASE-002054,HF-M-001717,Benefits Question,Low,Escalated,2025-12-07
+HF-CASE-002055,HF-M-001297,Prior Authorization Follow-up,Low,Closed,2025-07-11
+HF-CASE-002056,HF-M-000193,Provider Network Inquiry,Low,Closed,2025-07-27
+HF-CASE-002057,HF-M-002849,Benefits Question,Urgent,Closed,2025-08-02
+HF-CASE-002058,HF-M-000386,Care Coordination,Low,Closed,2025-12-04
+HF-CASE-002059,HF-M-000594,Provider Network Inquiry,Urgent,Closed,2026-07-09
+HF-CASE-002060,HF-M-000551,Benefits Question,Medium,Closed,2026-08-14
+HF-CASE-002061,HF-M-002020,Appeal / Grievance,Medium,Open,2025-05-15
+HF-CASE-002062,HF-M-002215,Enrollment Support,Low,Closed,2025-11-05
+HF-CASE-002063,HF-M-001419,Provider Network Inquiry,Medium,Closed,2026-07-04
+HF-CASE-002064,HF-M-002789,Enrollment Support,Medium,Closed,2026-01-14
+HF-CASE-002065,HF-M-002724,Benefits Question,High,Open,2026-07-04
+HF-CASE-002066,HF-M-000602,Care Coordination,Low,Open,2025-08-20
+HF-CASE-002067,HF-M-000626,Provider Network Inquiry,High,Closed,2025-03-06
+HF-CASE-002068,HF-M-003119,Provider Network Inquiry,Medium,Closed,2026-12-17
+HF-CASE-002069,HF-M-001903,Benefits Question,Medium,Open,2025-11-05
+HF-CASE-002070,HF-M-003443,Benefits Question,Low,Closed,2026-03-23
+HF-CASE-002071,HF-M-003870,Provider Network Inquiry,Urgent,Open,2025-04-27
+HF-CASE-002072,HF-M-001430,Care Coordination,High,Open,2025-06-18
+HF-CASE-002073,HF-M-002684,Enrollment Support,Medium,Closed,2026-11-23
+HF-CASE-002074,HF-M-003040,Benefits Question,Low,Closed,2025-04-10
+HF-CASE-002075,HF-M-001160,Prior Authorization Follow-up,High,Closed,2025-03-03
+HF-CASE-002076,HF-M-000307,Appeal / Grievance,Medium,Closed,2025-02-28
+HF-CASE-002077,HF-M-003481,Appeal / Grievance,Medium,Closed,2025-10-13
+HF-CASE-002078,HF-M-000913,Care Coordination,Urgent,Closed,2025-11-22
+HF-CASE-002079,HF-M-000433,Care Coordination,High,Closed,2026-11-14
+HF-CASE-002080,HF-M-000626,Enrollment Support,Medium,Closed,2026-07-15
+HF-CASE-002081,HF-M-000451,Enrollment Support,Low,Open,2025-02-14
+HF-CASE-002082,HF-M-002040,Benefits Question,Urgent,Escalated,2025-03-04
+HF-CASE-002083,HF-M-003091,Enrollment Support,Urgent,Open,2026-04-06
+HF-CASE-002084,HF-M-003033,Prior Authorization Follow-up,Medium,Closed,2026-09-20
+HF-CASE-002085,HF-M-001179,Provider Network Inquiry,Low,Closed,2026-05-23
+HF-CASE-002086,HF-M-003961,Prior Authorization Follow-up,Low,Closed,2026-04-01
+HF-CASE-002087,HF-M-001383,Provider Network Inquiry,Medium,Closed,2025-09-05
+HF-CASE-002088,HF-M-000959,Enrollment Support,Low,Closed,2025-07-24
+HF-CASE-002089,HF-M-001209,Provider Network Inquiry,Medium,Open,2025-04-11
+HF-CASE-002090,HF-M-002879,Benefits Question,Medium,Closed,2026-11-28
+HF-CASE-002091,HF-M-001401,Prior Authorization Follow-up,Urgent,Closed,2026-11-18
+HF-CASE-002092,HF-M-000193,Prior Authorization Follow-up,Medium,Closed,2026-01-20
+HF-CASE-002093,HF-M-003482,Prior Authorization Follow-up,Medium,Closed,2026-01-16
+HF-CASE-002094,HF-M-001519,Prior Authorization Follow-up,Urgent,Closed,2026-12-06
+HF-CASE-002095,HF-M-000927,Enrollment Support,Medium,Closed,2025-11-03
+HF-CASE-002096,HF-M-001914,Provider Network Inquiry,Urgent,Closed,2025-12-09
+HF-CASE-002097,HF-M-002481,Benefits Question,Medium,Closed,2025-06-14
+HF-CASE-002098,HF-M-002874,Enrollment Support,High,Closed,2025-03-11
+HF-CASE-002099,HF-M-003183,Benefits Question,Medium,Escalated,2025-08-19
+HF-CASE-002100,HF-M-001172,Prior Authorization Follow-up,Low,Closed,2026-02-09
+HF-CASE-002101,HF-M-002705,Prior Authorization Follow-up,Medium,Closed,2025-11-05
+HF-CASE-002102,HF-M-000835,Prior Authorization Follow-up,Medium,Open,2025-10-02
+HF-CASE-002103,HF-M-001026,Enrollment Support,Low,Closed,2026-03-24
+HF-CASE-002104,HF-M-003106,Benefits Question,High,Closed,2026-05-19
+HF-CASE-002105,HF-M-001893,Benefits Question,Medium,Closed,2026-09-08
+HF-CASE-002106,HF-M-002313,Prior Authorization Follow-up,Low,Closed,2025-12-04
+HF-CASE-002107,HF-M-002102,Enrollment Support,High,Open,2025-09-27
+HF-CASE-002108,HF-M-000500,Benefits Question,Medium,Closed,2026-02-28
+HF-CASE-002109,HF-M-002301,Prior Authorization Follow-up,Medium,Closed,2026-11-28
+HF-CASE-002110,HF-M-003410,Benefits Question,Low,Closed,2025-05-16
+HF-CASE-002111,HF-M-002731,Provider Network Inquiry,High,Closed,2025-03-20
+HF-CASE-002112,HF-M-003631,Prior Authorization Follow-up,Medium,Closed,2025-11-26
+HF-CASE-002113,HF-M-003762,Care Coordination,Medium,Closed,2026-10-06
+HF-CASE-002114,HF-M-002786,Enrollment Support,High,Open,2025-12-25
+HF-CASE-002115,HF-M-003082,Care Coordination,Medium,Closed,2025-12-17
+HF-CASE-002116,HF-M-001442,Benefits Question,High,Closed,2026-11-15
+HF-CASE-002117,HF-M-001941,Appeal / Grievance,Medium,Closed,2025-04-15
+HF-CASE-002118,HF-M-000374,Provider Network Inquiry,Low,Closed,2026-03-10
+HF-CASE-002119,HF-M-003672,Care Coordination,Medium,Closed,2026-12-19
+HF-CASE-002120,HF-M-000032,Benefits Question,High,Open,2026-10-21
+HF-CASE-002121,HF-M-001969,Benefits Question,Urgent,Closed,2026-02-02
+HF-CASE-002122,HF-M-000442,Care Coordination,Medium,Closed,2026-06-12
+HF-CASE-002123,HF-M-001428,Benefits Question,Low,Open,2025-04-06
+HF-CASE-002124,HF-M-003405,Appeal / Grievance,Medium,Closed,2025-02-27
+HF-CASE-002125,HF-M-002128,Care Coordination,Medium,Closed,2026-12-16
+HF-CASE-002126,HF-M-000306,Prior Authorization Follow-up,Low,Closed,2025-10-16
+HF-CASE-002127,HF-M-003153,Enrollment Support,Medium,Closed,2025-10-09
+HF-CASE-002128,HF-M-001471,Benefits Question,Medium,Closed,2026-03-14
+HF-CASE-002129,HF-M-000360,Benefits Question,Low,Closed,2025-10-09
+HF-CASE-002130,HF-M-000409,Care Coordination,Medium,Open,2025-04-02
+HF-CASE-002131,HF-M-002277,Provider Network Inquiry,Medium,Closed,2026-10-10
+HF-CASE-002132,HF-M-001127,Prior Authorization Follow-up,Low,Open,2025-08-24
+HF-CASE-002133,HF-M-000887,Prior Authorization Follow-up,Low,Closed,2025-09-05
+HF-CASE-002134,HF-M-000829,Provider Network Inquiry,Medium,Closed,2026-09-09
+HF-CASE-002135,HF-M-001769,Prior Authorization Follow-up,High,Closed,2025-08-23
+HF-CASE-002136,HF-M-001668,Care Coordination,Medium,Closed,2026-05-21
+HF-CASE-002137,HF-M-000629,Care Coordination,Urgent,Open,2026-04-16
+HF-CASE-002138,HF-M-003721,Enrollment Support,High,Closed,2025-09-03
+HF-CASE-002139,HF-M-001433,Provider Network Inquiry,Urgent,Open,2026-10-22
+HF-CASE-002140,HF-M-002773,Care Coordination,Medium,Closed,2026-11-13
+HF-CASE-002141,HF-M-002571,Enrollment Support,Medium,Closed,2025-05-18
+HF-CASE-002142,HF-M-002222,Prior Authorization Follow-up,Low,Closed,2025-03-04
+HF-CASE-002143,HF-M-003425,Prior Authorization Follow-up,High,Closed,2025-04-16
+HF-CASE-002144,HF-M-001473,Care Coordination,Urgent,Open,2025-07-03
+HF-CASE-002145,HF-M-001092,Enrollment Support,Low,Closed,2026-04-16
+HF-CASE-002146,HF-M-003506,Prior Authorization Follow-up,Medium,Open,2025-05-02
+HF-CASE-002147,HF-M-002501,Care Coordination,Medium,Closed,2026-11-26
+HF-CASE-002148,HF-M-000479,Enrollment Support,High,Closed,2026-08-01
+HF-CASE-002149,HF-M-000995,Benefits Question,Medium,Escalated,2025-02-19
+HF-CASE-002150,HF-M-003282,Enrollment Support,Medium,Closed,2025-09-25
+HF-CASE-002151,HF-M-002347,Provider Network Inquiry,Low,Closed,2026-05-20
+HF-CASE-002152,HF-M-001085,Benefits Question,Medium,Closed,2026-08-07
+HF-CASE-002153,HF-M-003483,Provider Network Inquiry,Low,Closed,2025-02-19
+HF-CASE-002154,HF-M-001603,Appeal / Grievance,Medium,Closed,2025-01-03
+HF-CASE-002155,HF-M-000056,Enrollment Support,Medium,Closed,2025-03-23
+HF-CASE-002156,HF-M-002534,Appeal / Grievance,Medium,Closed,2026-12-16
+HF-CASE-002157,HF-M-001410,Appeal / Grievance,Urgent,Closed,2026-07-27
+HF-CASE-002158,HF-M-000293,Care Coordination,Low,Closed,2026-08-04
+HF-CASE-002159,HF-M-001148,Appeal / Grievance,Low,Closed,2026-12-10
+HF-CASE-002160,HF-M-001396,Appeal / Grievance,Medium,Open,2025-05-13
+HF-CASE-002161,HF-M-003133,Care Coordination,Low,Closed,2026-07-24
+HF-CASE-002162,HF-M-002340,Prior Authorization Follow-up,Medium,Closed,2025-01-20
+HF-CASE-002163,HF-M-002276,Care Coordination,High,Closed,2025-12-21
+HF-CASE-002164,HF-M-002494,Prior Authorization Follow-up,High,Closed,2026-03-15
+HF-CASE-002165,HF-M-000892,Care Coordination,Medium,Closed,2025-01-23
+HF-CASE-002166,HF-M-001107,Benefits Question,Low,Closed,2026-12-09
+HF-CASE-002167,HF-M-000562,Benefits Question,Low,Closed,2026-04-19
+HF-CASE-002168,HF-M-000010,Care Coordination,High,Open,2025-11-07
+HF-CASE-002169,HF-M-001712,Care Coordination,Low,Open,2025-11-02
+HF-CASE-002170,HF-M-003944,Prior Authorization Follow-up,Low,Closed,2026-05-20
+HF-CASE-002171,HF-M-001787,Provider Network Inquiry,High,Closed,2025-01-16
+HF-CASE-002172,HF-M-003488,Care Coordination,Medium,Closed,2025-04-25
+HF-CASE-002173,HF-M-001470,Provider Network Inquiry,Low,Closed,2026-03-11
+HF-CASE-002174,HF-M-002912,Benefits Question,Medium,Closed,2025-03-16
+HF-CASE-002175,HF-M-002779,Provider Network Inquiry,Medium,Closed,2025-02-10
+HF-CASE-002176,HF-M-001867,Prior Authorization Follow-up,Low,Closed,2025-12-09
+HF-CASE-002177,HF-M-000713,Provider Network Inquiry,Low,Open,2025-12-25
+HF-CASE-002178,HF-M-003959,Provider Network Inquiry,Low,Closed,2025-08-12
+HF-CASE-002179,HF-M-002344,Enrollment Support,Medium,Open,2025-09-21
+HF-CASE-002180,HF-M-002567,Care Coordination,Medium,Open,2026-09-18
+HF-CASE-002181,HF-M-003637,Care Coordination,Medium,Closed,2025-09-18
+HF-CASE-002182,HF-M-002405,Prior Authorization Follow-up,Medium,Open,2025-08-04
+HF-CASE-002183,HF-M-002114,Benefits Question,High,Closed,2025-05-14
+HF-CASE-002184,HF-M-001021,Benefits Question,High,Closed,2025-06-21
+HF-CASE-002185,HF-M-001957,Provider Network Inquiry,Low,Closed,2025-11-21
+HF-CASE-002186,HF-M-003760,Provider Network Inquiry,Low,Closed,2025-09-13
+HF-CASE-002187,HF-M-000704,Benefits Question,High,Closed,2025-02-23
+HF-CASE-002188,HF-M-002072,Appeal / Grievance,High,Closed,2026-06-02
+HF-CASE-002189,HF-M-000835,Appeal / Grievance,Medium,Open,2026-07-21
+HF-CASE-002190,HF-M-001378,Care Coordination,Low,Closed,2025-09-09
+HF-CASE-002191,HF-M-002891,Enrollment Support,Low,Open,2025-05-20
+HF-CASE-002192,HF-M-000095,Appeal / Grievance,Medium,Open,2025-12-05
+HF-CASE-002193,HF-M-000534,Benefits Question,Medium,Open,2025-03-05
+HF-CASE-002194,HF-M-000849,Prior Authorization Follow-up,High,Closed,2026-06-02
+HF-CASE-002195,HF-M-003873,Benefits Question,High,Open,2026-03-23
+HF-CASE-002196,HF-M-000625,Enrollment Support,Low,Open,2026-08-20
+HF-CASE-002197,HF-M-002664,Benefits Question,Low,Closed,2026-10-06
+HF-CASE-002198,HF-M-003219,Prior Authorization Follow-up,Medium,Open,2025-04-01
+HF-CASE-002199,HF-M-002636,Provider Network Inquiry,Medium,Closed,2025-03-27
+HF-CASE-002200,HF-M-002316,Prior Authorization Follow-up,High,Closed,2025-12-10

@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: stg_files__documents
+    description: "One row per file landed from S3/SharePoint (staged from the documents_manifest seed -- EOBs, prior-auth forms, credentialing packets, grievance correspondence)."
+    columns:
+      - name: doc_id
+        tests:
+          - unique
+          - not_null

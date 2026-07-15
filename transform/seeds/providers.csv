@@ -1,0 +1,351 @@
+provider_id,specialty,network_status,hospital_affiliated
+HF-P-00001,Pulmonology,In-Network,N
+HF-P-00002,Primary Care,In-Network,N
+HF-P-00003,Primary Care,In-Network,Y
+HF-P-00004,OB/GYN,In-Network,N
+HF-P-00005,Endocrinology,Out-of-Network,N
+HF-P-00006,Pulmonology,In-Network,N
+HF-P-00007,Pulmonology,In-Network,N
+HF-P-00008,Primary Care,Out-of-Network,N
+HF-P-00009,Oncology,In-Network,N
+HF-P-00010,Oncology,In-Network,Y
+HF-P-00011,Endocrinology,In-Network,N
+HF-P-00012,Endocrinology,In-Network,N
+HF-P-00013,Cardiology,In-Network,N
+HF-P-00014,Pediatrics,Out-of-Network,N
+HF-P-00015,Pediatrics,In-Network,Y
+HF-P-00016,Pulmonology,In-Network,Y
+HF-P-00017,Behavioral Health,Out-of-Network,N
+HF-P-00018,Orthopedics,In-Network,N
+HF-P-00019,Pediatrics,In-Network,N
+HF-P-00020,Pulmonology,Out-of-Network,N
+HF-P-00021,Endocrinology,In-Network,N
+HF-P-00022,Behavioral Health,Out-of-Network,Y
+HF-P-00023,OB/GYN,Out-of-Network,N
+HF-P-00024,Endocrinology,In-Network,Y
+HF-P-00025,Cardiology,In-Network,N
+HF-P-00026,Oncology,In-Network,N
+HF-P-00027,Primary Care,In-Network,N
+HF-P-00028,Nephrology,In-Network,N
+HF-P-00029,Oncology,In-Network,Y
+HF-P-00030,OB/GYN,Out-of-Network,N
+HF-P-00031,Behavioral Health,In-Network,N
+HF-P-00032,OB/GYN,In-Network,Y
+HF-P-00033,Pulmonology,In-Network,N
+HF-P-00034,OB/GYN,In-Network,Y
+HF-P-00035,Oncology,In-Network,N
+HF-P-00036,Behavioral Health,In-Network,Y
+HF-P-00037,Behavioral Health,In-Network,N
+HF-P-00038,Cardiology,In-Network,N
+HF-P-00039,Endocrinology,In-Network,N
+HF-P-00040,Behavioral Health,In-Network,N
+HF-P-00041,Pediatrics,In-Network,Y
+HF-P-00042,Behavioral Health,In-Network,N
+HF-P-00043,Behavioral Health,In-Network,Y
+HF-P-00044,Endocrinology,In-Network,Y
+HF-P-00045,Primary Care,In-Network,N
+HF-P-00046,Orthopedics,In-Network,Y
+HF-P-00047,OB/GYN,In-Network,N
+HF-P-00048,Nephrology,In-Network,N
+HF-P-00049,Pediatrics,In-Network,Y
+HF-P-00050,Cardiology,In-Network,Y
+HF-P-00051,OB/GYN,In-Network,N
+HF-P-00052,Primary Care,In-Network,N
+HF-P-00053,Oncology,In-Network,N
+HF-P-00054,Pulmonology,In-Network,N
+HF-P-00055,Oncology,In-Network,N
+HF-P-00056,Behavioral Health,In-Network,N
+HF-P-00057,Pulmonology,In-Network,Y
+HF-P-00058,Orthopedics,In-Network,N
+HF-P-00059,OB/GYN,In-Network,N
+HF-P-00060,Behavioral Health,In-Network,N
+HF-P-00061,Behavioral Health,In-Network,Y
+HF-P-00062,Behavioral Health,In-Network,N
+HF-P-00063,Oncology,In-Network,N
+HF-P-00064,Behavioral Health,In-Network,N
+HF-P-00065,Cardiology,In-Network,N
+HF-P-00066,OB/GYN,In-Network,N
+HF-P-00067,Behavioral Health,In-Network,N
+HF-P-00068,Behavioral Health,In-Network,N
+HF-P-00069,Behavioral Health,In-Network,N
+HF-P-00070,Nephrology,In-Network,N
+HF-P-00071,Oncology,In-Network,N
+HF-P-00072,Pulmonology,In-Network,Y
+HF-P-00073,Cardiology,In-Network,Y
+HF-P-00074,Endocrinology,In-Network,N
+HF-P-00075,Pulmonology,In-Network,N
+HF-P-00076,Oncology,In-Network,N
+HF-P-00077,Cardiology,In-Network,N
+HF-P-00078,Primary Care,In-Network,N
+HF-P-00079,OB/GYN,In-Network,N
+HF-P-00080,Pulmonology,In-Network,Y
+HF-P-00081,Orthopedics,In-Network,Y
+HF-P-00082,Pulmonology,In-Network,Y
+HF-P-00083,Nephrology,In-Network,N
+HF-P-00084,Pediatrics,In-Network,N
+HF-P-00085,Nephrology,In-Network,N
+HF-P-00086,Oncology,In-Network,Y
+HF-P-00087,Nephrology,In-Network,Y
+HF-P-00088,Behavioral Health,In-Network,N
+HF-P-00089,OB/GYN,In-Network,N
+HF-P-00090,Primary Care,In-Network,Y
+HF-P-00091,Oncology,Out-of-Network,N
+HF-P-00092,Behavioral Health,Out-of-Network,N
+HF-P-00093,Cardiology,In-Network,N
+HF-P-00094,Endocrinology,In-Network,N
+HF-P-00095,Primary Care,In-Network,N
+HF-P-00096,Primary Care,In-Network,N
+HF-P-00097,Primary Care,In-Network,N
+HF-P-00098,Behavioral Health,In-Network,Y
+HF-P-00099,Oncology,In-Network,N
+HF-P-00100,Behavioral Health,In-Network,Y
+HF-P-00101,Endocrinology,In-Network,Y
+HF-P-00102,Behavioral Health,In-Network,N
+HF-P-00103,Primary Care,In-Network,Y
+HF-P-00104,Primary Care,In-Network,N
+HF-P-00105,Endocrinology,In-Network,N
+HF-P-00106,Oncology,In-Network,Y
+HF-P-00107,Pulmonology,In-Network,N
+HF-P-00108,Behavioral Health,In-Network,N
+HF-P-00109,Behavioral Health,Out-of-Network,Y
+HF-P-00110,Cardiology,In-Network,Y
+HF-P-00111,Pulmonology,In-Network,N
+HF-P-00112,Pulmonology,In-Network,N
+HF-P-00113,Cardiology,Out-of-Network,Y
+HF-P-00114,OB/GYN,In-Network,N
+HF-P-00115,Pediatrics,In-Network,Y
+HF-P-00116,Behavioral Health,In-Network,Y
+HF-P-00117,OB/GYN,Out-of-Network,N
+HF-P-00118,Primary Care,In-Network,Y
+HF-P-00119,Nephrology,In-Network,N
+HF-P-00120,Orthopedics,In-Network,N
+HF-P-00121,Oncology,Out-of-Network,N
+HF-P-00122,Primary Care,In-Network,N
+HF-P-00123,Behavioral Health,In-Network,N
+HF-P-00124,Orthopedics,In-Network,Y
+HF-P-00125,Pulmonology,In-Network,N
+HF-P-00126,Pediatrics,In-Network,Y
+HF-P-00127,Orthopedics,In-Network,Y
+HF-P-00128,Pediatrics,In-Network,Y
+HF-P-00129,OB/GYN,In-Network,Y
+HF-P-00130,Pediatrics,In-Network,Y
+HF-P-00131,Oncology,In-Network,N
+HF-P-00132,Orthopedics,In-Network,N
+HF-P-00133,Cardiology,In-Network,N
+HF-P-00134,Pediatrics,In-Network,N
+HF-P-00135,Behavioral Health,Out-of-Network,N
+HF-P-00136,Nephrology,In-Network,Y
+HF-P-00137,Behavioral Health,In-Network,N
+HF-P-00138,Nephrology,In-Network,N
+HF-P-00139,Nephrology,In-Network,N
+HF-P-00140,Pulmonology,Out-of-Network,N
+HF-P-00141,Pulmonology,Out-of-Network,Y
+HF-P-00142,OB/GYN,In-Network,N
+HF-P-00143,Cardiology,In-Network,N
+HF-P-00144,Orthopedics,In-Network,Y
+HF-P-00145,Endocrinology,In-Network,N
+HF-P-00146,Pediatrics,Out-of-Network,N
+HF-P-00147,Behavioral Health,In-Network,N
+HF-P-00148,Endocrinology,In-Network,Y
+HF-P-00149,Pediatrics,Out-of-Network,N
+HF-P-00150,Primary Care,In-Network,Y
+HF-P-00151,Cardiology,In-Network,Y
+HF-P-00152,Nephrology,In-Network,Y
+HF-P-00153,Pediatrics,In-Network,N
+HF-P-00154,Orthopedics,Out-of-Network,N
+HF-P-00155,Pediatrics,In-Network,N
+HF-P-00156,Orthopedics,In-Network,N
+HF-P-00157,Pediatrics,In-Network,N
+HF-P-00158,Endocrinology,Out-of-Network,Y
+HF-P-00159,OB/GYN,In-Network,N
+HF-P-00160,Pediatrics,In-Network,N
+HF-P-00161,Pulmonology,In-Network,Y
+HF-P-00162,Cardiology,In-Network,N
+HF-P-00163,Behavioral Health,In-Network,Y
+HF-P-00164,Endocrinology,In-Network,N
+HF-P-00165,Primary Care,In-Network,N
+HF-P-00166,Pulmonology,Out-of-Network,Y
+HF-P-00167,Cardiology,In-Network,Y
+HF-P-00168,Orthopedics,In-Network,Y
+HF-P-00169,Endocrinology,In-Network,Y
+HF-P-00170,Oncology,In-Network,N
+HF-P-00171,OB/GYN,In-Network,N
+HF-P-00172,Pediatrics,In-Network,Y
+HF-P-00173,Pulmonology,Out-of-Network,Y
+HF-P-00174,Orthopedics,In-Network,N
+HF-P-00175,Primary Care,Out-of-Network,N
+HF-P-00176,Nephrology,In-Network,Y
+HF-P-00177,Behavioral Health,Out-of-Network,N
+HF-P-00178,Pediatrics,In-Network,N
+HF-P-00179,OB/GYN,In-Network,Y
+HF-P-00180,Pulmonology,In-Network,N
+HF-P-00181,Oncology,In-Network,N
+HF-P-00182,Primary Care,In-Network,N
+HF-P-00183,Cardiology,In-Network,N
+HF-P-00184,Endocrinology,Out-of-Network,Y
+HF-P-00185,Cardiology,In-Network,N
+HF-P-00186,Oncology,In-Network,N
+HF-P-00187,Pediatrics,In-Network,Y
+HF-P-00188,Pediatrics,In-Network,Y
+HF-P-00189,Nephrology,In-Network,Y
+HF-P-00190,Oncology,In-Network,N
+HF-P-00191,Behavioral Health,In-Network,N
+HF-P-00192,Primary Care,In-Network,N
+HF-P-00193,Endocrinology,In-Network,N
+HF-P-00194,OB/GYN,Out-of-Network,N
+HF-P-00195,Behavioral Health,In-Network,N
+HF-P-00196,Endocrinology,In-Network,Y
+HF-P-00197,Primary Care,In-Network,N
+HF-P-00198,Primary Care,Out-of-Network,N
+HF-P-00199,Endocrinology,In-Network,N
+HF-P-00200,Nephrology,In-Network,N
+HF-P-00201,Endocrinology,In-Network,N
+HF-P-00202,Primary Care,In-Network,N
+HF-P-00203,Oncology,In-Network,Y
+HF-P-00204,Behavioral Health,In-Network,Y
+HF-P-00205,Oncology,In-Network,N
+HF-P-00206,Cardiology,In-Network,N
+HF-P-00207,OB/GYN,Out-of-Network,N
+HF-P-00208,Cardiology,In-Network,Y
+HF-P-00209,Orthopedics,In-Network,N
+HF-P-00210,Cardiology,In-Network,Y
+HF-P-00211,Primary Care,In-Network,Y
+HF-P-00212,Pulmonology,In-Network,N
+HF-P-00213,Nephrology,In-Network,Y
+HF-P-00214,Primary Care,In-Network,Y
+HF-P-00215,Oncology,In-Network,Y
+HF-P-00216,Endocrinology,Out-of-Network,Y
+HF-P-00217,OB/GYN,Out-of-Network,Y
+HF-P-00218,Behavioral Health,In-Network,N
+HF-P-00219,Oncology,In-Network,N
+HF-P-00220,Nephrology,In-Network,Y
+HF-P-00221,Pediatrics,In-Network,N
+HF-P-00222,OB/GYN,In-Network,Y
+HF-P-00223,OB/GYN,In-Network,Y
+HF-P-00224,Endocrinology,Out-of-Network,N
+HF-P-00225,Cardiology,Out-of-Network,N
+HF-P-00226,Oncology,In-Network,Y
+HF-P-00227,Pulmonology,In-Network,N
+HF-P-00228,Nephrology,In-Network,N
+HF-P-00229,OB/GYN,In-Network,Y
+HF-P-00230,Oncology,In-Network,Y
+HF-P-00231,Endocrinology,In-Network,N
+HF-P-00232,Nephrology,In-Network,N
+HF-P-00233,Nephrology,In-Network,Y
+HF-P-00234,Cardiology,Out-of-Network,N
+HF-P-00235,Orthopedics,Out-of-Network,N
+HF-P-00236,Nephrology,In-Network,N
+HF-P-00237,Oncology,In-Network,N
+HF-P-00238,Pediatrics,In-Network,Y
+HF-P-00239,OB/GYN,Out-of-Network,N
+HF-P-00240,Behavioral Health,Out-of-Network,N
+HF-P-00241,Nephrology,In-Network,Y
+HF-P-00242,Pulmonology,In-Network,N
+HF-P-00243,Endocrinology,In-Network,N
+HF-P-00244,Pulmonology,In-Network,N
+HF-P-00245,Behavioral Health,In-Network,N
+HF-P-00246,Orthopedics,In-Network,Y
+HF-P-00247,Pulmonology,Out-of-Network,Y
+HF-P-00248,Endocrinology,In-Network,N
+HF-P-00249,OB/GYN,In-Network,N
+HF-P-00250,Oncology,In-Network,Y
+HF-P-00251,Cardiology,In-Network,Y
+HF-P-00252,Oncology,In-Network,N
+HF-P-00253,Primary Care,In-Network,Y
+HF-P-00254,Nephrology,Out-of-Network,N
+HF-P-00255,Nephrology,In-Network,Y
+HF-P-00256,Cardiology,In-Network,Y
+HF-P-00257,Orthopedics,In-Network,N
+HF-P-00258,Pediatrics,In-Network,Y
+HF-P-00259,Oncology,In-Network,Y
+HF-P-00260,Endocrinology,In-Network,N
+HF-P-00261,Primary Care,In-Network,Y
+HF-P-00262,Cardiology,In-Network,N
+HF-P-00263,Cardiology,In-Network,N
+HF-P-00264,Pediatrics,In-Network,N
+HF-P-00265,Endocrinology,In-Network,Y
+HF-P-00266,Pulmonology,Out-of-Network,Y
+HF-P-00267,Orthopedics,In-Network,Y
+HF-P-00268,Endocrinology,In-Network,N
+HF-P-00269,Behavioral Health,In-Network,N
+HF-P-00270,Behavioral Health,In-Network,Y
+HF-P-00271,Behavioral Health,In-Network,Y
+HF-P-00272,Oncology,In-Network,N
+HF-P-00273,Cardiology,In-Network,Y
+HF-P-00274,OB/GYN,In-Network,N
+HF-P-00275,Orthopedics,Out-of-Network,N
+HF-P-00276,Oncology,In-Network,N
+HF-P-00277,Orthopedics,In-Network,N
+HF-P-00278,Oncology,In-Network,Y
+HF-P-00279,Oncology,In-Network,Y
+HF-P-00280,Pulmonology,Out-of-Network,Y
+HF-P-00281,Oncology,In-Network,N
+HF-P-00282,Primary Care,In-Network,Y
+HF-P-00283,Pulmonology,Out-of-Network,N
+HF-P-00284,Oncology,In-Network,N
+HF-P-00285,OB/GYN,In-Network,N
+HF-P-00286,Pulmonology,Out-of-Network,N
+HF-P-00287,Pediatrics,In-Network,N
+HF-P-00288,Orthopedics,In-Network,Y
+HF-P-00289,Nephrology,In-Network,N
+HF-P-00290,Endocrinology,In-Network,Y
+HF-P-00291,Primary Care,In-Network,N
+HF-P-00292,Endocrinology,In-Network,N
+HF-P-00293,Oncology,In-Network,Y
+HF-P-00294,Pediatrics,In-Network,N
+HF-P-00295,Pediatrics,In-Network,N
+HF-P-00296,Primary Care,In-Network,N
+HF-P-00297,Oncology,In-Network,Y
+HF-P-00298,Orthopedics,In-Network,Y
+HF-P-00299,Oncology,In-Network,N
+HF-P-00300,Cardiology,In-Network,Y
+HF-P-00301,Endocrinology,In-Network,N
+HF-P-00302,Pediatrics,In-Network,Y
+HF-P-00303,Orthopedics,In-Network,Y
+HF-P-00304,OB/GYN,In-Network,Y
+HF-P-00305,Orthopedics,Out-of-Network,N
+HF-P-00306,Pulmonology,In-Network,N
+HF-P-00307,Cardiology,In-Network,N
+HF-P-00308,Endocrinology,In-Network,N
+HF-P-00309,OB/GYN,In-Network,Y
+HF-P-00310,Endocrinology,In-Network,N
+HF-P-00311,Behavioral Health,In-Network,Y
+HF-P-00312,Nephrology,In-Network,N
+HF-P-00313,OB/GYN,In-Network,Y
+HF-P-00314,Cardiology,In-Network,N
+HF-P-00315,Nephrology,In-Network,N
+HF-P-00316,Pulmonology,In-Network,N
+HF-P-00317,Endocrinology,Out-of-Network,N
+HF-P-00318,Orthopedics,In-Network,N
+HF-P-00319,Pediatrics,In-Network,N
+HF-P-00320,Pediatrics,In-Network,Y
+HF-P-00321,Pediatrics,In-Network,N
+HF-P-00322,Pediatrics,In-Network,Y
+HF-P-00323,Pulmonology,In-Network,N
+HF-P-00324,OB/GYN,In-Network,N
+HF-P-00325,Pediatrics,In-Network,N
+HF-P-00326,OB/GYN,In-Network,Y
+HF-P-00327,Orthopedics,In-Network,N
+HF-P-00328,Nephrology,In-Network,Y
+HF-P-00329,Pulmonology,In-Network,N
+HF-P-00330,Pulmonology,In-Network,N
+HF-P-00331,OB/GYN,Out-of-Network,N
+HF-P-00332,Nephrology,In-Network,N
+HF-P-00333,Pulmonology,In-Network,Y
+HF-P-00334,OB/GYN,In-Network,N
+HF-P-00335,Pulmonology,In-Network,Y
+HF-P-00336,Behavioral Health,In-Network,N
+HF-P-00337,Primary Care,In-Network,Y
+HF-P-00338,Nephrology,In-Network,Y
+HF-P-00339,Orthopedics,In-Network,N
+HF-P-00340,Pulmonology,In-Network,N
+HF-P-00341,Primary Care,In-Network,Y
+HF-P-00342,Pediatrics,In-Network,N
+HF-P-00343,Orthopedics,Out-of-Network,Y
+HF-P-00344,Pulmonology,In-Network,Y
+HF-P-00345,Primary Care,In-Network,N
+HF-P-00346,Endocrinology,In-Network,N
+HF-P-00347,OB/GYN,In-Network,N
+HF-P-00348,Orthopedics,In-Network,N
+HF-P-00349,Pulmonology,In-Network,Y
+HF-P-00350,Endocrinology,In-Network,N
