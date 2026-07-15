@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: Letter; margin: 0.6in 0.65in; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #171d28;
+    font-size: 9.5pt;
+    line-height: 1.45;
+  }
+  h1 { font-size: 17pt; color: #0f4c9c; margin: 0 0 2px 0; }
+  h2 {
+    font-size: 11.5pt; color: #0f4c9c; margin: 16px 0 6px 0;
+    border-bottom: 1.5px solid #0f4c9c; padding-bottom: 3px;
+  }
+  h3 { font-size: 10pt; color: #08284f; margin: 10px 0 3px 0; }
+  .subtitle { font-size: 10pt; color: #4d586b; margin: 0 0 4px 0; }
+  .meta { font-size: 8.5pt; color: #657286; margin-bottom: 10px; }
+  .meta a { color: #0ea894; }
+  .header-rule { border: none; border-top: 2px solid #0f4c9c; margin: 8px 0 12px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 6px 0 10px 0; }
+  th, td { text-align: left; padding: 4px 6px; font-size: 8.7pt; vertical-align: top; }
+  th { background: #0f4c9c; color: white; font-weight: 600; }
+  tr:nth-child(even) td { background: #f6f7f9; }
+  td.num { color: #0b8877; font-weight: 600; white-space: nowrap; }
+  .talk { background: #eaf1fb; border-left: 3px solid #0f4c9c; padding: 6px 10px; margin: 5px 0; }
+  .talk .label { font-weight: 700; color: #0f4c9c; font-size: 8pt; text-transform: uppercase; letter-spacing: 0.03em; }
+  .caveat { background: #fff8e6; border-left: 3px solid #c98a04; padding: 6px 10px; margin: 5px 0; font-size: 8.7pt; }
+  .caveat .label { font-weight: 700; color: #a66a00; font-size: 8pt; text-transform: uppercase; letter-spacing: 0.03em; }
+  ul, ol { margin: 4px 0 8px 18px; padding: 0; }
+  li { margin-bottom: 2px; }
+  .page-break { page-break-before: always; }
+  .footer-note { font-size: 8pt; color: #8b95a5; margin-top: 4px; }
+  code { background: #eceef2; padding: 1px 4px; border-radius: 3px; font-size: 8.5pt; }
+</style>
+</head>
+<body>
+
+<h1>Healthfirst &middot; Fivetran ODI Demo</h1>
+<p class="subtitle">Demo script &mdash; Mutual Evaluation Plan walkthrough</p>
+<p class="meta">
+  Live demo: <a href="https://fivetran-jasonchletsos.github.io/Healthfirst-ODI-Demo/">fivetran-jasonchletsos.github.io/Healthfirst-ODI-Demo</a>
+  &nbsp;&middot;&nbsp; Repo: github.com/fivetran-jasonchletsos/Healthfirst-ODI-Demo
+  &nbsp;&middot;&nbsp; Prepared for: Ari Rassler, Niraj Vora
+</p>
+<hr class="header-rule">
+
+<p>
+Three use cases from Healthfirst's Mutual Evaluation Plan drive this demo: <b>Salesforce</b> (Cloud Application
+Ingestion), <b>Oracle Database</b> (Database data Ingestion), and <b>S3/SharePoint</b> (File data Ingestion) &mdash;
+all landing in a single <b>AWS S3 Managed Data Lake</b> destination. Every capability claim in the app is sourced
+from a real fivetran.com/docs page and labeled confirmed / inferred / not verified &mdash; use that discipline in
+the room: if an evaluator pushes on a number, you can show them exactly where it comes from.
+</p>
+
+<div class="talk">
+  <span class="label">Opening line</span><br>
+  "Today, bringing on a new data source at Healthfirst means engineering builds and maintains a custom pipeline
+  &mdash; that's the backlog problem in your evaluation plan. What we're showing you is one platform: three
+  connectors, one governed lake, no per-source engineering lift."
+</div>
+
+<h2>1. Overview &mdash; set the scope</h2>
+<p>Land on <code>/</code>. Three source cards (Salesforce, Oracle, S3/SharePoint), each showing fastest sync
+frequency and delete-capture behavior. This is the "what are we actually testing" page &mdash; keep it short.</p>
+<table>
+  <tr><th>System</th><th>Role</th><th>Fastest sync</th><th>Deletes captured?</th></tr>
+  <tr><td>Salesforce</td><td>Member outreach, service cases (CRM)</td><td class="num">1 min (Ent./BC plan)</td><td>Yes (15-day Recycle Bin window)</td></tr>
+  <tr><td>Oracle Database</td><td>Core policy admin, enrollment, claims</td><td class="num">1 min (Ent./BC plan)</td><td>Yes (soft delete, <code>_fivetran_deleted</code>)</td></tr>
+  <tr><td>Amazon S3</td><td>Claims/eligibility landing files</td><td class="num">15 min (default floor)</td><td>Merge mode only</td></tr>
+  <tr><td>SharePoint</td><td>Policy docs, prior-auth forms</td><td class="num">15 min (default floor)</td><td><b>No</b> &mdash; confirmed on connector's own Features table</td></tr>
+</table>
+<div class="caveat">
+  <span class="label">Know this cold</span>
+  SharePoint does not capture deletes in either sync mode. If Healthfirst asks about delete-aware compliance
+  reporting on documents, be upfront: pair SharePoint with Oracle or Salesforce for anything that needs guaranteed
+  delete propagation.
+</div>
+
+<h2>2. Architecture &mdash; the MDLS story (spend the most time here)</h2>
+<p>Land on <code>/architecture</code>. This is the page Ari asked us to sell &mdash; the AWS S3 Managed Data Lake
+destination is the centerpiece, not a footnote.</p>
+<ul>
+  <li><b>Healthfirst owns the bucket.</b> Fivetran manages table structure, metadata, catalog, and maintenance;
+  the data itself lives in Healthfirst's own S3 bucket the whole time.</li>
+  <li><b>One copy, many engines.</b> Apache Iceberg tables + AWS Glue Data Catalog (Fivetran keeps both in sync
+  every run) mean Athena, Snowflake, Redshift, and EMR all read the same tables &mdash; no per-tool rebuild, no
+  waiting on the EDM backlog to stand up a new analysis.</li>
+  <li><b>Copy-on-Write.</b> Updates/deletes write a new Parquet file excluding the changed row rather than editing
+  in place &mdash; query engines always see correct, de-duplicated data.</li>
+  <li><b>Automated table maintenance.</b> Snapshot expiration, orphan-file cleanup (every other week), metadata
+  version retention &mdash; no customer-scheduled compaction jobs.</li>
+  <li><b>Validate and transform, downstream, on purpose.</b> Fivetran is extract-and-load only (no pre-load
+  cleansing beyond row filtering) &mdash; Great Expectations (GX Core, which Fivetran now stewards) validates
+  bronze before promotion to silver, and dbt Wizard (dbt Labs' AI agent, real and shipping post the Fivetran+dbt
+  Labs merger) authors the models that build silver/gold. This is a deliberate separation of concerns, not a gap.</li>
+</ul>
+<div class="talk">
+  <span class="label">If asked "why not just use Snowflake as the destination"</span><br>
+  "You can &mdash; Snowflake reads these same Iceberg tables via a catalog-linked database. The point of MDLS is
+  you're not choosing one warehouse to own the data; the data lives in your S3 bucket and every compatible engine
+  reads it the same way."
+</div>
+<div class="caveat">
+  <span class="label">Confirm before contract</span>
+  Partitioning strategy for the Iceberg/Delta tables (time/source/classification-based folder layout) is not
+  publicly documented by Fivetran for this destination &mdash; get this in writing from the Fivetran team before
+  making a partition-pruning performance promise to Healthfirst's engineers.
+</div>
+
+<div class="page-break"></div>
+
+<h2>3. Sources &mdash; the receipts</h2>
+<p>Land on <code>/sources</code>. This is the page to open if an evaluator says "prove it." Every row has a linked
+source doc. Talking points, one per connector:</p>
+<ul>
+  <li><b>Salesforce:</b> REST + Bulk API, incremental via timestamp fields; formula fields excluded from normal
+  sync (captured separately, reconstructed downstream) &mdash; a real nuance, not a gap to hide.</li>
+  <li><b>Oracle:</b> Binary Log Reader (log-based CDC on redo logs) is the method to lead with &mdash; LogMiner is
+  sunset May 15, 2026, don't propose it. Capacity ceiling: 200 GB/hour redo volume, 5 TB aggregate table size.</li>
+  <li><b>S3 / SharePoint:</b> Two sync modes each (Magic Folder = simple, full-file reload; Merge = pattern-based,
+  incremental, primary-key strategy locked after first sync).</li>
+</ul>
+
+<h2>4. POC Success Criteria &mdash; scored on Healthfirst's own rubric</h2>
+<p>Land on <code>/poc-criteria</code>. Structured on the customer's own capability matrix (Core A.I&ndash;A.XIII,
+Value-Add B.I&ndash;B.V) &mdash; this is the actual scoring sheet, not our own checklist.</p>
+<div class="talk">
+  <span class="label">The layer badge is the whole point</span><br>
+  Every requirement is tagged Fivetran / S3-Lake-Formation / Joint. Lead with this in the room: "we're not going to
+  tell you Fivetran does something AWS actually does &mdash; here's exactly which layer owns each capability."
+  Retention rules, legal holds, WORM storage, and tiered storage are honestly labeled as S3/Lake-Formation
+  capabilities Fivetran writes into, not Fivetran features.
+</div>
+<div class="caveat">
+  <span class="label">Items marked "not verified" &mdash; don't overclaim these live</span>
+  Resumable/multipart file uploads into MDLS specifically; structured per-record error quarantine with
+  correlation IDs; exponential-backoff phrasing for ingestion retries (Fivetran's retry is tiered, not
+  exponential, per its own docs). Say "let's confirm that with the Fivetran product team" rather than guessing.
+</div>
+
+<h2>5. Compliance &mdash; HIPAA leads, and say the shared-responsibility line out loud</h2>
+<p>Land on <code>/compliance</code>. Fivetran will sign a BAA and holds HITRUST i1 (tied to Business Critical
+plan), SOC 1/2, ISO 27001/27701, PCI DSS Level 1. Say this proactively: <i>"Fivetran's own docs are explicit that
+HIPAA compliance is shared &mdash; HHS doesn't certify HIPAA compliance for anyone. A signed BAA and HITRUST are
+necessary, not sufficient; Healthfirst still owns PHI classification, minimum-necessary access, and non-production
+data hygiene."</i> Saying this first builds more trust than an evaluator finding it themselves.</p>
+
+<h2>6. Dashboard &mdash; close on proof it's real, not slides</h2>
+<p>Land on <code>/dashboard</code>. Four charts built from four dbt marts over synthetic Healthfirst-style data
+(claims by plan/status, case volume by type, document classification, campaign performance). Close with: <i>"This
+is the same pipeline shape you'd see in production &mdash; Fivetran sync, dbt models, static snapshot here only
+because this is a demo environment, not a live account."</i></p>
+
+<p class="footer-note">
+Internal sales-engineering script. Every Fivetran capability claim in the linked app is sourced from Fivetran's
+published documentation (see the Sources column on each page); AWS/Lake-Formation-layer claims are labeled
+separately. No real Healthfirst data is used anywhere in this build &mdash; all seed data is synthetic.
+</p>
+
+</body>
+</html>
