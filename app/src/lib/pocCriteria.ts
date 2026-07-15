@@ -29,6 +29,8 @@ export interface CriteriaCategory {
   group: CapabilityGroup;
   categoryName: string;
   description: string;
+  /** One-line answer for the Capability Matrix table -- full detail is in the demo script, not the page. */
+  summary: string;
   rows: CriteriaRow[];
 }
 
@@ -38,6 +40,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Connector Breadth & Flexibility',
     description: 'Ability to connect to a wide range of data source types.',
+    summary: 'Native connectors for Salesforce, Oracle (CDC), and SharePoint/S3 -- no code required.',
     rows: [
       {
         requirement: 'Connect to Salesforce, Oracle, and SharePoint/S3 sources',
@@ -94,6 +97,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Structured, Semi-Structured, and Unstructured Data Support',
     description: 'Ingests structured, semi-structured, and unstructured data.',
+    summary: 'Structured + semi-structured confirmed; unstructured file support is Beta and source-limited.',
     rows: [
       {
         requirement: 'Ingest structured data (database rows, standard types)',
@@ -128,6 +132,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Real-Time (Streaming, API) + Batch Support',
     description: 'Handles both real-time streams (for AI/ML) and batch loads (for BI/reporting).',
+    summary: 'Micro-batch as fast as 1 minute -- not sub-second streaming.',
     rows: [
       {
         requirement: 'Support scheduled batch, real-time streaming, API, and file-drop ingestion',
@@ -168,6 +173,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Event-Driven Orchestration',
     description: 'Triggers ingestion based on events (file drop, API call, stream).',
+    summary: 'API/webhook-triggered syncs confirmed; native S3-event triggers need a Lambda bridge.',
     rows: [
       {
         requirement: 'Trigger ingestion from events (file drops, storage puts, API calls)',
@@ -200,6 +206,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Data Transformation on Ingest',
     description: 'Performs filtering, cleansing, and normalization before landing in the lakehouse.',
+    summary: 'Extract-and-load only -- cleansing/normalization runs downstream (dbt), not pre-load.',
     rows: [
       {
         requirement: 'Filter, cleanse, or normalize data before it lands in the destination',
@@ -216,6 +223,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Security & Compliance',
     description: 'Provides encryption, access control, and audit logging, supporting PHI/PII compliance.',
+    summary: 'TLS + KMS encryption, secrets vault, PrivateLink confirmed; legal holds/retention are AWS-side.',
     rows: [
       {
         requirement: 'Allow retention rules and legal holds to be set at time of ingestion',
@@ -228,7 +236,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
       {
         requirement: 'Encrypt data in transit and at rest using approved standards',
         fivetranAnswer:
-          'Dashboard and source/destination connections use TLS 1.2+ (SSL by default for databases). Stored data and credentials are encrypted at rest via Aurora database encryption plus an application-level encryption layer, keys managed in AWS KMS. Business Critical customers can supply a customer-managed key (CMK). See the Compliance page for the full HIPAA/BAA and certification picture.',
+          'Dashboard and source/destination connections use TLS 1.2+ (SSL by default for databases). Stored data and credentials are encrypted at rest via Aurora database encryption plus an application-level encryption layer, keys managed in AWS KMS. Business Critical customers can supply a customer-managed key (CMK). Fivetran will sign a HIPAA BAA and holds HITRUST i1 certification (tied to Business Critical) -- see the demo script for the full HIPAA/certification detail.',
         layer: 'fivetran',
         sourceUrls: ['https://fivetran.com/docs/core-concepts/data-credential-encryption', 'https://www.fivetran.com/security'],
         verification: 'confirmed',
@@ -256,6 +264,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Metadata Ingestion & Lineage',
     description: 'Captures the technical and operational metadata to enable governance, reproducibility, and cataloging.',
+    summary: 'Platform Connector gives schema/table/lineage metadata (Enterprise/Business Critical only).',
     rows: [
       {
         requirement: 'Make metadata captured at ingest usable for observability dashboards and impact analysis',
@@ -288,6 +297,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Schema Handling & Evolution',
     description: 'Detects, enforces, and evolves schema without pipeline breakage.',
+    summary: 'Automatic schema-drift detection and type widening for structured/semi-structured sources.',
     rows: [
       {
         requirement: 'Handle implicit datatype changes between source and target',
@@ -312,6 +322,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Data Quality Validation on Ingest',
     description: 'Performs schema validation, null checks, duplicate detection, and anomaly detection at ingest time.',
+    summary: 'Fivetran validates schema/types only -- deeper DQ checks run via Great Expectations (GX Core), downstream.',
     rows: [
       {
         requirement: 'Schema validation, null checks, duplicate detection, and anomaly detection',
@@ -336,6 +347,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Reliability & Fault Tolerance',
     description: 'Guarantees data delivery with retry, checkpointing, and exactly-once/at-least-once semantics.',
+    summary: 'Tiered auto-retry + checkpointed resume; 99.9% SLA on Enterprise/Business Critical.',
     rows: [
       {
         requirement: 'Gracefully handle pipeline failure without introducing duplicates or gaps',
@@ -376,6 +388,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Scalability & Performance',
     description: 'Ingests large-scale, high-throughput data reliably and efficiently.',
+    summary: 'High-Volume Agent scales log-based CDC; partitioning is an AWS/Glue setting, not Fivetran\'s.',
     rows: [
       {
         requirement: 'Scale to high throughput ingestion of large structured files and streams',
@@ -400,6 +413,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'Operational Resilience & Observability',
     description: 'Ensures ingestion pipelines are transparent, resilient, and diagnosable, with monitoring, alerting, and recovery mechanisms.',
+    summary: 'Standardized logs + usage metrics; full alerting/lineage UI needs a paired tool.',
     rows: [
       {
         requirement: 'Provide end-to-end observability: monitoring, logging, metrics, lineage, alerting',
@@ -424,6 +438,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Core',
     categoryName: 'AI-Assisted Pipeline Development',
     description: 'Uses ML/AI in aspects of data ingestion -- suggest mappings, detect PHI, anomalies, or optimize ingestion flows.',
+    summary: 'No native AI in ingestion; dbt Wizard (real, dbt Labs) assists downstream model-building.',
     rows: [
       {
         requirement: 'AI/ML-suggested schema mappings, PHI/PII detection, or ingestion-flow optimization',
@@ -444,6 +459,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Value-Add',
     categoryName: 'Cost Management Features',
     description: 'Provides monitoring, throttling, and cost optimization for ingestion workloads.',
+    summary: 'Exposes Monthly Active Rows + spend; storage tiering is an S3 Lifecycle setting.',
     rows: [
       {
         requirement: 'Expose ingestion cost metrics (throughput, storage, compute usage)',
@@ -468,6 +484,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Value-Add',
     categoryName: 'Native Lakehouse Format Support',
     description: 'Supports open table formats to reduce post-ingestion processing.',
+    summary: 'Writes Iceberg, auto-updates the catalog, self-maintains snapshots/orphan files.',
     rows: [
       {
         requirement: 'Store originals in secure, write-once (WORM) storage',
@@ -500,6 +517,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Value-Add',
     categoryName: 'Multi-Cloud & Hybrid Support',
     description: 'Works across cloud and on-prem systems, minimizing vendor lock-in.',
+    summary: 'SaaS or Hybrid -- agent runs in your VPC, Fivetran keeps the control plane.',
     rows: [
       {
         requirement: 'Deployment models: SaaS, Hybrid, and on-prem/self-hosted',
@@ -516,6 +534,7 @@ export const POC_CRITERIA: CriteriaCategory[] = [
     group: 'Value-Add',
     categoryName: 'Low-Code / No-Code Interfaces',
     description: 'Enables users to build pipelines without heavy coding, improving adoption.',
+    summary: 'Dashboard/API config for all standard connectors -- no code except the Connector SDK.',
     rows: [
       {
         requirement: 'Build and manage pipelines without writing code',

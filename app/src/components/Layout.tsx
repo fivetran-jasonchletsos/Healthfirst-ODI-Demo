@@ -4,8 +4,7 @@ const NAV_ITEMS = [
   { to: '/', label: 'Overview', end: true },
   { to: '/architecture', label: 'Architecture' },
   { to: '/sources', label: 'Sources' },
-  { to: '/poc-criteria', label: 'POC Criteria' },
-  { to: '/compliance', label: 'Compliance' },
+  { to: '/poc-criteria', label: 'Capability Matrix' },
   { to: '/dashboard', label: 'Dashboard' },
 ];
 
@@ -48,8 +47,8 @@ export default function Layout() {
         <div className="mx-auto max-w-6xl px-6 py-4 text-xs text-slate-500">
           Sales-engineering demo prepared for Healthfirst's Mutual Evaluation Plan (Salesforce, Oracle Database, and
           S3/SharePoint files landing in an AWS S3 Managed Data Lake). Every Fivetran capability claim is sourced from
-          Fivetran's published documentation, and every AWS-lake-layer claim is labeled as such -- see the Source
-          column on the Sources and POC Criteria pages for links.
+          Fivetran's published documentation, and every AWS-lake-layer claim is labeled as such -- see the
+          Documentation column on the Sources and Capability Matrix pages for links.
         </div>
       </footer>
     </div>

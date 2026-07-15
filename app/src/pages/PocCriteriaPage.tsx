@@ -1,10 +1,9 @@
-import { POC_CRITERIA, type CriteriaRow, type Layer } from '../lib/pocCriteria';
-import type { Verification } from '../lib/findings';
+import { POC_CRITERIA, type CriteriaCategory, type Layer } from '../lib/pocCriteria';
 
 const LAYER_LABEL: Record<Layer, string> = {
   fivetran: 'Fivetran',
-  s3_lake_formation: 'S3 / Lake Formation',
-  joint: 'Fivetran + Lake',
+  s3_lake_formation: 'AWS / Lake',
+  joint: 'Both',
   not_applicable: 'N/A',
 };
 
@@ -15,59 +14,75 @@ const LAYER_CLASSES: Record<Layer, string> = {
   not_applicable: 'bg-slate-100 text-slate-500',
 };
 
-const VERIFICATION_LABEL: Record<Verification, string> = {
-  confirmed: 'Confirmed',
-  inferred: 'Inferred',
-  unverified: 'Not verified',
-};
+function primaryLayer(category: CriteriaCategory): Layer {
+  const layers = new Set(category.rows.map((r) => r.layer));
+  if (layers.size === 1) return category.rows[0].layer;
+  return 'joint';
+}
 
-const VERIFICATION_CLASSES: Record<Verification, string> = {
-  confirmed: 'bg-emerald-100 text-emerald-800',
-  inferred: 'bg-amber-100 text-amber-800',
-  unverified: 'bg-red-100 text-red-800',
-};
+const MAX_DOCS_SHOWN = 3;
 
-function CriteriaRowCard({ row }: { row: CriteriaRow }) {
+function docsFor(category: CriteriaCategory): string[] {
+  return Array.from(new Set(category.rows.flatMap((r) => r.sourceUrls)));
+}
+
+function docLabel(url: string): string {
+  const path = url.replace(/^https?:\/\//, '').replace(/\/+$/, '');
+  const segment = path.split('/').pop() ?? path;
+  return segment.replace(/\.html?$/i, '').replace(/[-_]/g, ' ') || path;
+}
+
+function MatrixRow({ category }: { category: CriteriaCategory }) {
+  const layer = primaryLayer(category);
+  const docs = docsFor(category);
+  const shown = docs.slice(0, MAX_DOCS_SHOWN);
+  const remaining = docs.length - shown.length;
   return (
-    <div className="border-t border-slate-100 py-4 first:border-t-0 first:pt-0">
-      <div className="flex flex-wrap items-start justify-between gap-2">
-        <p className="text-sm font-semibold text-slate-800">{row.requirement}</p>
-        <div className="flex shrink-0 flex-wrap gap-1.5">
-          <span className={`badge ${LAYER_CLASSES[row.layer]}`}>{LAYER_LABEL[row.layer]}</span>
-          <span className={`badge ${VERIFICATION_CLASSES[row.verification]}`}>{VERIFICATION_LABEL[row.verification]}</span>
-        </div>
-      </div>
-      <p className="mt-2 text-sm leading-6 text-slate-600">{row.fivetranAnswer}</p>
-      {row.sourceUrls.length > 0 && (
-        <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs">
-          {row.sourceUrls.map((url) => (
-            <a key={url} href={url} target="_blank" rel="noreferrer" className="text-navy-500 underline underline-offset-2 hover:text-orange-600">
-              {url.replace('https://', '')}
-            </a>
+    <tr className="align-top odd:bg-white even:bg-slate-50">
+      <td className="whitespace-nowrap px-3 py-3 font-mono text-xs font-semibold text-orange-600">{category.id}</td>
+      <td className="px-3 py-3">
+        <p className="text-sm font-semibold text-slate-800">{category.categoryName}</p>
+        <p className="mt-0.5 text-xs text-slate-500">{category.description}</p>
+      </td>
+      <td className="px-3 py-3">
+        <p className="text-sm leading-5 text-slate-700">{category.summary}</p>
+        <span className={`badge mt-1.5 ${LAYER_CLASSES[layer]}`}>{LAYER_LABEL[layer]}</span>
+      </td>
+      <td className="px-3 py-3">
+        <ul className="space-y-1">
+          {shown.map((url) => (
+            <li key={url}>
+              <a href={url} target="_blank" rel="noreferrer" className="text-xs text-navy-500 underline underline-offset-2 hover:text-orange-600">
+                {docLabel(url)}
+              </a>
+            </li>
           ))}
-        </div>
-      )}
-    </div>
+          {remaining > 0 && <li className="text-xs text-slate-400">+{remaining} more (see demo script)</li>}
+        </ul>
+      </td>
+    </tr>
   );
 }
 
-function CategorySection({ category }: { category: (typeof POC_CRITERIA)[number] }) {
+function MatrixTable({ categories }: { categories: CriteriaCategory[] }) {
   return (
-    <details className="card group p-5" open>
-      <summary className="flex cursor-pointer list-none items-start justify-between gap-3">
-        <div>
-          <span className="font-mono text-xs font-semibold text-orange-600">{category.id}</span>{' '}
-          <span className="text-base font-semibold text-navy-500">{category.categoryName}</span>
-          <p className="mt-1 text-xs text-slate-500">{category.description}</p>
-        </div>
-        <span className="badge bg-slate-100 text-slate-500">{category.rows.length} item{category.rows.length === 1 ? '' : 's'}</span>
-      </summary>
-      <div className="mt-3">
-        {category.rows.map((row) => (
-          <CriteriaRowCard key={row.requirement} row={row} />
-        ))}
-      </div>
-    </details>
+    <div className="card overflow-x-auto">
+      <table className="min-w-full divide-y divide-slate-200">
+        <thead className="bg-navy-500 text-left text-xs font-semibold uppercase tracking-wide text-white">
+          <tr>
+            <th className="px-3 py-3">ID</th>
+            <th className="px-3 py-3">Capability</th>
+            <th className="px-3 py-3">Answer</th>
+            <th className="px-3 py-3">Documentation</th>
+          </tr>
+        </thead>
+        <tbody className="divide-y divide-slate-100">
+          {categories.map((c) => (
+            <MatrixRow key={c.id} category={c} />
+          ))}
+        </tbody>
+      </table>
+    </div>
   );
 }
 
@@ -76,30 +91,23 @@ export default function PocCriteriaPage() {
   const valueAdd = POC_CRITERIA.filter((c) => c.group === 'Value-Add');
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-6">
       <div>
-        <h1 className="text-2xl font-bold text-slate-900">POC Success Criteria</h1>
+        <h1 className="text-2xl font-bold text-slate-900">Capability Matrix</h1>
         <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-600">
-          Healthfirst and Fivetran agreed these technical capabilities are the basis for evaluating the POC.
-          Structured on the capability matrix (Core A.I-A.XIII, Value-Add B.I-B.V). Each requirement is graded on
-          which layer actually owns the capability -- a Fivetran-native feature, an AWS S3 / Lake Formation
-          capability Fivetran writes into but does not itself provide, or both jointly -- and labeled
-          confirmed / inferred / not verified against Fivetran's real published documentation.
+          Answers to Healthfirst's capability matrix (Core A.I-A.XIII, Value-Add B.I-B.V), each linked to Fivetran's
+          real documentation. Layer badge shows who owns the capability -- Fivetran, AWS/Lake Formation, or both.
         </p>
       </div>
 
-      <section className="space-y-4">
-        <h2 className="text-lg font-bold text-slate-900">Core</h2>
-        {core.map((category) => (
-          <CategorySection key={category.id} category={category} />
-        ))}
+      <section>
+        <h2 className="mb-2 text-base font-bold text-slate-900">Core</h2>
+        <MatrixTable categories={core} />
       </section>
 
-      <section className="space-y-4">
-        <h2 className="text-lg font-bold text-slate-900">Value-Add</h2>
-        {valueAdd.map((category) => (
-          <CategorySection key={category.id} category={category} />
-        ))}
+      <section>
+        <h2 className="mb-2 text-base font-bold text-slate-900">Value-Add</h2>
+        <MatrixTable categories={valueAdd} />
       </section>
     </div>
   );
